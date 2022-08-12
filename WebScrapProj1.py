@@ -8,7 +8,9 @@ import os
 import sys
 
 # This code will extract information about the animes in the year given by the user from the webssite myanimelist and show the genres
-# of the anime that year and create a dataframe with all the information about them
+# of the anime that year and create a dataframe with all the information about them. 
+# This scrpit will involve both data scrapping and data processing and visualisation
+
 anime_J_name = []
 anime_rank = []
 anime_members = []
