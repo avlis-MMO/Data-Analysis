@@ -7,7 +7,7 @@ import seaborn as sns
 import os
 import sys
 
-# This code will extract information about the animes in the year given by the user from the webssite my anime list and show the genres
+# This code will extract information about the animes in the year given by the user from the webssite myanimelist and show the genres
 # of the anime that year and create a dataframe with all the information about them
 anime_J_name = []
 anime_rank = []
