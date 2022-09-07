@@ -1,5 +1,5 @@
 # Introduction
-This python script will use the data gotten by the python script WebScrapProj3 and use it to present the information of the the top 500 people on the IMDb list.
+This python script will use the data gotten by the python script Scrap Data Top 500 IDMb and use it to present the information of the the top 500 people on the IMDb list. This data set may be not be update since the top 500 is always changing
 
 ## First figure
 The first figure given by this script will show 3 plots, 1 pie chart showing the percentage of males and females in the top 500, and two histograms with the age distribution of the two genders and average age.
