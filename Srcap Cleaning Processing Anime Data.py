@@ -1,7 +1,5 @@
-from unittest import skip
 from bs4 import BeautifulSoup as bs
 import requests
-import time
 import pandas as pd
 import os
 import numpy as np
