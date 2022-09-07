@@ -14,7 +14,7 @@ arr_year = np.arange(2000, 2021, 1)
 seasons = []
 dic = {}
 
-# This script was  made to get information about anime to try to use to predcit the score of animes to be aired
+# This script was  made to get information about anime from Myanimelist to try to use to predcit the score of animes to be aired
 # but after some training and analyses of that data i came to the conclusion that it is impossible to predict the score
 # with enough accuracy, beacause the score isnt dependent on the number of members or genre or number of genres
 # but the quality of the anime it self and people opinion
