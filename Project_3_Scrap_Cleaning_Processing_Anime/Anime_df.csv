@@ -1,0 +1,2778 @@
+index,Anime Genres,Anime Members,Anime Score
+528,"['Supernatural', 'Suspense']",3500000.0,8.62
+1552,"['Action', 'Drama']",3500000.0,8.53
+1018,"['Action', 'Adventure', 'Drama', 'Fantasy']",3000000.0,9.13
+1826,"['Action', 'Comedy']",2900000.0,8.51
+1447,"['Action', 'Adventure', 'Fantasy', 'Romance']",2800000.0,7.20
+2131,['Action'],2700000.0,7.92
+132,"['Action', 'Adventure', 'Fantasy']",2600000.0,7.97
+1783,"['Action', 'Fantasy', 'Horror']",2600000.0,7.79
+2754,"['Action', 'Fantasy']",2500000.0,8.53
+1185,"['Action', 'Adventure', 'Fantasy']",2500000.0,9.04
+2333,"['Action', 'Drama']",2400000.0,8.50
+1241,"['Drama', 'SciFi', 'Suspense']",2300000.0,9.08
+2334,['Action'],2300000.0,8.14
+1732,"['Comedy', 'Fantasy', 'Ecchi']",2200000.0,8.10
+723,"['Action', 'Adventure', 'Fantasy']",2200000.0,8.24
+2132,"['Drama', 'Fantasy', 'Suspense']",2000000.0,8.24
+823,"['Drama', 'Romance']",2000000.0,8.10
+2840,"['Action', 'Fantasy']",2000000.0,8.67
+2615,"['Action', 'Drama']",2000000.0,8.62
+1688,"['Action', 'Fantasy']",2000000.0,7.96
+529,"['Action', 'Drama', 'SciFi']",2000000.0,8.70
+1643,"['Drama', 'Romance']",2000000.0,8.66
+2085,['Mystery'],1900000.0,8.31
+1644,"['Action', 'Adventure', 'Fantasy']",1900000.0,7.70
+1186,"['Action', 'Supernatural', 'Suspense']",1900000.0,7.44
+1133,"['Drama', 'Supernatural']",1900000.0,8.07
+2755,"['Action', 'Drama']",1900000.0,9.07
+1784,"['Action', 'Fantasy']",1900000.0,7.47
+2549,['Action'],1900000.0,8.07
+2189,"['Action', 'Comedy', 'Supernatural']",1800000.0,8.48
+1785,"['Action', 'Adventure', 'Fantasy', 'Romance']",1800000.0,6.70
+1882,"['Action', 'Comedy']",1800000.0,8.10
+1242,"['Action', 'Fantasy']",1800000.0,7.51
+1733,['Sports'],1700000.0,8.45
+2714,"['Mystery', 'SciFi', 'Suspense']",1700000.0,8.53
+1645,"['Action', 'Horror', 'SciFi']",1700000.0,8.35
+306,"['Action', 'Adventure', 'Fantasy']",1700000.0,7.87
+2086,"['Adventure', 'Comedy', 'Fantasy']",1700000.0,8.12
+1883,"['Action', 'Fantasy', 'Horror']",1600000.0,7.03
+2499,"['Drama', 'Fantasy', 'SliceofLife']",1600000.0,8.67
+1474,"['Action', 'Comedy', 'Ecchi']",1600000.0,8.04
+890,"['Action', 'Drama', 'SciFi']",1600000.0,8.91
+1884,"['Drama', 'Supernatural', 'Suspense']",1600000.0,8.16
+956,"['Action', 'Adventure', 'Fantasy']",1600000.0,7.58
+2442,"['Comedy', 'Drama', 'Romance', 'Supernatural']",1500000.0,8.26
+2667,['Action'],1500000.0,7.94
+2802,"['Adventure', 'Comedy', 'SciFi']",1500000.0,8.29
+2715,['Comedy'],1500000.0,8.41
+1919,"['Gourmet', 'Ecchi']",1500000.0,8.17
+1331,"['Action', 'Adventure', 'Supernatural']",1500000.0,7.91
+1371,"['Horror', 'Mystery', 'Supernatural', 'Suspense']",1500000.0,7.49
+2756,"['Action', 'Comedy']",1500000.0,7.47
+749,"['Action', 'Adventure', 'Comedy', 'SciFi']",1500000.0,8.63
+891,"['Action', 'Comedy', 'Fantasy', 'Supernatural']",1500000.0,7.84
+1330,"['Action', 'SciFi', 'Suspense']",1500000.0,8.35
+2500,"['Action', 'Drama', 'Romance', 'SciFi']",1500000.0,7.23
+1243,"['Drama', 'SliceofLife', 'Supernatural']",1500000.0,8.32
+209,"['Action', 'Adventure', 'Drama', 'Fantasy']",1400000.0,8.12
+1553,"['Comedy', 'Fantasy', 'Romance', 'Supernatural']",1400000.0,7.77
+1920,"['Action', 'Adventure', 'Comedy', 'Fantasy', 'Romance']",1400000.0,7.56
+1164,"['Action', 'Horror', 'Supernatural', 'Ecchi']",1400000.0,7.08
+1968,['Drama'],1400000.0,7.75
+1969,"['Action', 'Adventure', 'Fantasy', 'Supernatural']",1400000.0,7.92
+404,"['Action', 'Drama', 'Horror', 'Romance', 'Supernatural']",1400000.0,7.50
+2716,"['Action', 'Adventure', 'Drama', 'Fantasy']",1400000.0,8.01
+1187,"['Action', 'Fantasy', 'Supernatural']",1400000.0,8.29
+2238,"['Action', 'Comedy', 'Fantasy']",1400000.0,8.13
+1828,['Sports'],1300000.0,8.64
+2393,"['Drama', 'Mystery']",1300000.0,7.26
+1111,"['Action', 'Mystery', 'Supernatural']",1300000.0,8.12
+2087,"['Action', 'Comedy']",1300000.0,8.50
+1554,"['Comedy', 'Romance']",1300000.0,8.02
+1827,"['Action', 'Fantasy']",1300000.0,8.17
+2717,"['Action', 'Comedy', 'Supernatural']",1300000.0,8.81
+2288,"['Adventure', 'Comedy', 'Fantasy']",1300000.0,8.28
+1057,"['Mystery', 'Romance', 'Supernatural']",1300000.0,8.34
+1372,"['Comedy', 'Romance', 'Ecchi']",1300000.0,7.34
+688,"['Drama', 'Romance', 'Supernatural']",1300000.0,8.01
+2443,"['Action', 'Adventure', 'Comedy', 'Fantasy']",1200000.0,8.13
+1398,"['Mystery', 'SliceofLife']",1200000.0,8.09
+2803,"['Action', 'Adventure', 'Drama']",1200000.0,8.73
+2133,"['Action', 'Comedy', 'Mystery', 'Supernatural']",1200000.0,7.82
+1921,"['Action', 'Drama', 'Supernatural']",1200000.0,7.49
+1333,"['Drama', 'Romance']",1200000.0,8.10
+1332,"['Comedy', 'Romance']",1200000.0,7.72
+2394,"['Adventure', 'Drama', 'Fantasy', 'Mystery', 'SciFi']",1200000.0,8.67
+1220,"['Drama', 'Suspense']",1200000.0,8.36
+2929,['Comedy'],1100000.0,8.65
+2289,"['Fantasy', 'SliceofLife']",1100000.0,7.99
+1734,"['Action', 'Adventure', 'Drama', 'Supernatural']",1100000.0,8.10
+1786,"['Mystery', 'Suspense']",1100000.0,8.10
+825,"['Action', 'Comedy', 'Mystery', 'Supernatural']",1100000.0,7.68
+1689,"['Comedy', 'Romance']",1100000.0,7.59
+1399,['Sports'],1100000.0,8.07
+2804,"['Action', 'Supernatural']",1100000.0,7.70
+1134,"['Comedy', 'Romance']",1100000.0,8.01
+1188,"['Action', 'Drama', 'SciFi']",1100000.0,7.43
+1475,"['Fantasy', 'SliceofLife', 'Supernatural']",1100000.0,7.74
+370,"['Action', 'Adventure', 'Comedy']",1100000.0,8.50
+824,"['Drama', 'Romance', 'Supernatural']",1100000.0,8.94
+1244,"['Action', 'Horror', 'SciFi', 'Supernatural']",1100000.0,7.16
+2021,['Sports'],1100000.0,8.79
+2395,['Drama'],1000000.0,7.86
+2190,"['Gourmet', 'Ecchi']",1000000.0,8.11
+2550,"['Action', 'Fantasy', 'Horror']",1000000.0,6.38
+2501,"['Action', 'Adventure', 'Fantasy', 'Supernatural']",1000000.0,7.62
+2718,"['Action', 'Adventure', 'Supernatural']",1000000.0,8.24
+1400,"['Action', 'Fantasy', 'Supernatural']",1000000.0,8.56
+1476,"['Action', 'Adventure', 'Fantasy']",1000000.0,7.94
+603,"['Comedy', 'Romance']",1000000.0,8.16
+1334,"['Comedy', 'Romance']",981000.0,7.48
+2444,"['Action', 'Adventure', 'Fantasy']",972000.0,7.42
+2134,"['Action', 'Adventure', 'Comedy', 'Drama', 'Supernatural']",970000.0,8.50
+1646,"['Action', 'Fantasy', 'Supernatural']",969000.0,8.19
+1019,['Comedy'],967000.0,7.85
+1735,"['Action', 'Romance', 'SciFi', 'Supernatural']",967000.0,7.43
+1885,"['Action', 'Adventure', 'Drama', 'Supernatural']",966000.0,8.44
+604,"['Action', 'Comedy', 'SciFi']",964000.0,8.95
+2976,"['Drama', 'Fantasy', 'Suspense']",962000.0,8.36
+1335,"['Action', 'Adventure', 'Fantasy']",958000.0,8.02
+1922,"['Comedy', 'Romance']",956000.0,8.22
+2191,"['Comedy', 'Supernatural']",954000.0,8.42
+1555,"['Comedy', 'Romance', 'SciFi']",938000.0,7.17
+2192,"['Drama', 'Romance', 'SliceofLife']",932000.0,7.98
+1477,"['Comedy', 'Drama', 'Romance']",929000.0,7.75
+2445,"['Action', 'Adventure', 'Fantasy']",924000.0,7.56
+1970,"['Comedy', 'Romance', 'Ecchi']",911000.0,7.62
+1736,"['Action', 'Adventure', 'Fantasy']",903000.0,7.66
+605,['Action'],899000.0,8.03
+371,"['Drama', 'Mystery', 'Suspense']",891000.0,8.84
+2502,"['Action', 'Adventure', 'Fantasy', 'Supernatural']",890000.0,7.76
+2239,"['Gourmet', 'Ecchi']",887000.0,8.03
+576,"['Action', 'Fantasy', 'Romance', 'Supernatural']",880000.0,7.29
+750,"['Action', 'Mystery', 'SciFi']",878000.0,8.07
+2446,"['Action', 'Adventure']",874000.0,8.58
+1601,"['Horror', 'Mystery']",867000.0,7.22
+606,"['Comedy', 'Mystery', 'SciFi', 'SliceofLife']",859000.0,7.84
+1737,"['Action', 'Mystery', 'SciFi']",858000.0,7.11
+1787,"['Comedy', 'Romance']",856000.0,7.85
+1923,"['Drama', 'Romance', 'SciFi']",854000.0,7.92
+1829,"['Action', 'Fantasy', 'Romance', 'Ecchi']",850000.0,7.46
+2551,['Romance'],848000.0,7.95
+800,"['Action', 'Comedy', 'Mystery', 'Supernatural']",845000.0,8.38
+1602,"['Action', 'Comedy', 'Romance', 'Ecchi']",842000.0,7.49
+2977,"['Comedy', 'Romance']",838000.0,7.17
+1788,"['Drama', 'Romance', 'SliceofLife']",829000.0,7.65
+957,"['Drama', 'Romance', 'SliceofLife']",826000.0,8.00
+2719,"['Comedy', 'Romance']",809000.0,7.67
+2290,['Action'],806000.0,7.97
+1245,['Comedy'],806000.0,8.46
+2240,['Fantasy'],805000.0,8.07
+2022,['Sports'],805000.0,7.91
+2888,['Sports'],803000.0,8.36
+1336,"['Action', 'SciFi']",801000.0,7.31
+2930,"['Action', 'Adventure', 'Drama', 'Fantasy', 'Mystery']",799000.0,7.56
+1924,"['Action', 'Comedy', 'Fantasy', 'Supernatural']",792000.0,7.61
+2978,"['Action', 'Fantasy', 'SciFi', 'Supernatural']",788000.0,7.07
+1925,"['Action', 'Fantasy', 'Supernatural']",782000.0,8.32
+2552,"['Drama', 'SciFi', 'Suspense']",781000.0,8.52
+1478,"['Action', 'Adventure', 'Fantasy']",780000.0,8.23
+2616,"['Action', 'Fantasy', 'Supernatural']",779000.0,7.93
+1448,"['Drama', 'Romance', 'Supernatural']",777000.0,7.76
+1479,['Sports'],773000.0,8.23
+2335,"['Action', 'Adventure', 'Fantasy']",771000.0,5.78
+1647,"['Action', 'Comedy', 'Fantasy', 'Romance', 'Supernatural', 'Ecchi']",768000.0,7.08
+1648,"['Action', 'Adventure', 'Comedy', 'Fantasy', 'Romance']",767000.0,8.03
+2291,"['Comedy', 'Romance']",763000.0,6.74
+665,"['Action', 'Adventure', 'Comedy', 'Fantasy', 'Romance', 'Ecchi']",762000.0,7.25
+2447,"['Action', 'Fantasy', 'Horror']",759000.0,6.41
+422,"['Adventure', 'Fantasy', 'Mystery', 'SliceofLife', 'Supernatural']",756000.0,8.67
+1189,"['Comedy', 'Romance', 'Ecchi']",756000.0,7.18
+826,"['Action', 'SciFi']",755000.0,7.37
+866,"['Adventure', 'Fantasy', 'Romance']",755000.0,8.23
+2668,"['Drama', 'SliceofLife']",754000.0,7.87
+1373,['Comedy'],751000.0,8.24
+607,"['Horror', 'Mystery', 'Supernatural', 'Suspense']",749000.0,7.90
+2193,"['Drama', 'Romance', 'SciFi']",744000.0,7.62
+1603,['Sports'],744000.0,7.34
+2135,"['Action', 'Drama', 'Fantasy', 'Horror', 'Supernatural']",742000.0,7.26
+2617,"['Action', 'Adventure', 'Drama']",742000.0,8.50
+1971,"['Action', 'Adventure', 'Comedy', 'Fantasy']",736000.0,7.42
+1926,"['Action', 'Comedy', 'Romance', 'Ecchi']",735000.0,7.43
+1972,"['Action', 'Adventure', 'Fantasy']",730000.0,7.70
+1973,"['Comedy', 'Ecchi']",728000.0,7.25
+2023,"['Action', 'Mystery', 'Supernatural']",728000.0,8.20
+1337,"['Drama', 'Horror', 'Mystery', 'SciFi', 'Supernatural']",728000.0,8.30
+0,"['Action', 'Adventure', 'Comedy', 'Fantasy', 'Romance', 'Supernatural']",727000.0,7.85
+1927,"['Comedy', 'Mystery', 'Romance', 'Supernatural']",715000.0,7.57
+1338,"['Action', 'Mystery', 'Supernatural']",713000.0,7.45
+2805,"['Action', 'Adventure', 'Comedy', 'Fantasy', 'Romance']",713000.0,7.23
+1830,"['Action', 'Drama', 'Supernatural']",712000.0,7.62
+2136,['Comedy'],700000.0,7.56
+2757,"['Drama', 'Fantasy', 'Romance']",698000.0,8.22
+2292,"['Action', 'Fantasy']",691000.0,7.36
+2720,"['Drama', 'Mystery']",689000.0,7.20
+1374,"['Comedy', 'Mystery', 'Supernatural', 'Ecchi']",687000.0,8.15
+1974,"['Comedy', 'Fantasy', 'Romance', 'Ecchi']",686000.0,6.99
+1886,['Sports'],684000.0,8.31
+2841,['Sports'],683000.0,8.54
+1690,"['Comedy', 'Romance']",680000.0,7.55
+2137,"['Drama', 'Romance', 'SciFi']",678000.0,7.39
+1401,"['Action', 'Romance', 'SciFi']",676000.0,7.24
+666,"['Comedy', 'Drama', 'Romance']",668000.0,8.32
+2618,['Comedy'],666000.0,8.43
+2088,"['Action', 'Adventure', 'Drama', 'Fantasy']",664000.0,7.65
+2336,"['Comedy', 'Drama', 'Romance', 'Ecchi']",661000.0,6.38
+49,"['Action', 'Horror', 'Supernatural']",661000.0,7.49
+2194,"['Action', 'Adventure', 'Fantasy']",656000.0,7.00
+2669,"['Action', 'Adventure', 'Fantasy']",656000.0,7.58
+2396,"['Comedy', 'Romance']",655000.0,7.58
+2721,"['Drama', 'Romance']",653000.0,6.69
+2553,"['Gourmet', 'Ecchi']",651000.0,7.98
+530,"['Action', 'Adventure', 'Comedy']",650000.0,8.02
+1079,['Comedy'],648000.0,6.99
+2670,"['Action', 'Adventure', 'Fantasy', 'Supernatural']",645000.0,6.45
+2337,"['Action', 'Fantasy']",644000.0,7.15
+1604,"['Action', 'Comedy', 'Supernatural']",643000.0,7.27
+2195,"['Action', 'Drama']",641000.0,7.83
+1928,"['Comedy', 'Romance']",640000.0,7.36
+867,"['Comedy', 'Fantasy', 'Romance', 'Ecchi']",639000.0,6.76
+2979,"['Action', 'Fantasy']",638000.0,7.38
+2980,"['Action', 'Supernatural']",636000.0,7.79
+2619,"['Comedy', 'Fantasy', 'Ecchi']",636000.0,6.88
+1975,['Comedy'],636000.0,7.12
+1135,['Comedy'],635000.0,8.17
+2981,"['Comedy', 'Romance']",625000.0,8.37
+751,"['Action', 'Adventure', 'Fantasy', 'Supernatural']",625000.0,7.75
+1605,"['Comedy', 'Mystery', 'Romance', 'Supernatural']",622000.0,8.77
+2024,"['Drama', 'SliceofLife']",619000.0,8.39
+2293,"['Drama', 'Romance']",619000.0,7.17
+801,"['Drama', 'Romance']",619000.0,5.54
+1887,"['Action', 'Fantasy', 'Romance', 'Ecchi']",615000.0,6.72
+2842,"['Comedy', 'Romance']",611000.0,7.91
+752,['Comedy'],609000.0,7.74
+1789,['SliceofLife'],609000.0,8.39
+1929,"['Comedy', 'Romance']",609000.0,7.91
+1831,"['Action', 'Comedy', 'Fantasy', 'Romance', 'SciFi', 'Supernatural', 'Ecchi']",607000.0,6.83
+1649,"['Action', 'SciFi', 'Suspense']",606000.0,7.40
+1976,"['Drama', 'Fantasy', 'Romance']",606000.0,7.76
+1606,['Comedy'],605000.0,7.00
+2241,['Comedy'],605000.0,7.29
+1339,"['Drama', 'Romance']",604000.0,7.43
+1650,"['Comedy', 'Drama', 'Fantasy']",604000.0,7.47
+1112,"['Comedy', 'Romance']",601000.0,7.53
+1888,"['Comedy', 'Romance', 'Ecchi']",598000.0,7.49
+1480,"['Action', 'Fantasy', 'Supernatural', 'Ecchi']",597000.0,7.06
+1221,"['Action', 'Comedy', 'SciFi', 'Ecchi']",596000.0,6.65
+2397,"['Comedy', 'Romance']",595000.0,6.79
+2620,['Comedy'],594000.0,7.57
+1222,"['Action', 'Comedy', 'Supernatural', 'Ecchi']",593000.0,7.36
+892,"['Comedy', 'Romance', 'SciFi', 'Ecchi']",591000.0,7.00
+1080,"['Comedy', 'Romance', 'Supernatural']",588000.0,7.67
+2621,"['Adventure', 'Horror', 'Suspense']",587000.0,6.95
+577,"['Mystery', 'SciFi']",587000.0,7.91
+2294,"['Adventure', 'Comedy', 'Fantasy']",586000.0,7.82
+1977,"['Action', 'Adventure', 'Fantasy', 'Mystery']",586000.0,7.29
+1340,"['Comedy', 'Fantasy', 'Romance', 'Supernatural']",584000.0,8.08
+2806,"['Action', 'Adventure', 'Fantasy']",584000.0,6.68
+1738,"['Comedy', 'Romance', 'SciFi']",582000.0,7.20
+1081,"['Comedy', 'Drama', 'Romance']",580000.0,8.19
+2242,"['Action', 'Drama', 'SciFi']",576000.0,7.65
+1651,"['Action', 'Adventure', 'Fantasy']",571000.0,7.58
+608,"['Drama', 'Romance', 'SliceofLife']",569000.0,8.52
+893,"['Drama', 'Mystery', 'Romance', 'Supernatural']",567000.0,6.90
+1402,"['Comedy', 'Horror', 'Romance', 'Supernatural', 'Ecchi']",566000.0,7.30
+1652,"['Drama', 'Romance']",564000.0,7.50
+1481,"['Drama', 'Fantasy', 'Romance']",564000.0,7.99
+958,"['Action', 'SciFi']",564000.0,7.68
+1341,"['Action', 'Drama', 'Fantasy', 'Mystery']",561000.0,7.93
+2503,"['Comedy', 'Supernatural']",559000.0,8.43
+2554,['Action'],558000.0,7.00
+2982,"['Action', 'Adventure', 'Mystery']",558000.0,8.25
+1223,"['Action', 'Comedy', 'Supernatural']",554000.0,7.87
+1165,"['Horror', 'Mystery', 'Supernatural', 'Suspense']",553000.0,7.74
+1930,"['Action', 'Comedy', 'SciFi']",553000.0,9.08
+2089,"['Action', 'Horror', 'Mystery', 'Supernatural']",546000.0,7.41
+1516,"['Action', 'Comedy', 'Fantasy', 'Supernatural']",544000.0,7.47
+2671,"['Gourmet', 'Ecchi']",543000.0,7.75
+1136,"['Comedy', 'Romance', 'Ecchi']",538000.0,6.63
+753,"['Comedy', 'Romance']",536000.0,8.03
+1020,"['Mystery', 'Romance', 'SciFi', 'Suspense']",533000.0,7.77
+2672,"['Action', 'Adventure', 'Comedy', 'Fantasy']",529000.0,7.50
+1978,"['Action', 'Drama']",529000.0,7.40
+1166,"['Action', 'Comedy', 'Supernatural']",528000.0,7.16
+2504,['Comedy'],528000.0,7.72
+531,"['Action', 'Comedy']",527000.0,8.14
+1113,"['Action', 'Adventure', 'Romance']",525000.0,8.32
+2983,"['Action', 'Adventure', 'Fantasy']",519000.0,7.46
+2758,"['Action', 'Mystery', 'Supernatural']",516000.0,8.22
+1342,"['Comedy', 'Romance', 'Supernatural', 'Ecchi']",515000.0,7.94
+1889,"['Action', 'Romance', 'Supernatural', 'Ecchi']",514000.0,6.44
+1979,"['Action', 'Fantasy', 'SciFi']",512000.0,7.22
+423,"['Action', 'Drama', 'Fantasy', 'Romance', 'Supernatural']",512000.0,7.46
+2025,"['Action', 'Adventure', 'Comedy', 'Fantasy']",511000.0,7.90
+1517,"['Comedy', 'Romance']",510000.0,6.95
+117,"['Drama', 'Fantasy', 'Romance']",507000.0,7.68
+2889,"['Comedy', 'Supernatural']",506000.0,7.85
+2090,"['Action', 'Adventure', 'Fantasy']",504000.0,7.73
+1224,"['Drama', 'Mystery', 'Romance']",504000.0,8.06
+2759,"['Action', 'Comedy', 'Fantasy', 'Romance']",500000.0,6.61
+1518,"['Comedy', 'Romance']",499000.0,7.31
+2843,"['Action', 'Adventure', 'Comedy', 'Fantasy', 'Romance']",498000.0,7.45
+1,['Sports'],497000.0,8.75
+1021,"['Comedy', 'Mystery', 'SciFi', 'SliceofLife']",494000.0,7.22
+2091,"['Action', 'Comedy', 'Fantasy']",494000.0,6.86
+934,"['Drama', 'SliceofLife', 'Supernatural']",492000.0,8.32
+2807,"['BoysLove', 'Drama', 'Romance', 'SliceofLife']",488000.0,8.34
+1246,"['Action', 'Comedy', 'SciFi']",488000.0,9.05
+2338,['Romance'],487000.0,8.08
+1790,"['Action', 'SciFi']",486000.0,7.40
+2138,"['Comedy', 'Romance', 'Ecchi']",484000.0,6.73
+1137,"['Action', 'Comedy', 'Fantasy', 'Ecchi']",484000.0,6.76
+2890,"['Action', 'Mystery', 'SciFi']",479000.0,7.25
+2398,"['Adventure', 'Comedy', 'Fantasy', 'Romance']",477000.0,6.16
+2399,"['Comedy', 'Romance', 'Ecchi']",475000.0,6.29
+1375,"['Comedy', 'Romance', 'Supernatural']",474000.0,7.40
+802,"['Action', 'Adventure', 'Comedy', 'Fantasy', 'Romance', 'Ecchi']",474000.0,7.42
+2139,"['Action', 'Fantasy', 'Romance', 'Supernatural']",469000.0,7.30
+532,['Action'],469000.0,8.18
+2505,"['Drama', 'GirlsLove', 'Romance']",467000.0,6.46
+2555,"['SciFi', 'Sports']",465000.0,7.89
+156,"['Action', 'Comedy', 'SciFi']",464000.0,7.61
+1296,['SliceofLife'],462000.0,8.38
+1297,"['Comedy', 'Romance', 'Ecchi']",460000.0,7.25
+2931,"['Gourmet', 'Ecchi']",459000.0,7.32
+1167,['Comedy'],459000.0,7.57
+2556,"['Comedy', 'Supernatural']",459000.0,8.15
+2891,"['Action', 'Comedy', 'Fantasy', 'Horror']",459000.0,8.07
+1058,"['Adventure', 'Fantasy', 'Romance']",457000.0,8.32
+1082,"['Drama', 'Romance', 'Ecchi']",456000.0,6.09
+172,"['Comedy', 'Drama', 'Romance', 'SciFi', 'Ecchi']",454000.0,7.41
+1482,"['Action', 'Comedy', 'Romance', 'Supernatural']",453000.0,7.44
+1890,"['Action', 'Mystery', 'Supernatural']",453000.0,7.99
+803,"['Mystery', 'Supernatural', 'Suspense']",450000.0,8.19
+2400,"['Comedy', 'Romance']",450000.0,6.78
+2506,"['Adventure', 'Comedy', 'Drama']",450000.0,8.53
+959,"['Comedy', 'Romance', 'SciFi', 'Supernatural', 'Ecchi']",449000.0,7.28
+2448,"['Action', 'Adventure', 'Fantasy']",448000.0,7.56
+2557,"['Action', 'Comedy', 'Romance', 'Ecchi']",447000.0,7.26
+2339,"['Action', 'Fantasy', 'SciFi']",444000.0,7.55
+1832,"['Comedy', 'Mystery', 'Supernatural']",443000.0,8.45
+2449,"['Comedy', 'Supernatural']",443000.0,7.51
+2507,"['Adventure', 'Fantasy']",442000.0,6.47
+2140,"['Action', 'Adventure', 'Fantasy']",442000.0,7.85
+1519,"['Adventure', 'Fantasy', 'Romance']",442000.0,7.25
+2401,"['Action', 'Drama', 'Fantasy', 'Supernatural']",437000.0,7.18
+2892,"['Action', 'Adventure', 'Comedy', 'Fantasy', 'SciFi']",434000.0,7.55
+1653,"['Comedy', 'Romance']",432000.0,7.06
+1083,"['Action', 'SciFi']",431000.0,7.55
+754,"['Action', 'Romance', 'Supernatural']",430000.0,7.19
+2508,['SliceofLife'],429000.0,8.27
+2893,"['Comedy', 'Fantasy', 'Ecchi']",426000.0,7.45
+1556,"['Comedy', 'Romance', 'Supernatural']",426000.0,7.18
+1190,"['Drama', 'SliceofLife', 'Sports']",423000.0,8.19
+1739,"['Comedy', 'SciFi', 'Supernatural']",423000.0,7.03
+1520,['SliceofLife'],422000.0,7.41
+2932,"['Action', 'Mystery', 'Supernatural', 'Ecchi']",422000.0,7.00
+2295,"['Comedy', 'Supernatural']",421000.0,7.46
+2933,"['Drama', 'Romance', 'Supernatural']",421000.0,8.56
+935,"['Action', 'Adventure', 'Comedy', 'Fantasy', 'Romance', 'Ecchi']",420000.0,7.34
+2141,['SliceofLife'],419000.0,7.85
+2092,"['Comedy', 'Gourmet']",418000.0,6.61
+1931,['Drama'],417000.0,8.00
+478,"['Adventure', 'Drama', 'Romance', 'SciFi']",416000.0,8.06
+1225,"['Drama', 'Romance', 'SliceofLife']",416000.0,7.99
+2622,['Comedy'],415000.0,8.19
+1654,"['Comedy', 'Drama']",415000.0,8.29
+1980,"['Horror', 'Mystery', 'SliceofLife']",414000.0,7.62
+1557,"['Comedy', 'Romance']",413000.0,6.95
+2026,"['Comedy', 'Romance']",410000.0,7.00
+1138,['Comedy'],410000.0,7.66
+1022,"['Adventure', 'Fantasy', 'Mystery', 'Supernatural']",409000.0,7.67
+2340,"['Action', 'Adventure', 'Fantasy']",407000.0,7.06
+1298,"['Action', 'Drama', 'Mystery', 'SciFi']",405000.0,7.57
+2243,"['Action', 'Drama', 'Fantasy', 'Mystery']",403000.0,8.40
+1139,"['Comedy', 'Mystery', 'Romance']",402000.0,8.57
+2196,['Comedy'],402000.0,7.58
+2673,"['Comedy', 'Romance']",401000.0,7.33
+1791,"['Comedy', 'Mystery', 'Supernatural']",399000.0,7.94
+2142,"['Comedy', 'Fantasy', 'Romance', 'SciFi', 'Supernatural', 'Ecchi']",399000.0,7.01
+2984,"['Comedy', 'Ecchi']",394000.0,7.01
+2244,"['Action', 'Comedy', 'Fantasy', 'Supernatural']",393000.0,7.81
+827,"['Comedy', 'Fantasy', 'Romance', 'Ecchi']",393000.0,6.91
+1483,['SliceofLife'],393000.0,7.94
+960,"['Action', 'Mystery', 'SciFi']",392000.0,7.44
+1376,"['Adventure', 'Fantasy', 'Romance', 'Ecchi']",391000.0,7.45
+1792,['Sports'],389000.0,7.63
+1449,"['Action', 'Fantasy', 'Ecchi']",389000.0,6.77
+1655,"['Comedy', 'Mystery', 'Supernatural', 'Ecchi']",389000.0,8.10
+1656,"['Comedy', 'Supernatural']",389000.0,7.08
+2760,"['Comedy', 'Romance']",389000.0,7.30
+1450,"['Comedy', 'Romance', 'Supernatural', 'Ecchi']",388000.0,6.57
+2894,"['Mystery', 'Romance', 'Supernatural']",386000.0,6.91
+2296,"['Comedy', 'Fantasy']",386000.0,7.56
+1521,['SliceofLife'],385000.0,7.39
+1484,"['Comedy', 'Romance']",384000.0,7.18
+1657,"['Action', 'Adventure', 'Fantasy', 'Supernatural']",384000.0,7.63
+2674,"['Comedy', 'Fantasy', 'Supernatural']",384000.0,7.75
+2934,"['Comedy', 'Drama', 'Fantasy', 'Romance']",382000.0,7.48
+936,"['Action', 'Comedy', 'Ecchi']",381000.0,7.06
+1932,"['Drama', 'Romance']",379000.0,7.78
+2402,"['Drama', 'Romance']",375000.0,6.51
+2935,"['Comedy', 'Mystery']",373000.0,7.54
+1658,"['Action', 'SciFi', 'Supernatural']",373000.0,7.58
+1403,"['Horror', 'Mystery', 'Romance', 'Supernatural']",373000.0,7.83
+133,"['Action', 'SciFi']",371000.0,8.43
+1981,"['Action', 'Mystery', 'Supernatural']",370000.0,7.98
+2027,"['Sports', 'Ecchi']",370000.0,6.94
+349,"['AvantGarde', 'Drama', 'Mystery', 'Supernatural', 'Suspense']",370000.0,7.67
+1793,"['Action', 'Comedy', 'Mystery', 'Supernatural']",369000.0,8.07
+1247,"['Comedy', 'Romance', 'Supernatural']",368000.0,7.89
+1691,"['Comedy', 'Romance']",367000.0,7.39
+1140,"['Comedy', 'Romance', 'Ecchi']",367000.0,6.87
+1692,['Comedy'],366000.0,7.52
+1141,"['Drama', 'Suspense']",366000.0,8.49
+1485,"['Action', 'Comedy', 'SciFi', 'Ecchi']",365000.0,6.48
+1451,"['Comedy', 'Fantasy', 'Romance', 'Ecchi']",363000.0,6.95
+25,"['Action', 'Adventure', 'Fantasy']",363000.0,7.47
+2245,"['Drama', 'SliceofLife']",361000.0,8.95
+1404,"['Action', 'Comedy', 'Supernatural', 'Ecchi']",361000.0,7.50
+1377,"['Drama', 'Romance', 'SciFi']",361000.0,7.43
+1833,"['Action', 'Fantasy', 'Romance', 'Ecchi']",361000.0,6.83
+2844,"['Action', 'SciFi']",361000.0,7.62
+1558,"['Action', 'SciFi']",360000.0,8.03
+2093,"['Action', 'Fantasy', 'Romance', 'Supernatural', 'Ecchi']",360000.0,6.55
+1740,['SliceofLife'],360000.0,7.68
+2341,"['Drama', 'Fantasy', 'Romance', 'SciFi']",358000.0,7.68
+2403,"['Comedy', 'Mystery', 'Supernatural']",358000.0,8.89
+1741,"['Action', 'Adventure', 'Comedy', 'Fantasy', 'Romance']",357000.0,7.23
+424,"['Action', 'Drama', 'Horror', 'Mystery', 'Supernatural']",356000.0,7.63
+1084,"['Action', 'Comedy', 'Supernatural', 'Ecchi']",355000.0,7.72
+1248,"['Action', 'Comedy', 'Romance']",355000.0,6.81
+2895,"['Action', 'Fantasy', 'Ecchi']",355000.0,6.60
+1299,"['Comedy', 'Romance']",354000.0,7.70
+2094,"['Action', 'Mystery', 'Supernatural']",354000.0,8.07
+2761,"['Comedy', 'Fantasy']",353000.0,7.40
+1742,"['Drama', 'Sports']",352000.0,8.62
+1933,"['Action', 'Adventure', 'Drama', 'Fantasy']",352000.0,7.67
+1405,"['Drama', 'Romance']",352000.0,8.32
+1891,"['Comedy', 'Fantasy', 'Romance', 'Supernatural']",352000.0,8.20
+1168,['Romance'],351000.0,7.30
+1023,"['Action', 'Adventure', 'Comedy', 'Fantasy']",349000.0,7.71
+828,"['Drama', 'Mystery', 'Romance', 'Supernatural']",348000.0,7.11
+894,"['Comedy', 'Romance']",346000.0,7.51
+2808,"['Comedy', 'Ecchi']",345000.0,7.27
+118,"['Action', 'Adventure', 'Comedy', 'Supernatural']",344000.0,7.76
+1343,"['Comedy', 'Romance', 'SciFi', 'Ecchi']",344000.0,7.44
+2342,"['Action', 'Comedy']",343000.0,6.90
+2722,"['Comedy', 'Romance', 'SciFi']",343000.0,7.19
+2143,"['Action', 'Romance', 'SciFi', 'Ecchi']",340000.0,6.32
+755,"['Action', 'Adventure']",340000.0,7.35
+2845,"['Mystery', 'Suspense']",339000.0,8.15
+1794,"['Action', 'Comedy', 'Fantasy', 'Romance', 'Supernatural', 'Ecchi']",339000.0,6.71
+1378,"['Action', 'Drama']",337000.0,6.81
+2846,"['Adventure', 'Fantasy']",335000.0,7.55
+1406,"['Comedy', 'SciFi']",334000.0,7.01
+2343,"['Comedy', 'Romance', 'Supernatural', 'Ecchi']",334000.0,6.63
+1142,"['Comedy', 'Romance']",334000.0,7.57
+372,"['Action', 'Drama', 'Horror', 'SciFi', 'Supernatural', 'Ecchi']",333000.0,7.00
+609,"['Action', 'Ecchi']",333000.0,7.49
+1300,"['Action', 'Horror', 'Mystery', 'Supernatural']",333000.0,6.53
+425,"['Horror', 'Mystery', 'Supernatural']",333000.0,7.62
+1191,"['Comedy', 'Drama', 'Romance']",333000.0,8.36
+1486,"['Comedy', 'Fantasy']",332000.0,7.21
+2344,"['Comedy', 'Romance', 'Ecchi']",330000.0,7.77
+1659,"['Comedy', 'Romance']",326000.0,7.30
+2095,"['Drama', 'Fantasy', 'Romance']",326000.0,7.98
+804,['Comedy'],325000.0,7.87
+1407,"['Action', 'Adventure']",325000.0,7.81
+2198,"['Action', 'Adventure', 'Drama', 'Fantasy', 'Horror', 'Supernatural']",325000.0,6.30
+1660,"['Adventure', 'Fantasy', 'Romance', 'Ecchi']",325000.0,7.13
+2197,"['Action', 'Horror', 'Mystery']",325000.0,7.26
+1693,"['Comedy', 'SciFi']",325000.0,7.88
+2450,"['Action', 'Comedy', 'Romance']",323000.0,7.45
+2936,"['Action', 'Fantasy']",322000.0,7.37
+689,['Suspense'],321000.0,8.28
+1607,"['Comedy', 'Romance', 'Supernatural']",321000.0,8.02
+2558,"['Action', 'Adventure']",320000.0,7.87
+1301,"['Comedy', 'GirlsLove']",319000.0,7.58
+1559,"['Action', 'Adventure', 'SciFi']",318000.0,7.46
+1743,"['Drama', 'Mystery', 'SciFi']",317000.0,6.87
+2762,"['SliceofLife', 'Supernatural']",317000.0,7.34
+1522,"['Comedy', 'Drama', 'Romance']",316000.0,7.18
+1024,"['Action', 'Drama', 'Suspense']",314000.0,7.96
+2896,"['Mystery', 'SciFi']",314000.0,7.85
+1249,['Drama'],312000.0,7.92
+307,"['Comedy', 'Romance']",311000.0,7.90
+1344,"['Comedy', 'Drama', 'Romance']",311000.0,8.54
+308,"['Comedy', 'Drama', 'SliceofLife']",310000.0,8.29
+1085,"['Comedy', 'SciFi', 'Ecchi']",310000.0,7.29
+240,"['Action', 'Adventure', 'Drama', 'Fantasy', 'Mystery', 'SciFi']",309000.0,7.81
+1834,"['Action', 'Supernatural']",309000.0,7.57
+1345,"['Action', 'Comedy', 'Supernatural']",309000.0,6.73
+756,"['Comedy', 'Romance']",309000.0,7.68
+1192,"['Action', 'Comedy', 'Gourmet']",308000.0,7.22
+2199,"['Action', 'Adventure', 'Fantasy']",308000.0,7.25
+1487,"['Action', 'Fantasy', 'Ecchi']",306000.0,7.07
+1114,"['Action', 'Supernatural', 'Ecchi']",306000.0,6.36
+173,"['Comedy', 'SliceofLife']",306000.0,7.97
+2675,['Fantasy'],306000.0,5.93
+2847,"['Action', 'Romance', 'SciFi', 'Supernatural']",306000.0,7.29
+1226,"['Action', 'Drama', 'Romance', 'SciFi', 'Ecchi']",305000.0,6.82
+2763,"['Comedy', 'Ecchi']",304000.0,6.51
+1694,"['Action', 'Fantasy', 'Supernatural']",303000.0,7.01
+2246,"['Comedy', 'Romance']",303000.0,7.30
+2028,"['Action', 'Comedy', 'Drama']",302000.0,7.33
+2559,['Romance'],301000.0,6.84
+2897,"['Adventure', 'Comedy']",300000.0,8.14
+2451,"['Drama', 'Romance']",299000.0,7.52
+2247,"['Adventure', 'Mystery', 'SciFi', 'SliceofLife']",299000.0,8.20
+2764,"['Drama', 'SciFi']",299000.0,7.88
+1408,"['Comedy', 'Romance', 'SliceofLife']",298000.0,7.48
+2404,"['Comedy', 'Drama', 'Romance', 'Sports']",298000.0,8.19
+2898,"['Comedy', 'Romance']",297000.0,7.37
+724,"['Comedy', 'Drama', 'Romance', 'SliceofLife']",297000.0,8.28
+690,"['Action', 'Drama', 'Fantasy', 'Romance', 'Supernatural']",296000.0,7.56
+1892,"['Action', 'SciFi']",296000.0,6.92
+2452,"['Drama', 'GirlsLove', 'Romance']",295000.0,7.91
+2200,"['Action', 'Adventure', 'Fantasy']",295000.0,7.66
+610,"['Comedy', 'Drama', 'Mystery', 'Supernatural']",295000.0,7.99
+2937,['Comedy'],295000.0,8.00
+2809,"['Comedy', 'Drama', 'Romance']",295000.0,7.36
+2201,"['Action', 'Horror', 'Mystery']",294000.0,7.40
+1744,"['Comedy', 'SliceofLife']",294000.0,7.54
+2810,['Comedy'],291000.0,8.08
+805,"['Action', 'Fantasy']",290000.0,6.95
+2509,['Comedy'],290000.0,7.90
+1346,"['Action', 'Comedy', 'SciFi']",290000.0,9.04
+2202,"['Comedy', 'Gourmet', 'SliceofLife']",289000.0,7.53
+1250,"['Action', 'Mystery', 'Suspense']",288000.0,7.19
+1251,"['Comedy', 'SciFi', 'SliceofLife']",288000.0,7.14
+806,"['Fantasy', 'Horror', 'Mystery', 'Supernatural']",288000.0,8.43
+1835,"['Action', 'Fantasy', 'Romance', 'Supernatural', 'Ecchi']",288000.0,6.83
+1695,"['Comedy', 'Drama', 'Mystery']",287000.0,7.26
+1893,"['Action', 'Fantasy', 'Romance', 'Supernatural']",285000.0,6.80
+455,"['Drama', 'Romance', 'SliceofLife', 'Supernatural']",285000.0,7.28
+1745,"['Adventure', 'Fantasy', 'Romance']",284000.0,7.62
+2096,"['Action', 'SciFi']",283000.0,7.19
+1302,"['AvantGarde', 'Comedy', 'Drama', 'Mystery']",283000.0,7.95
+1488,"['Comedy', 'Fantasy', 'Romance', 'Ecchi']",283000.0,6.84
+260,"['Action', 'Adventure', 'SliceofLife']",282000.0,8.29
+533,"['Action', 'Comedy']",282000.0,8.07
+2811,"['Comedy', 'Romance', 'Ecchi']",281000.0,6.52
+1347,"['Comedy', 'Romance', 'Ecchi']",281000.0,6.45
+291,"['Action', 'Comedy']",281000.0,8.04
+1409,['Romance'],280000.0,7.25
+1169,"['Action', 'Adventure', 'Fantasy']",280000.0,7.53
+1059,['Drama'],280000.0,8.02
+2848,"['Supernatural', 'Suspense']",280000.0,7.19
+1193,"['Comedy', 'Romance', 'Ecchi']",280000.0,6.69
+1523,"['Fantasy', 'Mystery', 'Romance']",280000.0,6.00
+2938,"['Drama', 'Romance', 'SliceofLife']",279000.0,6.89
+1452,"['Comedy', 'Romance']",278000.0,7.40
+2510,"['Action', 'Drama', 'Fantasy', 'Romance']",278000.0,7.22
+2297,"['Action', 'Comedy', 'SciFi']",277000.0,8.99
+2812,"['Action', 'Adventure', 'Fantasy']",277000.0,5.44
+829,"['Mystery', 'SciFi', 'Supernatural']",277000.0,6.32
+2203,"['Comedy', 'Romance']",276000.0,7.20
+2248,"['Drama', 'Romance', 'SliceofLife']",276000.0,7.24
+1086,"['Comedy', 'Romance', 'SciFi', 'Supernatural', 'Ecchi']",276000.0,7.47
+1348,"['Comedy', 'Drama', 'SliceofLife', 'Supernatural']",276000.0,7.49
+1746,"['Adventure', 'Fantasy', 'Mystery', 'SliceofLife', 'Supernatural']",275000.0,8.70
+2298,"['Drama', 'Romance', 'Ecchi']",275000.0,6.51
+1349,['Action'],275000.0,7.52
+2029,"['Action', 'Horror', 'Mystery', 'Supernatural']",274000.0,7.60
+2985,"['Action', 'Adventure', 'SciFi']",274000.0,7.39
+1982,"['Comedy', 'Romance', 'Ecchi']",272000.0,6.59
+1608,"['Comedy', 'SliceofLife']",272000.0,8.09
+2097,['Drama'],270000.0,8.58
+2249,['Action'],269000.0,6.54
+2453,"['Action', 'SciFi']",269000.0,7.13
+961,"['Action', 'Comedy', 'GirlsLove', 'Romance', 'Ecchi']",269000.0,6.39
+2454,"['Drama', 'Sports']",268000.0,8.40
+2813,"['Adventure', 'Mystery', 'SciFi']",268000.0,8.10
+2511,"['Drama', 'Romance', 'SliceofLife']",268000.0,7.50
+1194,"['Action', 'Ecchi']",267000.0,6.34
+508,"['Comedy', 'Drama', 'Fantasy', 'Romance', 'Ecchi']",266000.0,7.04
+2623,"['Comedy', 'Romance', 'Supernatural', 'Ecchi']",266000.0,7.02
+2624,"['Drama', 'GirlsLove', 'Horror']",265000.0,6.81
+895,"['Comedy', 'Romance']",265000.0,7.44
+2676,"['Comedy', 'Romance']",264000.0,7.35
+2204,"['Action', 'Mystery', 'Supernatural']",264000.0,5.75
+1170,"['Comedy', 'Romance']",264000.0,7.18
+2560,"['Comedy', 'Romance', 'SliceofLife']",263000.0,7.57
+2205,"['Action', 'Comedy', 'Fantasy', 'Romance', 'SciFi', 'Ecchi']",263000.0,6.14
+2206,['Comedy'],262000.0,7.36
+2899,"['Adventure', 'Drama', 'Fantasy', 'SliceofLife']",261000.0,7.83
+1747,"['Comedy', 'SliceofLife', 'Ecchi']",260000.0,7.11
+962,"['Action', 'Adventure', 'Comedy', 'Fantasy', 'Romance', 'Supernatural']",259000.0,8.20
+2207,"['Action', 'Comedy', 'Drama', 'Supernatural']",258000.0,6.89
+534,"['Drama', 'Romance', 'SliceofLife', 'Supernatural']",258000.0,7.96
+426,"['Adventure', 'Comedy', 'SciFi']",257000.0,7.34
+134,"['Drama', 'Fantasy', 'Mystery', 'SliceofLife']",256000.0,7.97
+1609,"['Action', 'Comedy', 'Fantasy']",256000.0,7.05
+1836,"['Comedy', 'Romance', 'Ecchi']",255000.0,6.71
+1171,"['Action', 'Supernatural']",255000.0,7.62
+1748,"['Action', 'GirlsLove']",253000.0,6.61
+830,"['Comedy', 'Drama', 'Romance']",252000.0,8.09
+963,"['Comedy', 'Romance']",251000.0,7.14
+26,"['Comedy', 'Romance', 'SliceofLife', 'Ecchi']",251000.0,7.11
+2765,"['Drama', 'Romance']",251000.0,7.91
+1195,['Comedy'],250000.0,7.83
+479,"['Comedy', 'Drama', 'Romance', 'SliceofLife']",250000.0,8.01
+2849,"['Action', 'Supernatural']",250000.0,6.87
+2814,"['Adventure', 'Comedy', 'Fantasy']",250000.0,5.55
+992,['Sports'],249000.0,8.66
+509,['Action'],249000.0,7.93
+1196,"['Action', 'Adventure', 'Mystery', 'SciFi', 'Supernatural']",249000.0,7.50
+2677,"['Fantasy', 'SliceofLife']",248000.0,8.01
+2250,"['Comedy', 'Romance', 'Ecchi']",248000.0,6.25
+2815,"['Comedy', 'Ecchi']",247000.0,6.42
+2144,"['Comedy', 'SliceofLife', 'Supernatural']",247000.0,7.51
+1983,"['Comedy', 'Fantasy', 'Romance', 'Supernatural']",246000.0,6.86
+2345,"['Action', 'Adventure', 'Fantasy']",246000.0,7.08
+1696,"['Comedy', 'GirlsLove', 'Romance', 'SliceofLife']",246000.0,6.97
+691,"['Drama', 'Mystery', 'Romance']",244000.0,7.90
+2939,"['Action', 'Adventure', 'Comedy', 'Fantasy']",244000.0,7.06
+2678,"['Action', 'Fantasy', 'Supernatural']",244000.0,7.94
+2850,"['Horror', 'Mystery', 'Supernatural', 'Suspense']",244000.0,7.20
+1749,['SliceofLife'],242000.0,7.77
+1661,"['Adventure', 'Fantasy', 'Mystery', 'SliceofLife', 'Supernatural']",242000.0,8.74
+2766,"['Comedy', 'Romance', 'Ecchi']",241000.0,6.74
+1795,"['BoysLove', 'Comedy', 'Romance']",241000.0,7.22
+2851,"['Action', 'Drama', 'Fantasy']",241000.0,6.50
+2561,"['Action', 'Drama', 'Romance', 'Supernatural']",241000.0,6.84
+2405,['Comedy'],240000.0,7.71
+2679,"['Action', 'SciFi', 'Suspense']",240000.0,7.46
+896,"['BoysLove', 'Comedy', 'Drama', 'Romance']",240000.0,7.52
+1984,"['Comedy', 'Romance', 'SciFi', 'Ecchi']",239000.0,7.45
+2852,"['Action', 'Fantasy', 'Romance']",238000.0,6.63
+1985,"['Action', 'Drama', 'Fantasy']",237000.0,6.33
+1698,"['Action', 'Fantasy']",237000.0,5.98
+1697,['Comedy'],237000.0,7.70
+2251,['Comedy'],235000.0,7.33
+897,"['Comedy', 'Romance', 'SliceofLife', 'Supernatural', 'Ecchi']",235000.0,6.40
+1837,['Comedy'],235000.0,7.19
+1410,"['Action', 'Comedy', 'Ecchi']",234000.0,7.03
+1303,"['Drama', 'SliceofLife', 'Supernatural']",233000.0,8.58
+2625,['Comedy'],232000.0,7.78
+1986,"['Comedy', 'Romance']",232000.0,7.97
+2853,"['Drama', 'Fantasy']",231000.0,6.79
+2562,"['Action', 'Fantasy', 'Supernatural']",231000.0,6.44
+210,"['Drama', 'Romance', 'SciFi']",231000.0,8.27
+309,"['Drama', 'Mystery', 'SciFi', 'Supernatural', 'Suspense']",231000.0,8.15
+2406,"['Action', 'Fantasy']",230000.0,7.09
+1453,"['Drama', 'Romance']",230000.0,7.01
+993,"['Drama', 'SliceofLife', 'Supernatural']",230000.0,8.55
+1489,"['Drama', 'Romance', 'SliceofLife']",230000.0,7.63
+2680,['Fantasy'],229000.0,6.36
+1304,['Mystery'],228000.0,7.50
+1115,"['Action', 'Comedy', 'Fantasy', 'Romance', 'Supernatural', 'Ecchi']",228000.0,6.85
+831,"['Action', 'Supernatural', 'Suspense']",228000.0,7.60
+2626,"['Action', 'Supernatural']",227000.0,6.99
+1197,"['Action', 'Drama', 'Fantasy', 'Romance', 'Supernatural']",227000.0,7.52
+2455,"['Action', 'SciFi']",227000.0,6.81
+964,"['Action', 'Supernatural', 'Ecchi']",227000.0,6.08
+1750,"['Adventure', 'Comedy', 'Mystery', 'Supernatural']",226000.0,7.14
+1379,"['Drama', 'SliceofLife', 'Supernatural']",226000.0,8.65
+1172,"['Action', 'Comedy', 'Ecchi']",226000.0,7.29
+1087,"['Comedy', 'Ecchi']",226000.0,7.05
+261,"['Action', 'Drama', 'SciFi']",225000.0,7.76
+1490,['Sports'],224000.0,8.11
+2252,"['Drama', 'Horror', 'Mystery', 'Supernatural']",224000.0,5.03
+2346,"['Action', 'Adventure', 'Fantasy', 'Supernatural']",224000.0,7.43
+1491,['Sports'],222000.0,8.59
+667,"['Drama', 'Romance', 'SliceofLife']",221000.0,7.26
+832,['Sports'],219000.0,8.34
+1934,"['Comedy', 'SciFi', 'Supernatural', 'Ecchi']",219000.0,6.93
+1751,['Comedy'],219000.0,7.50
+535,"['Horror', 'Mystery', 'Supernatural']",218000.0,7.77
+1088,"['Comedy', 'SliceofLife']",218000.0,8.12
+1524,"['Drama', 'SliceofLife', 'Sports']",218000.0,8.39
+1752,"['Action', 'SciFi']",218000.0,7.65
+1454,"['Comedy', 'Supernatural']",218000.0,7.69
+2407,"['Fantasy', 'Gourmet', 'SliceofLife']",217000.0,7.38
+2299,['Romance'],217000.0,6.29
+211,"['Action', 'Romance', 'Supernatural']",216000.0,7.62
+480,"['Action', 'Adventure', 'Fantasy', 'Romance', 'Supernatural']",216000.0,7.52
+1492,"['Comedy', 'Drama', 'Sports']",216000.0,7.95
+1662,"['Action', 'Drama', 'Horror', 'SciFi']",216000.0,7.01
+2098,"['Comedy', 'Romance', 'SliceofLife']",215000.0,7.28
+757,"['Action', 'Comedy', 'Romance']",215000.0,7.53
+1116,"['Action', 'Drama', 'Romance', 'Supernatural']",215000.0,7.01
+1252,"['Action', 'Comedy', 'Mystery']",214000.0,7.87
+350,"['Action', 'Mystery', 'SciFi']",214000.0,8.52
+2145,['Action'],214000.0,5.37
+1060,"['Action', 'SciFi', 'Supernatural']",214000.0,7.23
+1699,['Comedy'],212000.0,7.55
+1987,"['Action', 'Adventure', 'Comedy', 'Supernatural']",212000.0,7.58
+1253,['Comedy'],212000.0,8.22
+2900,"['Comedy', 'Fantasy']",211000.0,7.37
+1838,"['Action', 'Drama', 'SciFi']",211000.0,8.04
+2563,"['Drama', 'Horror', 'Supernatural']",211000.0,6.52
+2723,"['AvantGarde', 'Drama', 'Horror', 'Mystery', 'Supernatural']",211000.0,7.08
+1610,"['Adventure', 'Fantasy', 'Mystery']",210000.0,7.31
+1988,['Sports'],210000.0,7.16
+2816,"['Action', 'Adventure', 'Fantasy']",210000.0,6.55
+2253,"['Drama', 'Fantasy', 'Mystery']",210000.0,7.17
+2817,"['Fantasy', 'Supernatural']",209000.0,7.20
+1061,"['Comedy', 'Ecchi']",209000.0,6.70
+1062,"['Horror', 'Mystery', 'Supernatural']",208000.0,7.06
+2146,"['Drama', 'Horror', 'Mystery']",208000.0,5.50
+1894,"['Action', 'SciFi', 'SliceofLife']",208000.0,6.84
+868,"['Drama', 'Romance']",207000.0,7.30
+965,"['Drama', 'Suspense']",206000.0,7.70
+692,['Comedy'],206000.0,7.40
+1254,"['BoysLove', 'Comedy', 'Drama', 'Romance']",206000.0,7.67
+693,"['Action', 'Drama', 'SciFi']",206000.0,8.12
+2030,['Drama'],206000.0,8.30
+1611,"['Comedy', 'SliceofLife']",205000.0,7.64
+1560,"['Action', 'Fantasy', 'Mystery', 'SciFi']",205000.0,7.10
+1753,"['Comedy', 'Fantasy', 'Ecchi']",204000.0,6.44
+2901,"['Action', 'SciFi']",204000.0,8.19
+758,"['Action', 'Adventure', 'Fantasy']",204000.0,8.14
+1117,"['Comedy', 'Romance', 'Ecchi']",203000.0,6.57
+1025,"['Action', 'Fantasy']",203000.0,7.20
+2512,"['Action', 'Fantasy']",203000.0,6.28
+2254,"['Comedy', 'Drama', 'Romance']",202000.0,7.48
+1839,"['Drama', 'Mystery', 'Suspense']",202000.0,7.42
+2513,['Comedy'],202000.0,7.28
+2147,['Drama'],202000.0,7.04
+994,"['Action', 'Adventure', 'Fantasy', 'SciFi']",201000.0,7.29
+1561,"['Drama', 'Romance']",201000.0,7.14
+310,"['Action', 'Comedy', 'Fantasy']",199000.0,7.18
+427,"['Comedy', 'Drama', 'Romance', 'SliceofLife']",199000.0,7.85
+1455,"['Comedy', 'Mystery', 'Romance', 'Ecchi']",198000.0,6.53
+1796,"['Action', 'Ecchi']",198000.0,6.39
+2208,"['Action', 'Comedy', 'Romance', 'Supernatural']",197000.0,6.66
+2767,"['Comedy', 'SliceofLife']",196000.0,7.48
+995,"['Comedy', 'Romance', 'Ecchi']",196000.0,6.72
+2940,"['Action', 'Fantasy']",196000.0,6.25
+1456,"['Action', 'Fantasy', 'Romance']",196000.0,6.26
+1754,"['Action', 'Comedy', 'Supernatural', 'Ecchi']",195000.0,5.89
+311,"['Action', 'Comedy', 'Drama']",194000.0,7.41
+1663,"['Action', 'Adventure', 'Comedy', 'Fantasy', 'Romance']",192000.0,7.18
+2255,"['Comedy', 'Gourmet', 'Romance', 'SliceofLife']",192000.0,6.96
+2408,"['Action', 'Mystery']",191000.0,7.70
+2456,"['Action', 'Adventure', 'Fantasy']",190000.0,6.87
+833,['Sports'],190000.0,7.66
+1612,"['Comedy', 'Romance']",189000.0,7.32
+1305,"['Comedy', 'Romance']",189000.0,7.04
+2818,"['Fantasy', 'SliceofLife']",188000.0,7.10
+1457,['Action'],188000.0,7.96
+1173,"['Comedy', 'Romance', 'SciFi', 'Ecchi']",187000.0,6.59
+966,['Comedy'],186000.0,7.32
+1089,"['Comedy', 'SliceofLife']",186000.0,7.42
+1664,"['Action', 'SciFi']",185000.0,7.39
+2031,"['Mystery', 'SciFi']",185000.0,6.90
+83,"['Adventure', 'Comedy', 'Drama', 'Fantasy']",185000.0,7.63
+1989,['SliceofLife'],185000.0,8.19
+1935,"['Comedy', 'Romance']",185000.0,7.33
+2257,"['Action', 'Adventure', 'SliceofLife']",184000.0,7.60
+2256,"['Action', 'Fantasy', 'SciFi']",184000.0,6.94
+2209,"['Action', 'Supernatural']",184000.0,6.82
+1380,"['Comedy', 'Romance', 'SliceofLife']",184000.0,7.28
+2514,"['Action', 'Comedy', 'SciFi']",184000.0,8.81
+2986,"['Comedy', 'Fantasy', 'Romance', 'Ecchi']",184000.0,6.53
+1755,"['Comedy', 'Romance']",183000.0,6.38
+834,"['Action', 'Adventure']",183000.0,7.84
+2347,"['Adventure', 'Fantasy']",181000.0,6.64
+2724,"['Comedy', 'GirlsLove', 'SliceofLife']",181000.0,7.31
+1255,"['Action', 'Adventure', 'Fantasy']",180000.0,6.88
+694,"['Drama', 'Romance']",180000.0,7.14
+1411,"['Comedy', 'SciFi', 'SliceofLife']",179000.0,8.50
+2258,"['Action', 'Comedy', 'SciFi']",179000.0,8.53
+1458,"['Adventure', 'Comedy', 'Fantasy']",179000.0,7.74
+2210,"['Action', 'Adventure']",179000.0,7.71
+212,"['Action', 'Drama', 'SciFi']",179000.0,7.40
+373,"['Action', 'Comedy', 'Ecchi']",179000.0,6.89
+262,"['Action', 'Comedy', 'Fantasy', 'Romance']",179000.0,7.17
+2515,"['Comedy', 'SliceofLife']",178000.0,6.86
+2032,"['Adventure', 'Comedy', 'SciFi']",178000.0,7.65
+2683,"['Drama', 'Sports']",178000.0,7.59
+2682,"['Comedy', 'Fantasy']",178000.0,6.62
+2854,"['Comedy', 'Fantasy']",178000.0,7.99
+2681,['Sports'],178000.0,7.28
+759,"['Drama', 'SciFi']",178000.0,7.63
+2902,['Comedy'],177000.0,6.97
+1613,"['Adventure', 'SciFi']",177000.0,7.30
+2348,"['Action', 'Comedy', 'Supernatural', 'Ecchi']",177000.0,7.05
+1700,"['Fantasy', 'Horror']",177000.0,3.30
+1701,"['Comedy', 'Romance', 'Ecchi']",177000.0,6.77
+2684,"['Action', 'Drama', 'SciFi']",177000.0,6.86
+1256,['Suspense'],176000.0,8.25
+2,"['Horror', 'Mystery', 'Supernatural']",176000.0,7.72
+213,"['Action', 'Drama', 'SciFi']",176000.0,7.84
+1350,"['Action', 'Adventure']",176000.0,7.91
+2211,"['Action', 'Supernatural']",176000.0,6.48
+481,"['Action', 'Adventure', 'Fantasy', 'Romance', 'Supernatural']",175000.0,7.55
+760,"['Drama', 'Fantasy', 'Romance']",175000.0,7.60
+1493,"['Action', 'Fantasy', 'Supernatural']",175000.0,7.73
+2725,"['Comedy', 'SliceofLife']",174000.0,7.74
+482,"['Action', 'Supernatural']",174000.0,7.30
+1614,"['Comedy', 'SliceofLife']",174000.0,7.24
+1198,"['Comedy', 'Drama', 'Romance', 'SliceofLife']",174000.0,7.67
+174,"['Adventure', 'Fantasy', 'Mystery', 'SciFi']",174000.0,6.95
+1459,"['Comedy', 'GirlsLove']",173000.0,7.83
+2300,['Drama'],173000.0,8.74
+1665,"['Comedy', 'Supernatural']",173000.0,7.56
+2516,"['Drama', 'Mystery', 'Supernatural']",172000.0,7.00
+967,"['Action', 'Adventure', 'Fantasy']",172000.0,6.68
+869,"['Action', 'GirlsLove', 'Horror', 'SciFi', 'Supernatural']",172000.0,7.28
+1615,['Romance'],172000.0,5.98
+2409,"['Comedy', 'Sports']",172000.0,6.97
+483,['Sports'],171000.0,7.92
+2517,"['Action', 'SciFi', 'Ecchi']",171000.0,6.57
+835,"['BoysLove', 'Comedy', 'Drama', 'Romance']",171000.0,7.73
+1351,"['Drama', 'Mystery', 'SciFi']",171000.0,7.32
+1562,"['Comedy', 'SciFi']",171000.0,7.23
+1199,"['Action', 'Fantasy', 'SciFi']",171000.0,7.03
+1090,"['Action', 'Comedy', 'Ecchi']",170000.0,6.78
+428,"['Comedy', 'Romance', 'Supernatural']",170000.0,7.12
+1200,"['Action', 'Comedy', 'Supernatural', 'Ecchi']",170000.0,6.60
+1797,"['Comedy', 'Supernatural']",170000.0,7.14
+2212,['SliceofLife'],170000.0,7.38
+50,['Sports'],170000.0,7.87
+2768,"['Comedy', 'SliceofLife']",170000.0,7.39
+2627,"['Action', 'Comedy', 'SciFi']",170000.0,8.89
+2628,['Fantasy'],170000.0,5.70
+2941,"['Fantasy', 'SliceofLife']",169000.0,8.13
+2457,"['Action', 'Adventure']",168000.0,8.23
+2099,"['Comedy', 'SliceofLife']",168000.0,7.05
+1756,"['Action', 'Adventure', 'Comedy', 'Fantasy']",168000.0,7.67
+312,"['Comedy', 'SliceofLife']",168000.0,7.64
+2349,"['Drama', 'SliceofLife', 'Supernatural']",168000.0,8.63
+2987,"['Comedy', 'Fantasy', 'Ecchi']",167000.0,5.50
+2034,"['Drama', 'SliceofLife', 'Supernatural']",167000.0,8.57
+157,"['Drama', 'Romance', 'SciFi']",167000.0,7.12
+996,"['Comedy', 'GirlsLove']",167000.0,7.02
+2033,['Action'],167000.0,6.75
+2100,['Sports'],166000.0,6.91
+1525,"['Comedy', 'SliceofLife']",166000.0,7.31
+1257,"['Comedy', 'Romance', 'Ecchi']",166000.0,6.71
+2629,['Sports'],165000.0,7.61
+1227,"['Action', 'Romance', 'Supernatural']",165000.0,6.64
+2855,"['GirlsLove', 'Romance', 'SliceofLife']",165000.0,7.10
+536,"['Action', 'Comedy', 'Fantasy', 'Supernatural']",165000.0,7.31
+2726,['Romance'],165000.0,7.67
+695,"['Comedy', 'SliceofLife']",164000.0,7.66
+263,"['Action', 'Adventure', 'SciFi']",164000.0,7.80
+1798,"['Action', 'Comedy', 'SciFi', 'Supernatural']",163000.0,6.55
+1840,['Comedy'],162000.0,7.95
+937,"['Action', 'SciFi', 'Ecchi']",162000.0,6.96
+2518,"['Action', 'Drama', 'Romance', 'SciFi']",162000.0,6.20
+1563,"['Action', 'Supernatural']",161000.0,6.85
+2350,"['Action', 'Adventure', 'Drama', 'Fantasy', 'Horror', 'Supernatural']",161000.0,6.56
+1412,"['Comedy', 'SciFi', 'SliceofLife']",161000.0,7.67
+1841,"['Mystery', 'SciFi']",160000.0,7.25
+898,"['Action', 'Comedy', 'Drama', 'Fantasy', 'Supernatural']",160000.0,7.27
+1143,"['Action', 'Drama', 'Supernatural']",160000.0,7.38
+1460,"['Comedy', 'SliceofLife']",160000.0,7.46
+1799,"['Comedy', 'Drama', 'Mystery']",160000.0,7.36
+2101,"['Action', 'Fantasy', 'SciFi']",160000.0,5.55
+1702,"['Comedy', 'Romance', 'Supernatural', 'Ecchi']",160000.0,6.21
+2685,"['Comedy', 'Fantasy']",160000.0,6.79
+1800,"['Romance', 'SliceofLife', 'Supernatural']",159000.0,5.42
+836,"['Comedy', 'Supernatural']",159000.0,7.29
+374,"['Action', 'Drama']",159000.0,8.15
+1564,['Action'],159000.0,7.14
+2564,"['Comedy', 'Romance']",158000.0,6.84
+135,"['Action', 'Drama', 'Romance', 'SciFi']",158000.0,7.75
+611,"['Action', 'Drama', 'Fantasy', 'SciFi']",158000.0,7.63
+1801,"['Action', 'SciFi']",158000.0,6.06
+968,"['Comedy', 'Drama', 'Fantasy', 'Romance']",158000.0,7.96
+837,"['Drama', 'Mystery', 'Romance', 'Supernatural']",158000.0,8.01
+1990,"['Comedy', 'SliceofLife']",158000.0,7.17
+1381,['Romance'],157000.0,7.40
+1616,"['Comedy', 'Drama', 'Fantasy', 'SliceofLife']",157000.0,7.85
+2769,"['Action', 'Fantasy', 'Supernatural']",157000.0,5.79
+1494,"['Action', 'Drama', 'Romance', 'SciFi', 'Ecchi']",157000.0,6.74
+214,"['Action', 'Horror', 'Mystery', 'Romance', 'Supernatural']",156000.0,6.84
+375,"['Comedy', 'Drama', 'Romance', 'Ecchi']",156000.0,7.24
+1495,"['Comedy', 'Drama', 'Romance', 'SliceofLife', 'Supernatural']",156000.0,8.20
+1091,"['Comedy', 'Romance']",156000.0,7.72
+2903,['Fantasy'],155000.0,6.18
+1802,"['Comedy', 'SciFi']",155000.0,8.26
+2904,"['Comedy', 'SliceofLife']",155000.0,6.74
+2035,"['Comedy', 'Romance', 'Ecchi']",155000.0,6.60
+2856,"['Adventure', 'Fantasy', 'SliceofLife']",154000.0,6.96
+1026,['Action'],154000.0,7.34
+199,"['Comedy', 'Drama', 'Fantasy', 'Mystery', 'Romance']",154000.0,8.13
+1703,"['Comedy', 'Romance', 'Supernatural']",154000.0,7.20
+1306,"['Action', 'Supernatural']",154000.0,7.95
+1118,"['SciFi', 'SliceofLife']",153000.0,7.54
+1461,['SliceofLife'],153000.0,7.30
+537,"['Horror', 'Mystery', 'Supernatural']",153000.0,7.89
+405,"['Action', 'Drama', 'Horror', 'SciFi', 'Supernatural', 'Ecchi']",153000.0,7.04
+838,"['Action', 'Adventure', 'Drama', 'SciFi']",153000.0,7.51
+538,['Comedy'],152000.0,7.73
+612,"['Comedy', 'Romance']",152000.0,7.99
+292,['Ecchi'],152000.0,6.40
+2410,"['BoysLove', 'Drama', 'Romance', 'SliceofLife']",151000.0,7.33
+2519,"['Comedy', 'Gourmet']",151000.0,6.83
+456,"['Comedy', 'Romance', 'Supernatural']",151000.0,7.33
+2301,"['Action', 'Adventure', 'Fantasy']",151000.0,7.32
+1803,"['Action', 'Comedy', 'Fantasy']",151000.0,7.24
+429,"['Fantasy', 'SciFi', 'SliceofLife']",151000.0,7.68
+2302,"['Drama', 'Fantasy', 'Mystery']",150000.0,7.67
+2686,"['Action', 'SciFi']",150000.0,6.29
+1666,"['Action', 'Comedy', 'Fantasy', 'Romance']",150000.0,6.45
+2036,"['Action', 'Fantasy', 'Supernatural', 'Suspense']",149000.0,6.96
+2351,"['Fantasy', 'SciFi']",149000.0,6.45
+1936,"['Action', 'Adventure', 'Ecchi']",148000.0,6.32
+2630,['Sports'],148000.0,6.86
+1201,"['BoysLove', 'Comedy', 'Drama', 'Romance']",148000.0,7.87
+1202,"['Drama', 'Romance']",147000.0,7.04
+2411,"['Drama', 'GirlsLove', 'Romance']",147000.0,5.34
+1937,"['Comedy', 'Romance']",147000.0,6.88
+175,"['Action', 'Adventure', 'Comedy', 'Drama', 'Fantasy']",147000.0,7.15
+2037,['Comedy'],147000.0,7.42
+1895,"['Fantasy', 'Romance']",147000.0,6.19
+1617,"['Action', 'Comedy', 'Fantasy', 'SciFi', 'Supernatural']",146000.0,6.93
+1804,"['Action', 'Comedy']",146000.0,7.35
+839,"['Comedy', 'Romance', 'Ecchi']",146000.0,6.40
+1307,"['Comedy', 'Drama']",146000.0,7.61
+2520,"['Drama', 'Horror', 'Mystery', 'Supernatural']",145000.0,6.40
+2687,"['Drama', 'Romance']",145000.0,8.43
+840,"['Action', 'Comedy', 'Supernatural']",145000.0,6.80
+1842,"['Action', 'SciFi']",145000.0,7.26
+1203,"['Mystery', 'Supernatural']",144000.0,7.36
+2521,"['Action', 'Mystery']",144000.0,7.38
+1896,"['Comedy', 'Fantasy', 'Romance']",144000.0,7.12
+1496,"['Action', 'SciFi']",143000.0,7.36
+2905,"['Drama', 'Suspense']",143000.0,6.79
+1667,"['Drama', 'Fantasy', 'SliceofLife']",143000.0,7.37
+1618,"['Drama', 'Romance', 'SliceofLife']",143000.0,6.85
+2565,"['Drama', 'Gourmet', 'Romance', 'Supernatural']",143000.0,7.53
+2102,"['SciFi', 'Sports']",142000.0,6.65
+1382,"['Action', 'Adventure']",142000.0,6.76
+2819,"['Adventure', 'Comedy']",142000.0,6.60
+2148,"['Action', 'Adventure', 'Comedy']",142000.0,7.55
+2352,"['Fantasy', 'Ecchi']",142000.0,5.74
+1704,"['Action', 'Ecchi']",142000.0,6.15
+176,"['Comedy', 'Fantasy', 'Romance', 'SciFi']",141000.0,7.05
+406,"['Comedy', 'Romance', 'SciFi', 'Ecchi']",141000.0,6.57
+2820,"['Comedy', 'SliceofLife']",141000.0,7.65
+841,"['Action', 'Drama', 'SciFi']",141000.0,8.09
+1308,"['Action', 'Mystery', 'Supernatural']",141000.0,7.24
+2259,"['Fantasy', 'GirlsLove', 'SliceofLife']",140000.0,7.51
+899,"['Action', 'Romance', 'SciFi']",140000.0,7.90
+1526,"['Action', 'Supernatural']",140000.0,7.49
+1757,['Sports'],140000.0,7.81
+696,"['Mystery', 'SciFi', 'Supernatural']",140000.0,7.42
+2353,"['Comedy', 'SliceofLife']",139000.0,7.39
+407,"['Comedy', 'Fantasy', 'Romance', 'Ecchi']",139000.0,6.39
+2770,"['Action', 'Adventure', 'Fantasy']",139000.0,6.10
+761,"['Adventure', 'Comedy', 'Drama', 'Mystery', 'SciFi']",138000.0,8.06
+2303,"['Action', 'Comedy', 'Supernatural', 'Ecchi']",138000.0,6.51
+2821,"['Fantasy', 'Mystery', 'Supernatural']",138000.0,7.38
+1619,"['Comedy', 'Supernatural']",138000.0,6.55
+900,"['Adventure', 'Mystery', 'Romance', 'SciFi']",138000.0,8.14
+2771,"['Drama', 'SciFi']",138000.0,6.58
+2458,"['BoysLove', 'Comedy', 'Drama']",138000.0,7.41
+1897,"['Action', 'Comedy', 'Romance', 'Supernatural', 'Ecchi']",138000.0,5.99
+1758,"['Fantasy', 'Romance', 'Supernatural']",137000.0,7.02
+1063,"['Action', 'Comedy', 'SciFi', 'Ecchi']",137000.0,7.24
+2354,"['Mystery', 'Supernatural']",137000.0,7.34
+1668,"['Action', 'Fantasy', 'Supernatural']",137000.0,7.36
+1706,"['Comedy', 'SliceofLife']",137000.0,8.28
+1258,"['Comedy', 'Fantasy', 'Romance', 'Ecchi']",137000.0,6.52
+1705,"['Action', 'Comedy', 'Fantasy']",137000.0,7.06
+215,"['Drama', 'Romance', 'SliceofLife']",136000.0,7.19
+484,"['Action', 'BoysLove', 'Drama', 'Fantasy', 'Mystery', 'Romance', 'Supernatural']",135000.0,6.78
+177,"['Action', 'Adventure', 'Fantasy', 'Supernatural']",135000.0,8.03
+2688,"['Mystery', 'Suspense']",135000.0,6.76
+2566,"['Comedy', 'SliceofLife']",134000.0,7.38
+807,"['Action', 'Horror', 'Supernatural']",134000.0,6.85
+2149,"['BoysLove', 'Comedy', 'Drama', 'Romance', 'SliceofLife']",134000.0,6.89
+2213,['Sports'],134000.0,7.17
+1144,"['Comedy', 'Romance']",133000.0,6.67
+1352,"['Action', 'Comedy', 'Ecchi']",133000.0,7.41
+2631,"['Comedy', 'SliceofLife']",133000.0,6.80
+2632,"['Comedy', 'Ecchi']",133000.0,6.94
+2214,"['Action', 'Adventure', 'Drama', 'Fantasy', 'Supernatural']",133000.0,7.50
+2150,"['Action', 'SciFi']",133000.0,7.15
+457,"['Comedy', 'Fantasy', 'Romance', 'Supernatural', 'Ecchi']",133000.0,6.94
+901,"['Comedy', 'Drama', 'Mystery', 'Supernatural']",133000.0,8.22
+2857,"['Action', 'Adventure']",133000.0,8.45
+613,"['Drama', 'GirlsLove', 'Romance']",132000.0,7.28
+1228,"['Action', 'Supernatural']",132000.0,6.92
+1991,"['Action', 'Comedy', 'Fantasy', 'SliceofLife']",131000.0,7.19
+2355,"['Comedy', 'SliceofLife']",130000.0,7.47
+216,['Comedy'],129000.0,7.91
+1497,"['Romance', 'Sports', 'Ecchi']",129000.0,6.32
+1259,"['Action', 'Supernatural', 'Ecchi']",129000.0,6.32
+938,"['Comedy', 'Romance']",129000.0,7.21
+902,['Action'],129000.0,7.42
+2459,['Sports'],129000.0,7.63
+2260,['Action'],129000.0,5.38
+1669,['Sports'],128000.0,8.08
+1413,"['Action', 'Drama', 'Horror', 'Romance', 'SciFi', 'Supernatural']",128000.0,6.85
+1843,"['Action', 'Fantasy', 'GirlsLove', 'Ecchi']",128000.0,6.06
+313,"['Action', 'Adventure', 'Comedy', 'SciFi', 'Ecchi']",128000.0,7.39
+1670,['Romance'],128000.0,6.87
+51,"['Comedy', 'Supernatural']",128000.0,8.08
+1092,"['Horror', 'Mystery', 'Supernatural']",127000.0,7.32
+1309,"['Comedy', 'Romance', 'Supernatural', 'Ecchi']",127000.0,6.53
+1938,"['Comedy', 'Romance', 'SliceofLife']",127000.0,6.72
+1527,"['Action', 'Comedy', 'Ecchi']",127000.0,6.29
+2151,"['Comedy', 'Drama', 'Mystery']",126000.0,6.49
+870,['Comedy'],126000.0,7.90
+1027,"['Action', 'Romance']",126000.0,7.58
+1353,"['Action', 'Drama']",126000.0,8.08
+1498,"['Action', 'Comedy']",126000.0,6.88
+1939,['Sports'],125000.0,8.30
+2038,"['Action', 'Drama', 'SciFi']",125000.0,8.23
+2304,"['Mystery', 'SciFi', 'Supernatural']",125000.0,6.33
+408,['SciFi'],124000.0,7.45
+1671,"['Comedy', 'SliceofLife']",124000.0,7.19
+2634,"['Drama', 'SciFi']",124000.0,6.32
+2858,"['Adventure', 'Comedy', 'Fantasy']",124000.0,7.21
+2633,"['Action', 'Fantasy', 'SciFi']",124000.0,6.10
+2152,"['Action', 'Adventure', 'Comedy', 'Supernatural']",124000.0,7.91
+2039,"['Fantasy', 'SliceofLife']",123000.0,7.75
+1707,"['Comedy', 'Fantasy', 'Supernatural']",123000.0,7.78
+2305,"['Comedy', 'Fantasy', 'SliceofLife']",123000.0,7.12
+2689,"['Drama', 'SliceofLife', 'Sports']",123000.0,8.47
+1229,"['Drama', 'Romance', 'SliceofLife']",122000.0,7.71
+1119,"['Comedy', 'Romance']",122000.0,8.24
+2772,"['Action', 'Fantasy', 'Supernatural']",122000.0,7.50
+2522,"['Comedy', 'SliceofLife', 'Supernatural']",122000.0,7.47
+1844,['Comedy'],121000.0,7.79
+2690,['Comedy'],121000.0,7.98
+1672,"['Action', 'Supernatural']",120000.0,7.50
+2988,"['Action', 'Comedy', 'Supernatural', 'Ecchi']",120000.0,5.75
+2103,"['Romance', 'SliceofLife']",120000.0,7.68
+2460,"['Comedy', 'Romance', 'Ecchi']",120000.0,4.88
+2942,['Comedy'],120000.0,7.27
+842,"['Comedy', 'Romance', 'SliceofLife']",119000.0,8.14
+2215,"['Comedy', 'Supernatural']",119000.0,7.42
+1260,"['Action', 'Adventure', 'Comedy', 'Fantasy', 'Gourmet']",119000.0,7.52
+16,"['AvantGarde', 'Drama', 'Horror', 'Mystery', 'Supernatural']",119000.0,7.15
+2822,"['Action', 'Drama', 'Fantasy']",119000.0,6.40
+997,"['Comedy', 'Fantasy', 'Romance', 'Ecchi']",119000.0,6.13
+1499,"['Action', 'Comedy', 'Supernatural']",118000.0,7.47
+871,"['Fantasy', 'SciFi', 'SliceofLife']",118000.0,8.49
+2823,"['Comedy', 'Drama']",118000.0,6.88
+2567,['Sports'],118000.0,7.30
+1759,"['Action', 'Adventure', 'Fantasy']",118000.0,6.05
+843,"['Adventure', 'Drama', 'Fantasy']",118000.0,7.28
+1845,"['Fantasy', 'Romance']",118000.0,6.24
+845,"['Action', 'Horror', 'Supernatural']",117000.0,7.20
+1992,"['Drama', 'Romance', 'SciFi']",117000.0,6.98
+2306,['SliceofLife'],117000.0,5.57
+844,"['Adventure', 'Fantasy', 'Romance']",117000.0,7.22
+1028,"['Drama', 'Romance', 'Sports']",117000.0,8.39
+264,"['Adventure', 'Comedy', 'Supernatural']",116000.0,7.54
+1500,"['Action', 'SciFi']",116000.0,6.47
+1093,"['Romance', 'Supernatural']",116000.0,7.44
+2943,"['Drama', 'SliceofLife']",116000.0,7.18
+998,['Action'],116000.0,7.14
+2216,"['Action', 'Comedy', 'Fantasy']",116000.0,7.52
+1846,"['Comedy', 'GirlsLove']",116000.0,7.92
+74,"['Action', 'Sports']",116000.0,7.46
+136,"['Action', 'Comedy', 'Drama', 'Mystery', 'Supernatural']",116000.0,7.59
+2568,"['Adventure', 'Comedy', 'Drama']",115000.0,7.31
+1805,"['Comedy', 'SliceofLife', 'Ecchi']",115000.0,5.90
+2461,"['Action', 'Adventure', 'Drama', 'Mystery']",115000.0,7.13
+969,"['Adventure', 'Fantasy', 'Supernatural']",115000.0,7.62
+2906,"['Drama', 'SliceofLife']",115000.0,7.59
+1673,"['Adventure', 'Comedy', 'Romance']",115000.0,7.86
+1565,"['Romance', 'Ecchi']",115000.0,6.19
+3,"['BoysLove', 'Comedy']",114000.0,6.95
+2412,"['Action', 'Fantasy']",114000.0,6.74
+293,"['Comedy', 'Romance', 'SliceofLife', 'Ecchi']",113000.0,6.16
+2307,"['Action', 'Adventure', 'Fantasy']",113000.0,6.57
+614,"['Action', 'Adventure', 'Drama', 'Fantasy', 'Mystery', 'Romance', 'Supernatural']",113000.0,7.58
+2356,"['Drama', 'Romance']",113000.0,6.97
+903,"['Adventure', 'Comedy', 'Fantasy']",113000.0,7.15
+999,"['Drama', 'Romance']",113000.0,6.50
+1993,"['BoysLove', 'Comedy', 'Drama', 'Romance']",113000.0,7.65
+1383,['Comedy'],113000.0,6.85
+1940,"['Action', 'SciFi']",113000.0,7.73
+808,"['Action', 'Drama']",113000.0,7.38
+158,"['Action', 'Drama', 'Mystery', 'Romance', 'SciFi']",112000.0,7.40
+1994,['Mystery'],112000.0,6.59
+1094,"['Comedy', 'Romance', 'Supernatural']",112000.0,6.68
+2357,"['Adventure', 'Mystery']",112000.0,7.10
+872,"['Comedy', 'Romance', 'Ecchi']",112000.0,7.13
+1528,"['Action', 'Comedy', 'Fantasy']",112000.0,7.30
+2040,"['Drama', 'Romance', 'SliceofLife']",111000.0,7.62
+2462,"['Action', 'Adventure', 'Fantasy', 'Romance']",111000.0,4.60
+485,"['Action', 'Adventure', 'Comedy', 'Drama', 'Supernatural']",111000.0,7.73
+2523,"['Adventure', 'Comedy', 'Fantasy', 'Romance']",111000.0,7.65
+486,"['Comedy', 'Romance', 'Ecchi']",110000.0,6.63
+2727,"['Fantasy', 'Supernatural']",110000.0,6.66
+1620,"['Comedy', 'Fantasy', 'Mystery', 'Supernatural']",110000.0,7.02
+1995,"['Comedy', 'SliceofLife']",110000.0,6.51
+510,"['Drama', 'Romance', 'Sports']",110000.0,7.19
+1708,"['Comedy', 'SliceofLife']",110000.0,6.34
+2463,"['Comedy', 'GirlsLove', 'SliceofLife']",110000.0,6.90
+1029,"['Action', 'Comedy', 'Romance']",110000.0,7.68
+314,"['Action', 'Comedy', 'Drama', 'Fantasy', 'GirlsLove', 'Romance']",110000.0,7.43
+2041,"['Drama', 'Mystery', 'SciFi']",110000.0,6.24
+2859,"['Action', 'Adventure', 'Comedy', 'Fantasy', 'Supernatural']",110000.0,6.71
+1384,"['Action', 'SciFi']",110000.0,7.02
+2635,['Comedy'],109000.0,7.45
+2464,['Sports'],109000.0,7.56
+578,"['Comedy', 'Drama', 'Romance']",109000.0,7.29
+1529,"['Action', 'Fantasy', 'Supernatural']",109000.0,7.40
+615,"['Action', 'SciFi']",109000.0,7.23
+1621,['Action'],108000.0,8.34
+1095,"['Action', 'Romance']",108000.0,7.20
+1566,"['Comedy', 'Romance']",108000.0,7.19
+2824,"['Action', 'Fantasy', 'SciFi']",108000.0,6.71
+2728,['Comedy'],108000.0,6.58
+2308,"['Action', 'Comedy', 'Fantasy', 'Romance', 'Supernatural']",107000.0,7.20
+2261,['SliceofLife'],107000.0,7.57
+1414,"['Fantasy', 'Romance', 'Supernatural']",107000.0,6.71
+1354,"['Action', 'Comedy', 'Fantasy']",107000.0,7.16
+200,"['Action', 'Drama', 'Mystery', 'Supernatural']",107000.0,7.26
+2465,"['Comedy', 'SliceofLife']",106000.0,7.29
+487,"['Action', 'Mystery']",106000.0,7.32
+697,"['Comedy', 'Drama', 'Ecchi']",106000.0,6.73
+2860,"['Drama', 'Mystery']",106000.0,6.87
+762,"['Action', 'SciFi']",106000.0,7.53
+2825,['Comedy'],106000.0,7.71
+2104,"['Action', 'Drama', 'SciFi']",106000.0,6.75
+1568,"['Action', 'Fantasy', 'Romance']",106000.0,6.69
+1567,['Fantasy'],106000.0,6.57
+1674,"['Comedy', 'Fantasy']",105000.0,6.97
+1806,"['Comedy', 'SliceofLife']",105000.0,7.32
+178,"['Comedy', 'Drama', 'Romance', 'SliceofLife']",105000.0,7.11
+1996,"['Action', 'Fantasy', 'Supernatural']",105000.0,5.63
+84,"['Action', 'Drama', 'Mystery']",105000.0,7.29
+2636,"['Comedy', 'Supernatural']",105000.0,6.99
+2217,"['Comedy', 'Romance']",105000.0,5.50
+376,"['Adventure', 'Comedy', 'Fantasy']",105000.0,7.65
+539,"['Action', 'Adventure', 'Comedy', 'Supernatural']",104000.0,7.60
+1847,"['Action', 'Drama', 'Fantasy']",104000.0,7.26
+1848,"['Action', 'Adventure', 'Fantasy']",104000.0,5.84
+2042,['Sports'],104000.0,7.05
+2358,"['Adventure', 'Fantasy']",104000.0,6.22
+1204,"['Action', 'Mystery']",104000.0,7.18
+2105,"['Action', 'Fantasy']",104000.0,6.06
+1675,"['Drama', 'Fantasy', 'SliceofLife']",103000.0,6.76
+179,"['Comedy', 'Drama', 'Romance', 'Supernatural']",103000.0,7.94
+2359,['SciFi'],103000.0,6.75
+2637,"['SliceofLife', 'Sports']",102000.0,6.66
+1385,"['Action', 'Comedy', 'Drama', 'Fantasy', 'Romance', 'SciFi']",102000.0,7.09
+668,"['Drama', 'Romance', 'SliceofLife']",101000.0,8.22
+430,"['Action', 'Comedy', 'Drama']",101000.0,7.62
+1174,"['Comedy', 'SliceofLife']",101000.0,7.54
+2043,"['Action', 'Supernatural']",101000.0,5.48
+1064,['Comedy'],101000.0,7.88
+1569,"['Comedy', 'SliceofLife']",100000.0,7.37
+315,"['Action', 'Drama', 'Romance', 'SciFi']",100000.0,7.19
+1462,"['Action', 'Adventure', 'Fantasy']",99000.0,7.02
+1622,"['AvantGarde', 'Horror', 'Supernatural']",99000.0,7.01
+2153,['Action'],99000.0,7.30
+2360,"['Comedy', 'SliceofLife']",99000.0,6.77
+2154,"['Comedy', 'SliceofLife']",99000.0,7.63
+540,"['Action', 'Comedy', 'Fantasy', 'Supernatural']",99000.0,7.11
+2309,['Action'],99000.0,5.28
+1175,"['Comedy', 'Mystery', 'SciFi', 'Supernatural']",99000.0,7.05
+377,"['Comedy', 'Drama', 'Romance']",99000.0,7.45
+316,"['Action', 'Comedy', 'Drama']",98000.0,7.41
+846,['Comedy'],98000.0,7.41
+847,"['Mystery', 'Supernatural']",98000.0,7.62
+2044,['SliceofLife'],98000.0,6.83
+763,"['Action', 'Fantasy']",98000.0,6.40
+1030,"['Action', 'Supernatural']",97000.0,6.91
+1530,"['Action', 'Comedy', 'Mystery', 'Supernatural']",97000.0,7.26
+764,"['Drama', 'Romance', 'SliceofLife', 'Supernatural']",97000.0,7.18
+1898,"['Drama', 'Fantasy', 'GirlsLove']",96000.0,7.05
+579,"['Comedy', 'Drama', 'Romance']",96000.0,7.48
+2155,"['Adventure', 'Fantasy']",96000.0,5.60
+1710,"['Action', 'SciFi']",96000.0,6.65
+765,"['Comedy', 'Fantasy', 'Romance', 'Ecchi']",96000.0,7.23
+1709,"['Adventure', 'Drama', 'Romance']",96000.0,7.16
+2691,"['Action', 'Adventure', 'Fantasy']",96000.0,7.58
+2466,"['Comedy', 'GirlsLove', 'SliceofLife', 'Supernatural']",96000.0,7.09
+1261,"['Comedy', 'SliceofLife']",96000.0,6.94
+458,"['Drama', 'Romance', 'SliceofLife']",95000.0,6.95
+1849,"['Action', 'GirlsLove']",95000.0,6.20
+1031,"['Comedy', 'Romance']",95000.0,7.28
+52,"['Adventure', 'Comedy', 'Fantasy', 'Romance']",95000.0,7.22
+766,"['Comedy', 'Sports']",95000.0,7.90
+431,['Suspense'],95000.0,7.93
+698,"['Comedy', 'Fantasy', 'Ecchi']",94000.0,6.67
+1145,"['Adventure', 'BoysLove', 'Drama', 'Fantasy']",94000.0,7.22
+541,"['Comedy', 'Drama', 'Romance']",94000.0,7.43
+317,"['Comedy', 'Drama', 'Sports']",94000.0,8.23
+318,['Comedy'],94000.0,7.63
+217,"['Comedy', 'Drama', 'Romance', 'Ecchi']",93000.0,6.75
+873,['Romance'],93000.0,7.01
+1065,"['GirlsLove', 'Romance', 'SliceofLife']",93000.0,7.11
+1570,"['Action', 'Comedy', 'Ecchi']",93000.0,6.72
+201,"['Drama', 'Romance', 'SciFi']",92000.0,7.15
+1205,"['Comedy', 'SliceofLife']",92000.0,7.48
+848,"['Action', 'Drama', 'Horror', 'Romance', 'SciFi']",92000.0,6.88
+1415,"['Action', 'Adventure', 'Drama', 'SciFi']",92000.0,6.66
+319,"['Comedy', 'Gourmet']",92000.0,7.92
+488,"['Adventure', 'Comedy', 'Fantasy', 'Romance']",92000.0,7.26
+511,"['Comedy', 'SliceofLife']",92000.0,7.64
+2524,"['Comedy', 'SliceofLife']",92000.0,7.42
+1032,"['Action', 'Adventure', 'Fantasy', 'Ecchi']",91000.0,6.14
+2944,"['Action', 'Comedy', 'Supernatural', 'Ecchi']",91000.0,7.46
+265,"['Adventure', 'Comedy', 'Drama', 'Fantasy', 'SciFi']",90000.0,7.38
+939,"['Action', 'Comedy', 'SciFi']",90000.0,7.43
+1463,"['Action', 'SciFi']",90000.0,7.09
+2569,['Action'],90000.0,7.58
+616,"['Adventure', 'Comedy', 'Drama', 'Fantasy', 'Romance']",90000.0,7.90
+1230,"['Comedy', 'SciFi']",90000.0,7.42
+2413,"['Romance', 'SliceofLife']",90000.0,6.28
+2106,"['Comedy', 'Fantasy']",90000.0,7.06
+1033,['SliceofLife'],89000.0,7.46
+2218,"['Comedy', 'SliceofLife']",89000.0,7.24
+1760,"['Action', 'Fantasy']",89000.0,7.25
+1501,['Action'],89000.0,7.27
+542,"['Adventure', 'Comedy', 'Fantasy', 'Romance', 'Supernatural', 'Ecchi']",89000.0,6.96
+1416,"['Action', 'Comedy']",88000.0,7.16
+2907,"['Mystery', 'Supernatural']",88000.0,6.45
+1417,"['Comedy', 'SliceofLife']",88000.0,7.91
+1676,"['Drama', 'Romance', 'SciFi']",88000.0,6.74
+1310,"['Comedy', 'Romance', 'Ecchi']",87000.0,6.44
+904,"['Comedy', 'Drama']",87000.0,7.35
+970,['Drama'],87000.0,7.93
+874,"['Drama', 'Fantasy', 'Supernatural', 'Suspense']",87000.0,7.47
+2107,"['Mystery', 'Romance', 'SliceofLife']",87000.0,6.34
+218,"['Adventure', 'Comedy', 'SciFi']",87000.0,7.48
+2908,['SliceofLife'],87000.0,7.30
+2361,"['Comedy', 'SliceofLife']",87000.0,7.48
+699,"['Drama', 'Romance']",87000.0,7.29
+2467,"['Action', 'Fantasy']",87000.0,5.33
+432,"['Adventure', 'Drama', 'SciFi', 'SliceofLife']",87000.0,7.58
+2692,"['Comedy', 'Romance', 'Supernatural', 'Ecchi']",87000.0,5.90
+459,"['Comedy', 'Fantasy', 'Romance', 'Ecchi']",87000.0,6.62
+1899,"['Action', 'Adventure', 'SliceofLife']",86000.0,6.59
+1231,"['Comedy', 'Romance', 'Ecchi']",86000.0,6.09
+2156,"['Action', 'Drama', 'Horror', 'SciFi']",86000.0,6.67
+1502,"['Action', 'Fantasy']",86000.0,6.09
+1146,"['Drama', 'Mystery']",86000.0,7.79
+2468,"['Comedy', 'Fantasy', 'Romance']",86000.0,7.24
+2414,"['Comedy', 'Fantasy', 'SliceofLife']",86000.0,6.44
+1941,['Sports'],86000.0,8.02
+725,"['Action', 'Drama', 'Fantasy', 'Horror', 'Supernatural']",85000.0,7.08
+294,"['Comedy', 'Drama', 'SciFi']",85000.0,6.83
+2861,"['Comedy', 'Sports']",85000.0,6.47
+1807,"['Adventure', 'Mystery', 'SciFi', 'Supernatural']",85000.0,6.62
+1571,"['Action', 'Fantasy', 'Ecchi']",85000.0,7.31
+1943,"['Comedy', 'Supernatural']",85000.0,6.89
+1942,"['Action', 'Comedy', 'GirlsLove']",85000.0,6.68
+700,"['Comedy', 'Sports']",85000.0,7.31
+1096,"['Action', 'BoysLove', 'SciFi']",84000.0,6.24
+1120,"['Comedy', 'SliceofLife']",84000.0,7.28
+1418,"['Comedy', 'Drama', 'Romance', 'SliceofLife']",84000.0,7.94
+1262,"['Comedy', 'Drama', 'Romance', 'Ecchi']",84000.0,6.66
+1850,"['Action', 'Drama', 'Fantasy', 'Mystery', 'SciFi', 'Supernatural']",84000.0,6.67
+2108,"['Adventure', 'Fantasy', 'Romance', 'SciFi']",84000.0,6.56
+1097,"['Action', 'Drama', 'Supernatural']",83000.0,7.57
+180,"['Comedy', 'Fantasy', 'Ecchi']",83000.0,7.23
+2945,"['Action', 'Adventure', 'Fantasy']",83000.0,5.35
+1572,"['Comedy', 'SliceofLife']",83000.0,6.66
+2310,"['BoysLove', 'Comedy', 'Drama', 'Romance', 'SliceofLife']",83000.0,7.14
+543,"['Drama', 'Gourmet', 'SliceofLife']",83000.0,7.34
+617,"['Adventure', 'Comedy', 'Drama', 'Fantasy']",82000.0,6.95
+1997,"['Comedy', 'Fantasy', 'Ecchi']",82000.0,5.11
+1711,"['Action', 'SciFi']",82000.0,7.13
+378,"['Drama', 'Romance', 'SliceofLife']",81000.0,7.06
+1712,['SliceofLife'],81000.0,6.07
+1000,"['Drama', 'Fantasy', 'SliceofLife']",80000.0,8.33
+1232,"['Adventure', 'Fantasy', 'SciFi']",80000.0,6.93
+905,"['Action', 'SciFi']",80000.0,6.90
+4,"['Action', 'SciFi', 'Ecchi']",80000.0,7.17
+266,"['Comedy', 'Drama', 'Fantasy']",80000.0,7.91
+1851,['Drama'],80000.0,7.22
+1176,"['Action', 'SciFi', 'Ecchi']",80000.0,7.29
+119,"['Action', 'Adventure', 'Drama', 'SciFi']",79000.0,7.36
+2909,"['Comedy', 'SliceofLife']",79000.0,6.88
+1900,"['Comedy', 'SliceofLife']",79000.0,6.84
+2045,"['Action', 'Drama']",79000.0,7.01
+1531,"['Comedy', 'Romance', 'Supernatural']",79000.0,6.67
+1464,"['Action', 'Fantasy', 'SciFi']",79000.0,7.50
+2570,"['Comedy', 'Fantasy']",79000.0,6.64
+701,"['Comedy', 'SliceofLife']",79000.0,7.76
+1944,['Comedy'],79000.0,7.03
+875,"['Action', 'SciFi']",79000.0,6.53
+2773,['Sports'],78000.0,8.26
+1311,"['Comedy', 'Sports', 'Ecchi']",78000.0,6.78
+2157,"['Comedy', 'SliceofLife']",78000.0,7.29
+2693,"['Comedy', 'Drama', 'Mystery']",78000.0,6.89
+2046,"['Action', 'Comedy', 'Drama', 'Fantasy', 'SliceofLife']",78000.0,6.83
+2262,"['Fantasy', 'Romance']",78000.0,6.66
+1465,"['Drama', 'Romance', 'Supernatural']",78000.0,7.27
+1945,"['Action', 'Comedy', 'Fantasy']",77000.0,6.81
+53,"['Action', 'Drama', 'Fantasy', 'Romance']",77000.0,7.41
+2525,"['Comedy', 'SliceofLife']",77000.0,7.02
+2947,['Action'],77000.0,8.82
+2571,"['Comedy', 'Drama', 'Fantasy']",77000.0,7.31
+2729,"['Action', 'Drama']",77000.0,6.33
+2946,"['Comedy', 'Drama', 'Romance']",77000.0,7.35
+2572,"['Drama', 'SciFi']",76000.0,7.75
+1034,"['Action', 'Adventure', 'Fantasy']",76000.0,7.16
+2862,"['Action', 'Fantasy']",76000.0,6.46
+1901,"['Comedy', 'Gourmet', 'SliceofLife']",76000.0,6.79
+726,"['Action', 'Ecchi']",76000.0,6.76
+2311,"['Adventure', 'Comedy', 'Fantasy']",76000.0,7.53
+2362,['Action'],75000.0,6.44
+1312,"['Action', 'SciFi']",75000.0,6.60
+971,['Gourmet'],75000.0,7.84
+1946,"['Comedy', 'SliceofLife']",75000.0,7.50
+767,"['Action', 'Comedy', 'Horror', 'Supernatural']",75000.0,6.99
+2774,"['Comedy', 'Romance', 'Ecchi']",75000.0,5.31
+618,"['Adventure', 'Fantasy']",75000.0,7.29
+619,"['Fantasy', 'SciFi', 'SliceofLife']",74000.0,8.18
+2158,"['Comedy', 'SliceofLife']",74000.0,6.96
+267,"['Adventure', 'Comedy', 'Romance']",74000.0,7.12
+2526,"['Action', 'Fantasy']",74000.0,6.80
+1532,"['Adventure', 'Comedy', 'SliceofLife']",74000.0,6.82
+489,"['Comedy', 'SliceofLife', 'Ecchi']",74000.0,6.53
+1761,"['Comedy', 'GirlsLove']",74000.0,6.54
+727,"['Comedy', 'SliceofLife']",74000.0,7.45
+1623,"['Action', 'Comedy', 'Drama']",74000.0,7.33
+512,"['Action', 'Adventure', 'Drama', 'SciFi']",73000.0,7.26
+2730,"['Action', 'SciFi']",73000.0,6.16
+2573,"['Action', 'SciFi']",73000.0,6.00
+1263,['Sports'],73000.0,6.96
+2312,['Sports'],73000.0,7.66
+1264,"['Comedy', 'Supernatural']",73000.0,7.52
+1001,"['Action', 'Horror', 'Supernatural']",73000.0,7.28
+490,"['Action', 'Romance', 'SciFi', 'Supernatural']",73000.0,7.09
+295,"['Drama', 'Romance']",73000.0,6.73
+2159,"['Action', 'Romance', 'SciFi']",72000.0,7.27
+2160,"['Comedy', 'SliceofLife']",72000.0,6.31
+1002,"['Adventure', 'Fantasy']",72000.0,7.20
+320,"['Comedy', 'Fantasy', 'Romance']",72000.0,6.95
+620,"['Adventure', 'Drama', 'Fantasy', 'SciFi']",72000.0,6.88
+2263,['Comedy'],72000.0,6.38
+2989,"['Action', 'Drama', 'SciFi']",72000.0,7.06
+702,"['Action', 'Drama', 'Fantasy', 'Romance', 'SciFi']",72000.0,6.61
+379,"['Comedy', 'SciFi']",71000.0,7.69
+2415,"['Adventure', 'Drama', 'Fantasy']",71000.0,7.55
+2109,"['Action', 'Drama', 'SciFi']",71000.0,6.26
+513,"['Comedy', 'Romance', 'Supernatural', 'Ecchi']",71000.0,6.46
+1998,"['Adventure', 'SciFi']",71000.0,7.25
+1902,"['Comedy', 'Drama']",71000.0,7.15
+2161,"['Romance', 'SliceofLife']",71000.0,7.35
+120,"['Action', 'Sports']",71000.0,7.48
+1386,['SciFi'],71000.0,7.15
+1313,"['Action', 'Comedy', 'Ecchi']",71000.0,6.19
+1121,"['Action', 'Horror', 'Mystery', 'Supernatural']",71000.0,6.31
+1387,"['Comedy', 'Sports']",70000.0,7.18
+1265,"['Action', 'Fantasy']",70000.0,6.37
+1808,"['Comedy', 'Fantasy', 'Ecchi']",70000.0,6.84
+876,"['Comedy', 'SliceofLife']",70000.0,7.33
+1314,"['Action', 'Supernatural']",70000.0,7.01
+906,"['Action', 'Comedy', 'Romance']",70000.0,7.45
+972,['Comedy'],70000.0,6.63
+2731,"['Fantasy', 'SliceofLife']",70000.0,6.92
+2264,"['Action', 'Fantasy', 'Supernatural']",70000.0,7.14
+1903,"['Action', 'Adventure', 'Fantasy']",70000.0,6.89
+974,"['Comedy', 'Romance', 'Ecchi']",69000.0,7.18
+1947,"['Action', 'SciFi']",69000.0,6.06
+973,"['Comedy', 'GirlsLove', 'Romance']",69000.0,7.07
+703,"['Comedy', 'Gourmet', 'Supernatural']",69000.0,7.56
+1503,"['Action', 'SciFi']",69000.0,7.74
+2162,"['Adventure', 'Fantasy']",69000.0,5.60
+621,"['Action', 'Adventure', 'Drama', 'Mystery', 'SciFi']",69000.0,7.22
+580,"['Fantasy', 'Horror', 'Mystery']",69000.0,7.40
+669,"['Action', 'Horror', 'Romance', 'Supernatural']",69000.0,7.36
+1388,"['Action', 'Comedy', 'SciFi']",68000.0,6.90
+2313,"['Comedy', 'SliceofLife']",68000.0,6.62
+1573,"['Adventure', 'Fantasy']",68000.0,6.45
+2219,"['Comedy', 'SliceofLife']",68000.0,6.52
+1177,['Action'],67000.0,7.52
+622,"['Comedy', 'Romance', 'Supernatural', 'Ecchi']",67000.0,7.24
+2863,['SliceofLife'],67000.0,7.52
+1852,"['Comedy', 'SliceofLife']",67000.0,6.25
+1035,"['Romance', 'Supernatural']",67000.0,6.73
+380,"['Adventure', 'Comedy', 'SciFi']",67000.0,6.80
+1809,"['Comedy', 'SliceofLife']",67000.0,6.47
+2574,"['Action', 'Sports']",67000.0,7.40
+321,"['Drama', 'GirlsLove', 'Romance', 'Supernatural']",67000.0,6.82
+1003,"['Comedy', 'Drama', 'Romance', 'Sports']",67000.0,8.41
+581,"['Comedy', 'Drama', 'Sports']",67000.0,8.20
+2469,['Action'],67000.0,6.95
+219,"['Action', 'Adventure', 'Comedy', 'Drama', 'SciFi']",66000.0,7.53
+1147,"['Drama', 'Sports']",66000.0,7.54
+2110,"['Action', 'SciFi']",66000.0,6.32
+2826,"['Action', 'Supernatural']",65000.0,6.06
+2416,['Supernatural'],65000.0,6.31
+1762,"['Action', 'Comedy', 'Ecchi']",65000.0,6.13
+940,"['Action', 'Adventure', 'Supernatural']",65000.0,6.82
+241,"['Adventure', 'Comedy', 'Fantasy', 'SciFi']",65000.0,6.56
+1853,"['Action', 'Adventure', 'Comedy', 'Mystery']",65000.0,7.90
+2638,"['Action', 'Fantasy']",65000.0,6.51
+1763,"['Action', 'Romance', 'SciFi']",65000.0,6.40
+1036,"['Drama', 'Romance']",65000.0,7.71
+728,"['Drama', 'Sports']",65000.0,8.23
+704,"['Comedy', 'Mystery', 'Supernatural']",64000.0,7.60
+2417,"['SliceofLife', 'Supernatural']",64000.0,7.17
+2047,"['Action', 'Comedy']",64000.0,5.40
+1533,"['Action', 'SciFi', 'Ecchi']",64000.0,6.45
+351,"['Drama', 'GirlsLove', 'Romance', 'SliceofLife']",64000.0,7.30
+623,"['BoysLove', 'Comedy', 'Drama', 'Romance']",64000.0,6.48
+1004,"['Comedy', 'SliceofLife']",64000.0,7.56
+1266,"['Comedy', 'GirlsLove']",63000.0,6.96
+1713,"['Action', 'SciFi']",63000.0,6.68
+2990,"['Action', 'Fantasy', 'Horror']",63000.0,3.82
+624,"['Comedy', 'Romance', 'Supernatural']",63000.0,7.55
+159,"['Action', 'Adventure', 'Comedy', 'SciFi', 'Sports']",63000.0,6.69
+2864,"['Comedy', 'Fantasy', 'Ecchi']",63000.0,5.62
+544,"['Action', 'Comedy', 'Romance']",63000.0,6.86
+941,"['Action', 'Ecchi']",63000.0,6.73
+2775,"['Action', 'Adventure', 'Drama', 'Fantasy', 'Mystery']",62000.0,5.46
+2910,"['Action', 'Adventure', 'Drama', 'Fantasy']",62000.0,5.81
+2575,"['Comedy', 'GirlsLove', 'Ecchi']",62000.0,5.60
+160,"['Drama', 'Romance', 'SliceofLife', 'Supernatural']",62000.0,7.08
+433,"['Action', 'Comedy', 'Drama']",62000.0,7.97
+2111,"['Comedy', 'SliceofLife']",62000.0,6.58
+1355,"['Comedy', 'Sports']",62000.0,6.57
+625,"['Comedy', 'Drama']",61000.0,6.99
+907,"['Comedy', 'SliceofLife']",61000.0,7.68
+2865,"['Action', 'Adventure', 'Fantasy']",61000.0,7.17
+2866,"['Action', 'Adventure', 'Fantasy']",61000.0,6.01
+877,"['Comedy', 'Drama', 'Sports']",61000.0,8.20
+2220,"['Drama', 'Sports']",61000.0,6.68
+975,"['Action', 'Fantasy']",61000.0,7.21
+545,"['Comedy', 'Drama', 'Romance']",61000.0,7.04
+1148,"['Adventure', 'Fantasy']",61000.0,6.50
+976,"['Action', 'Supernatural']",60000.0,7.26
+2363,"['Comedy', 'Drama', 'Fantasy', 'SliceofLife']",60000.0,8.10
+1624,"['Action', 'Fantasy', 'Supernatural']",60000.0,7.63
+2418,['SliceofLife'],60000.0,6.62
+2694,"['Adventure', 'Fantasy']",60000.0,6.74
+2911,"['Drama', 'Mystery', 'SliceofLife']",60000.0,7.19
+85,"['Comedy', 'Drama', 'Fantasy', 'Romance']",60000.0,7.17
+2776,"['Fantasy', 'Mystery', 'Supernatural']",60000.0,6.73
+1267,"['Romance', 'Ecchi']",60000.0,6.65
+2163,"['Comedy', 'SliceofLife']",60000.0,7.10
+1098,"['Adventure', 'Fantasy', 'Supernatural']",60000.0,7.74
+2732,"['Action', 'SciFi']",60000.0,6.04
+849,"['Mystery', 'Supernatural', 'Suspense']",59000.0,7.16
+2527,"['Comedy', 'Gourmet', 'SliceofLife']",59000.0,6.53
+2528,['Drama'],59000.0,7.72
+2529,"['Fantasy', 'SliceofLife']",59000.0,7.68
+2639,"['Drama', 'Mystery', 'Romance', 'SliceofLife']",59000.0,6.74
+1149,"['Comedy', 'Drama', 'Sports']",59000.0,8.34
+514,['Comedy'],59000.0,7.44
+2576,['Drama'],59000.0,5.94
+1419,['SciFi'],59000.0,7.36
+2948,['SciFi'],59000.0,5.37
+1389,['Sports'],59000.0,7.55
+2048,['Comedy'],59000.0,6.97
+768,"['Action', 'Drama', 'SciFi']",59000.0,7.89
+705,"['Fantasy', 'Mystery', 'Supernatural']",59000.0,7.02
+27,"['Adventure', 'Drama', 'Horror', 'Romance', 'Supernatural']",59000.0,7.20
+2164,"['Comedy', 'SliceofLife']",59000.0,6.48
+54,"['Comedy', 'Romance', 'SciFi', 'Ecchi']",59000.0,7.15
+1764,['Fantasy'],59000.0,6.44
+515,"['Comedy', 'Drama', 'SliceofLife', 'Supernatural']",58000.0,7.37
+1420,"['Action', 'Adventure', 'Comedy', 'Ecchi']",58000.0,7.77
+1099,"['Comedy', 'SliceofLife']",58000.0,7.44
+1948,"['Comedy', 'Supernatural']",58000.0,6.76
+381,"['Comedy', 'Drama', 'Romance', 'SciFi', 'Ecchi']",58000.0,6.72
+878,"['Action', 'Drama', 'SciFi']",58000.0,7.14
+1765,"['Action', 'Fantasy']",58000.0,6.70
+2777,"['Comedy', 'SliceofLife']",58000.0,5.80
+908,"['Action', 'BoysLove', 'Supernatural']",57000.0,6.95
+1037,"['Action', 'Drama', 'SciFi']",57000.0,7.05
+220,"['Comedy', 'Drama', 'Romance', 'SliceofLife']",57000.0,7.13
+2112,"['Comedy', 'SciFi']",57000.0,5.86
+1949,"['Comedy', 'Romance']",57000.0,7.02
+1315,['SliceofLife'],56000.0,7.42
+909,"['Action', 'Fantasy', 'Supernatural']",56000.0,6.89
+1714,"['Action', 'Fantasy']",56000.0,6.17
+2049,"['Action', 'SciFi', 'Ecchi']",56000.0,6.78
+1625,"['Action', 'SciFi']",56000.0,7.46
+2640,"['Action', 'Drama']",56000.0,7.13
+670,"['Mystery', 'Supernatural']",56000.0,7.20
+221,"['Action', 'Comedy']",55000.0,7.31
+86,"['Comedy', 'Drama', 'SciFi', 'Sports']",55000.0,7.26
+1626,"['Action', 'Comedy', 'Fantasy']",55000.0,7.43
+1766,"['Action', 'Drama', 'Mystery', 'SciFi']",55000.0,6.58
+2641,"['Action', 'SciFi']",55000.0,7.17
+2949,"['Comedy', 'SliceofLife', 'Sports']",55000.0,7.41
+1466,"['Action', 'Drama', 'Supernatural']",55000.0,7.44
+2867,['Comedy'],55000.0,7.94
+2419,"['Horror', 'Mystery', 'Supernatural']",55000.0,6.58
+1504,"['SliceofLife', 'Supernatural']",55000.0,7.17
+1810,"['Comedy', 'Romance']",55000.0,7.56
+202,"['Adventure', 'Comedy', 'Supernatural']",54000.0,6.90
+2531,"['Adventure', 'Fantasy']",54000.0,6.53
+2530,"['Drama', 'SliceofLife']",54000.0,6.67
+2913,"['Comedy', 'SliceofLife']",54000.0,6.66
+2912,['Sports'],54000.0,6.73
+2165,['Romance'],54000.0,7.75
+2420,"['Mystery', 'Supernatural']",54000.0,6.14
+1534,"['Comedy', 'SliceofLife']",54000.0,7.66
+2868,"['Action', 'SciFi']",54000.0,6.80
+1505,"['Action', 'Sports', 'Ecchi']",53000.0,5.77
+5,"['BoysLove', 'Comedy', 'Drama', 'Fantasy', 'Horror']",53000.0,7.04
+55,"['Action', 'Sports']",53000.0,7.42
+1356,['Comedy'],53000.0,7.03
+2869,['Sports'],53000.0,7.24
+729,"['Comedy', 'Drama', 'Fantasy', 'Romance', 'Ecchi']",53000.0,6.53
+322,"['Action', 'Adventure', 'Comedy', 'Ecchi']",53000.0,6.70
+2532,['Sports'],53000.0,7.58
+1574,"['Action', 'SciFi']",53000.0,7.34
+546,"['Action', 'Fantasy', 'Supernatural']",53000.0,7.56
+2991,"['Mystery', 'Romance', 'SciFi']",53000.0,6.18
+491,"['Drama', 'Romance', 'SliceofLife']",53000.0,7.63
+2533,"['Fantasy', 'Ecchi']",52000.0,5.23
+28,"['Action', 'Adventure', 'Comedy', 'Drama', 'Supernatural']",52000.0,7.56
+1421,['Sports'],52000.0,7.21
+1506,"['Action', 'Adventure', 'SciFi']",52000.0,6.42
+1627,['Sports'],52000.0,6.53
+2577,"['Action', 'Drama', 'Fantasy', 'SciFi']",52000.0,5.79
+2050,['Romance'],52000.0,7.02
+1390,"['Comedy', 'SliceofLife']",52000.0,6.65
+2221,"['Adventure', 'Fantasy']",52000.0,6.00
+771,"['Adventure', 'Comedy', 'Fantasy', 'Supernatural']",51000.0,6.38
+769,"['Action', 'Comedy', 'Drama']",51000.0,7.62
+977,"['Action', 'Adventure', 'Fantasy', 'Ecchi']",51000.0,6.55
+770,"['Adventure', 'Drama', 'Mystery']",51000.0,7.22
+1357,"['Fantasy', 'Romance', 'Supernatural']",51000.0,7.18
+1038,"['Comedy', 'Romance', 'Supernatural']",51000.0,7.25
+56,"['Action', 'SciFi', 'Ecchi']",51000.0,7.40
+2265,['Comedy'],51000.0,7.60
+1715,['Drama'],51000.0,6.98
+2113,['Comedy'],51000.0,6.26
+2222,"['Drama', 'SliceofLife', 'Sports']",50000.0,5.71
+137,"['Drama', 'Mystery']",50000.0,7.23
+1999,"['Comedy', 'SliceofLife']",50000.0,7.04
+1233,"['Action', 'Adventure']",50000.0,7.02
+942,"['Adventure', 'Fantasy']",50000.0,6.95
+1628,"['Comedy', 'SliceofLife']",50000.0,7.44
+2827,['Fantasy'],49000.0,6.69
+2642,"['Action', 'Comedy', 'Drama', 'Mystery', 'Supernatural']",49000.0,6.70
+492,"['Action', 'Adventure', 'Comedy', 'Fantasy']",49000.0,7.26
+434,"['Comedy', 'Drama', 'Fantasy']",49000.0,7.28
+2421,"['Comedy', 'Sports']",49000.0,6.08
+772,"['Comedy', 'Fantasy', 'Romance']",49000.0,7.21
+582,"['Comedy', 'Romance', 'Supernatural', 'Ecchi']",49000.0,6.66
+1005,"['Action', 'Comedy', 'SciFi']",49000.0,7.72
+2733,"['Romance', 'Supernatural']",48000.0,7.02
+547,"['Action', 'Adventure', 'SciFi']",48000.0,7.50
+2114,"['Comedy', 'SliceofLife']",48000.0,6.54
+1629,"['Comedy', 'SliceofLife']",48000.0,6.78
+583,"['Comedy', 'Drama', 'GirlsLove', 'Romance', 'SliceofLife']",48000.0,6.64
+978,"['Drama', 'Romance']",48000.0,6.78
+460,"['BoysLove', 'Comedy', 'Drama', 'Romance', 'SliceofLife']",48000.0,6.66
+1855,"['Comedy', 'SciFi']",48000.0,6.37
+1854,['Fantasy'],48000.0,5.49
+1422,"['Action', 'Mystery']",47000.0,7.27
+382,"['Action', 'Fantasy']",47000.0,6.45
+2734,"['Comedy', 'Supernatural']",47000.0,7.57
+2578,"['Comedy', 'Horror', 'Supernatural']",47000.0,7.22
+2950,"['Adventure', 'Fantasy']",47000.0,6.47
+671,"['Comedy', 'Drama', 'Romance', 'Ecchi']",47000.0,6.70
+1150,"['Action', 'Ecchi']",47000.0,6.74
+2643,['SliceofLife'],47000.0,6.10
+435,"['Drama', 'Romance', 'Sports', 'Supernatural']",47000.0,7.31
+1507,"['Comedy', 'SliceofLife']",47000.0,6.38
+1006,"['Action', 'Drama', 'SciFi']",46000.0,7.27
+2314,"['Action', 'SciFi']",46000.0,6.12
+1423,"['Action', 'Adventure', 'Fantasy']",46000.0,6.26
+1811,"['AvantGarde', 'Horror', 'Supernatural']",46000.0,6.50
+943,"['Action', 'Adventure', 'Fantasy', 'Ecchi']",46000.0,6.73
+1122,"['Comedy', 'Ecchi']",46000.0,6.20
+626,"['Comedy', 'Drama', 'Fantasy', 'Romance']",46000.0,7.11
+1178,"['Action', 'Adventure', 'Comedy', 'Fantasy']",46000.0,6.67
+2696,"['Action', 'Fantasy']",45000.0,6.06
+409,"['Action', 'Drama', 'SciFi']",45000.0,7.27
+2735,"['Comedy', 'Drama']",45000.0,7.41
+2422,"['Drama', 'Mystery', 'Supernatural']",45000.0,6.40
+627,"['Drama', 'Fantasy', 'Supernatural']",45000.0,6.90
+242,"['Action', 'Adventure', 'Comedy', 'SciFi', 'Sports']",45000.0,6.93
+2695,['Comedy'],45000.0,6.70
+1812,"['Comedy', 'SliceofLife']",44000.0,6.88
+910,"['Action', 'Comedy', 'Supernatural']",44000.0,7.31
+2697,"['Action', 'Fantasy', 'Supernatural']",44000.0,6.36
+352,"['Action', 'Comedy', 'Fantasy']",44000.0,7.05
+1039,['Sports'],44000.0,7.22
+628,"['Action', 'Comedy', 'Horror', 'Mystery', 'Supernatural']",44000.0,6.54
+2534,"['Comedy', 'Gourmet', 'SliceofLife']",44000.0,6.42
+2266,"['Comedy', 'Fantasy', 'Supernatural']",44000.0,7.88
+1575,['Sports'],44000.0,6.63
+1206,"['Comedy', 'Drama', 'SliceofLife']",44000.0,7.32
+2000,"['Action', 'SciFi']",44000.0,7.43
+2645,"['Action', 'Supernatural']",44000.0,6.41
+138,"['Action', 'SciFi', 'Ecchi']",44000.0,7.19
+2115,"['Action', 'Comedy', 'SciFi', 'Ecchi']",44000.0,6.51
+2644,"['Comedy', 'SliceofLife']",44000.0,7.74
+1269,"['Action', 'Adventure', 'Fantasy']",44000.0,6.28
+1268,"['Action', 'Comedy', 'SciFi']",44000.0,6.57
+1151,['Action'],43000.0,6.85
+1040,"['Drama', 'Gourmet', 'Romance', 'SliceofLife']",43000.0,7.33
+2579,"['Drama', 'Fantasy']",43000.0,6.92
+1813,['Action'],43000.0,6.49
+1234,"['Comedy', 'SliceofLife']",43000.0,7.67
+1270,"['Comedy', 'Ecchi']",43000.0,6.51
+1856,['SliceofLife'],43000.0,6.89
+1100,"['Comedy', 'Mystery']",43000.0,6.91
+2698,['Comedy'],43000.0,6.77
+548,"['Drama', 'Mystery']",43000.0,7.06
+850,"['Comedy', 'SliceofLife']",43000.0,7.24
+773,['Sports'],43000.0,7.54
+1207,"['Action', 'Adventure', 'SciFi']",43000.0,7.07
+1576,"['Comedy', 'Romance']",43000.0,7.02
+2051,['Sports'],42000.0,7.06
+2001,"['Comedy', 'SliceofLife']",42000.0,6.89
+2364,"['Action', 'Fantasy', 'SciFi']",42000.0,6.64
+2315,"['Comedy', 'Fantasy']",42000.0,6.88
+353,"['Comedy', 'Drama', 'SliceofLife']",42000.0,7.41
+2535,"['Action', 'BoysLove', 'Comedy', 'Supernatural']",42000.0,7.50
+1424,"['Action', 'Fantasy']",42000.0,6.13
+2870,['Action'],42000.0,6.44
+629,"['Action', 'Comedy', 'Fantasy']",42000.0,6.72
+1041,"['Adventure', 'Fantasy']",42000.0,7.17
+851,"['Comedy', 'Fantasy', 'Romance', 'Supernatural', 'Ecchi']",42000.0,6.93
+1152,"['Comedy', 'Sports']",42000.0,7.99
+1425,"['SliceofLife', 'Supernatural']",42000.0,7.01
+2423,"['Comedy', 'Ecchi']",41000.0,5.39
+383,"['Adventure', 'Comedy', 'Romance']",41000.0,7.16
+2267,"['Fantasy', 'Romance']",41000.0,6.14
+2268,"['Drama', 'Fantasy', 'SliceofLife']",41000.0,7.67
+2992,['Fantasy'],41000.0,6.66
+1677,['SliceofLife'],41000.0,5.92
+2736,"['Action', 'Adventure', 'Fantasy']",41000.0,5.96
+852,"['Action', 'SciFi']",41000.0,6.91
+730,"['Drama', 'Romance']",41000.0,6.42
+2470,"['Comedy', 'Fantasy', 'Romance']",41000.0,5.77
+1066,"['Comedy', 'Romance', 'SliceofLife']",41000.0,7.06
+911,"['Action', 'Adventure']",41000.0,7.34
+2646,"['Action', 'Fantasy']",41000.0,5.35
+1950,['SciFi'],41000.0,7.24
+1678,"['Action', 'SciFi']",41000.0,7.21
+436,"['Drama', 'Romance', 'SliceofLife']",40000.0,6.81
+1358,['SliceofLife'],40000.0,7.43
+2914,"['Adventure', 'Fantasy']",40000.0,6.98
+2580,"['Action', 'Adventure', 'Comedy', 'Mystery']",40000.0,8.14
+1426,"['Action', 'Adventure', 'Fantasy', 'Ecchi']",40000.0,6.27
+630,"['Drama', 'Fantasy', 'GirlsLove', 'Romance']",40000.0,7.43
+1577,"['Comedy', 'Fantasy', 'SliceofLife']",40000.0,6.93
+2471,"['Comedy', 'Sports']",40000.0,6.89
+1904,"['Comedy', 'SliceofLife', 'Ecchi']",40000.0,5.79
+2002,['SliceofLife'],40000.0,4.47
+912,"['Action', 'Comedy', 'Ecchi']",40000.0,7.00
+853,"['Action', 'Comedy', 'Romance', 'SciFi', 'Ecchi']",40000.0,6.56
+549,"['Action', 'Comedy', 'Drama']",40000.0,7.17
+268,"['Adventure', 'Horror', 'Supernatural']",39000.0,6.68
+774,"['Adventure', 'Comedy', 'Drama', 'Fantasy', 'Romance']",39000.0,8.03
+913,"['Action', 'Adventure', 'Drama', 'Suspense']",39000.0,7.52
+1716,"['Adventure', 'Fantasy', 'SciFi']",39000.0,6.50
+2915,"['Comedy', 'Romance', 'Supernatural', 'Ecchi']",39000.0,5.38
+2536,['Fantasy'],39000.0,5.39
+2053,"['BoysLove', 'Comedy']",39000.0,6.71
+2052,"['Comedy', 'Romance']",39000.0,7.15
+2581,"['Comedy', 'SliceofLife']",39000.0,6.36
+2472,"['Action', 'Comedy', 'Ecchi']",39000.0,6.30
+550,"['Comedy', 'Romance', 'SciFi']",39000.0,7.10
+1101,"['Gourmet', 'SliceofLife']",39000.0,7.58
+384,"['Drama', 'Mystery', 'Supernatural']",39000.0,7.03
+323,"['Comedy', 'Drama', 'Mystery', 'Supernatural']",39000.0,7.20
+2473,"['Action', 'Drama', 'SciFi']",39000.0,5.69
+1391,"['Action', 'Fantasy']",38000.0,6.75
+2269,"['Drama', 'Fantasy', 'SliceofLife']",38000.0,7.66
+2054,"['Comedy', 'SliceofLife']",38000.0,6.85
+1153,"['Action', 'SciFi']",38000.0,6.81
+2003,"['Gourmet', 'SliceofLife']",38000.0,6.63
+2916,"['Comedy', 'GirlsLove', 'SliceofLife']",38000.0,7.43
+1007,"['Action', 'Fantasy', 'Romance']",38000.0,7.10
+2647,"['Comedy', 'Drama']",38000.0,7.17
+1235,"['Comedy', 'Ecchi']",38000.0,5.86
+2424,"['Action', 'Adventure', 'Comedy', 'Drama', 'Supernatural']",38000.0,7.21
+222,"['Drama', 'Fantasy', 'SciFi', 'Supernatural']",38000.0,6.64
+1067,"['Comedy', 'GirlsLove', 'SliceofLife', 'Ecchi']",37000.0,6.86
+810,['Action'],37000.0,7.47
+2583,"['Fantasy', 'Romance']",37000.0,6.65
+2699,['Ecchi'],37000.0,5.72
+269,"['Comedy', 'Mystery', 'Supernatural']",37000.0,7.26
+121,"['Comedy', 'Drama', 'Romance', 'SliceofLife']",37000.0,6.78
+516,['Fantasy'],37000.0,7.47
+809,"['Comedy', 'Sports', 'Ecchi']",37000.0,7.13
+2582,['SciFi'],37000.0,6.33
+182,"['Adventure', 'Comedy', 'Fantasy', 'SciFi']",36000.0,7.20
+1359,"['Action', 'Fantasy']",36000.0,6.85
+1360,"['Action', 'SciFi', 'SliceofLife']",36000.0,6.30
+1630,"['Comedy', 'Sports', 'Ecchi']",36000.0,7.04
+2737,"['Drama', 'Fantasy', 'SliceofLife']",36000.0,6.05
+707,"['Drama', 'Romance', 'Ecchi']",36000.0,6.87
+2474,"['Comedy', 'Drama', 'Mystery']",36000.0,7.16
+2584,"['Action', 'Adventure', 'Comedy', 'Fantasy']",36000.0,6.38
+2585,['Sports'],36000.0,6.68
+270,"['Action', 'Comedy']",36000.0,6.98
+879,"['Adventure', 'Comedy', 'Drama', 'Fantasy', 'Romance']",36000.0,7.12
+2951,"['Action', 'Adventure', 'Fantasy']",36000.0,5.86
+493,['Drama'],36000.0,8.06
+1578,"['Comedy', 'Supernatural']",36000.0,7.55
+551,"['Comedy', 'Romance']",36000.0,7.03
+914,"['Comedy', 'Fantasy', 'Romance']",36000.0,6.81
+181,"['Action', 'Adventure', 'Comedy', 'SciFi']",36000.0,6.91
+945,"['Adventure', 'Comedy', 'Fantasy']",36000.0,7.25
+944,"['BoysLove', 'Comedy', 'Gourmet']",36000.0,7.02
+706,"['Adventure', 'Fantasy']",36000.0,6.66
+2586,['SliceofLife'],35000.0,5.35
+1427,['SliceofLife'],35000.0,7.32
+2700,"['Comedy', 'SliceofLife', 'Sports']",35000.0,6.18
+2475,"['Action', 'Adventure', 'Fantasy']",35000.0,6.01
+1508,"['Action', 'Mystery']",35000.0,7.25
+811,"['Action', 'Drama', 'Fantasy', 'Horror', 'Mystery']",35000.0,7.22
+223,"['Fantasy', 'Horror', 'Mystery', 'Supernatural']",35000.0,7.12
+552,"['Comedy', 'Romance']",35000.0,6.38
+2828,"['Action', 'SciFi']",35000.0,8.19
+57,"['Action', 'Adventure', 'Fantasy', 'SciFi']",35000.0,6.19
+2116,"['AvantGarde', 'Horror', 'Supernatural']",35000.0,6.33
+2537,"['Action', 'Drama']",35000.0,5.51
+2871,['SliceofLife'],35000.0,6.77
+631,"['Action', 'Romance', 'Ecchi']",35000.0,6.55
+2476,"['Action', 'Comedy', 'SciFi']",35000.0,6.83
+1535,['SciFi'],35000.0,7.64
+632,"['Comedy', 'Drama', 'SliceofLife', 'Ecchi']",35000.0,6.58
+325,"['Comedy', 'Romance']",34000.0,6.45
+29,"['Comedy', 'SciFi', 'SliceofLife']",34000.0,6.85
+2872,"['Action', 'Fantasy']",34000.0,6.55
+2270,"['Comedy', 'Fantasy', 'SciFi']",34000.0,5.76
+2648,"['Action', 'Drama', 'Romance', 'SciFi']",34000.0,6.80
+2701,"['Comedy', 'SliceofLife']",34000.0,7.70
+2004,"['Comedy', 'Drama']",34000.0,7.35
+854,"['Comedy', 'Ecchi']",34000.0,7.20
+324,"['Comedy', 'Drama', 'Romance', 'SliceofLife']",34000.0,6.53
+2166,"['Action', 'Drama', 'Fantasy', 'Mystery', 'SciFi', 'Supernatural']",34000.0,7.01
+2477,"['Action', 'SciFi']",34000.0,6.42
+1717,['SliceofLife'],33000.0,7.41
+2425,"['Action', 'SciFi']",33000.0,7.59
+271,"['Comedy', 'Drama', 'Mystery']",33000.0,7.74
+915,"['Action', 'Adventure', 'Mystery']",33000.0,7.56
+584,"['Comedy', 'Fantasy', 'Romance']",33000.0,6.32
+296,"['Drama', 'Suspense']",33000.0,6.00
+410,['Comedy'],33000.0,6.90
+326,['Drama'],33000.0,7.59
+775,"['Action', 'Adventure', 'Fantasy']",33000.0,6.49
+225,"['Action', 'Adventure', 'Comedy', 'Drama', 'Supernatural']",33000.0,7.38
+1857,['Horror'],33000.0,5.22
+1679,"['Comedy', 'SciFi']",33000.0,6.15
+2167,"['Comedy', 'Supernatural']",33000.0,7.16
+224,"['Comedy', 'SciFi', 'Ecchi']",33000.0,6.91
+517,"['Comedy', 'Drama', 'Romance', 'Supernatural']",33000.0,6.95
+87,"['Comedy', 'SliceofLife']",32000.0,7.82
+1814,"['Comedy', 'Fantasy', 'Ecchi']",32000.0,5.56
+75,"['Adventure', 'Drama', 'SciFi']",32000.0,6.79
+916,"['Adventure', 'Comedy', 'Fantasy']",32000.0,7.75
+2168,['Romance'],32000.0,6.40
+30,"['Action', 'Romance', 'SciFi']",32000.0,7.68
+2169,['Comedy'],32000.0,5.39
+1068,"['Comedy', 'SciFi', 'Ecchi']",32000.0,6.63
+633,"['Action', 'Romance', 'SciFi']",32000.0,7.30
+672,"['Action', 'Comedy', 'SciFi', 'SliceofLife']",32000.0,6.41
+1858,"['Horror', 'Mystery', 'Supernatural', 'Suspense']",32000.0,6.38
+776,"['Drama', 'Fantasy', 'Romance']",31000.0,6.81
+2917,"['Drama', 'SliceofLife']",31000.0,7.15
+1905,"['Action', 'Adventure', 'Comedy', 'Drama']",31000.0,6.50
+2426,"['Adventure', 'Comedy', 'Fantasy']",31000.0,7.83
+979,"['Comedy', 'Fantasy', 'Ecchi']",31000.0,6.80
+1008,"['Adventure', 'Comedy', 'Fantasy']",31000.0,7.39
+58,"['Action', 'Adventure', 'SciFi']",31000.0,7.25
+139,"['Comedy', 'Drama', 'Romance', 'SciFi', 'Ecchi']",31000.0,7.15
+2873,['SliceofLife'],31000.0,6.46
+1509,"['Comedy', 'SliceofLife']",31000.0,6.73
+1718,"['Comedy', 'SliceofLife']",31000.0,5.98
+1536,"['Comedy', 'SliceofLife']",31000.0,5.81
+1815,"['Adventure', 'Comedy', 'SliceofLife']",31000.0,7.55
+2170,"['Comedy', 'Gourmet', 'SliceofLife']",31000.0,5.63
+2738,"['Action', 'Adventure']",31000.0,6.85
+327,"['Adventure', 'Fantasy', 'Mystery', 'Romance', 'SciFi', 'Suspense']",31000.0,7.52
+1859,"['Comedy', 'Sports']",31000.0,5.40
+553,"['Comedy', 'Drama', 'Romance']",31000.0,6.59
+708,"['Drama', 'Mystery', 'Suspense']",31000.0,7.52
+2778,"['Adventure', 'Comedy', 'SciFi']",31000.0,6.53
+917,"['Adventure', 'Fantasy', 'Supernatural']",31000.0,7.20
+2365,"['Action', 'SciFi', 'SliceofLife']",31000.0,6.38
+272,"['Comedy', 'Romance']",31000.0,7.16
+2587,"['Comedy', 'Drama', 'Sports']",31000.0,7.41
+634,"['Comedy', 'Ecchi']",31000.0,6.97
+2366,"['Action', 'SciFi']",30000.0,6.82
+494,"['Comedy', 'Drama', 'Romance']",30000.0,6.87
+777,"['Action', 'Mystery']",30000.0,6.62
+1510,"['Comedy', 'SliceofLife']",30000.0,6.26
+946,"['Comedy', 'SliceofLife']",30000.0,7.82
+88,"['Comedy', 'Romance', 'Ecchi']",30000.0,6.59
+635,"['Comedy', 'Drama', 'Romance']",30000.0,7.05
+2171,"['Action', 'Drama', 'SciFi']",30000.0,7.60
+1631,['Comedy'],30000.0,6.70
+1208,"['Action', 'SciFi']",30000.0,6.48
+673,"['Drama', 'Mystery', 'SciFi', 'Supernatural']",30000.0,6.75
+2952,['Sports'],30000.0,5.75
+59,"['Action', 'Adventure', 'Comedy', 'Fantasy']",30000.0,6.86
+2588,"['Comedy', 'SliceofLife']",30000.0,7.12
+1392,"['Comedy', 'GirlsLove', 'Ecchi']",30000.0,6.16
+1179,"['Adventure', 'Fantasy']",30000.0,6.28
+2953,"['Comedy', 'SliceofLife']",29000.0,6.46
+183,"['Action', 'Comedy', 'SciFi']",29000.0,7.15
+2172,"['Comedy', 'Fantasy', 'Supernatural']",29000.0,5.33
+411,"['Action', 'Drama', 'SciFi']",29000.0,7.31
+732,"['Drama', 'Romance', 'Supernatural']",29000.0,6.35
+731,"['Comedy', 'SliceofLife']",29000.0,7.28
+2779,"['Comedy', 'SliceofLife']",29000.0,6.25
+1816,"['Action', 'Comedy']",29000.0,6.03
+1537,"['Comedy', 'SliceofLife']",29000.0,5.81
+2739,"['Fantasy', 'SciFi']",29000.0,7.06
+1680,"['Action', 'SciFi']",29000.0,5.81
+709,"['Drama', 'GirlsLove', 'SciFi']",29000.0,6.69
+2589,"['Gourmet', 'SliceofLife']",29000.0,7.62
+1123,"['Action', 'Comedy', 'Fantasy', 'SliceofLife']",29000.0,7.83
+2055,['Comedy'],29000.0,7.04
+2478,"['Action', 'Adventure', 'Fantasy']",29000.0,6.53
+2056,"['Comedy', 'Supernatural']",29000.0,6.45
+918,"['Comedy', 'Drama', 'Fantasy', 'Romance']",29000.0,7.19
+243,"['Adventure', 'Drama', 'Romance']",29000.0,7.59
+1538,"['Drama', 'Romance', 'Ecchi']",29000.0,6.51
+2427,['Action'],29000.0,5.12
+1428,"['Comedy', 'SliceofLife']",29000.0,6.83
+1860,"['Action', 'Fantasy', 'Supernatural']",29000.0,5.88
+1861,"['Comedy', 'SliceofLife']",28000.0,5.84
+1467,"['Comedy', 'Romance']",28000.0,7.45
+226,"['Adventure', 'Fantasy', 'GirlsLove', 'Mystery', 'Ecchi']",28000.0,6.54
+1681,['Adventure'],28000.0,7.09
+1236,"['Comedy', 'SciFi']",28000.0,6.24
+2223,"['Action', 'SciFi']",28000.0,5.97
+2224,"['Comedy', 'SliceofLife']",28000.0,7.02
+184,"['Action', 'Adventure', 'Romance', 'SciFi']",28000.0,6.60
+880,"['Action', 'Fantasy', 'Horror', 'SciFi']",28000.0,6.32
+385,"['Adventure', 'Comedy', 'Fantasy']",28000.0,7.07
+1102,"['Action', 'Drama']",28000.0,6.05
+437,"['Action', 'SciFi']",28000.0,7.26
+919,"['Comedy', 'SciFi']",28000.0,7.26
+1042,"['Comedy', 'SliceofLife']",28000.0,7.71
+44,"['Comedy', 'Romance', 'SciFi', 'Ecchi']",28000.0,6.70
+710,"['Comedy', 'SliceofLife']",28000.0,7.37
+227,"['Action', 'Adventure', 'Fantasy', 'SciFi', 'SliceofLife']",27000.0,7.73
+812,"['Comedy', 'Ecchi']",27000.0,6.40
+813,"['Comedy', 'SliceofLife']",27000.0,6.76
+733,"['Drama', 'SliceofLife']",27000.0,7.88
+1817,['Action'],27000.0,6.86
+76,"['Adventure', 'Comedy', 'SciFi', 'Sports']",27000.0,7.32
+2539,"['Action', 'Comedy', 'Drama', 'Fantasy', 'SliceofLife']",27000.0,7.30
+1468,"['Action', 'Comedy', 'SciFi']",27000.0,6.96
+89,"['Comedy', 'SciFi']",27000.0,7.02
+1579,"['Comedy', 'Fantasy']",27000.0,6.29
+2428,"['Action', 'Comedy', 'Fantasy']",27000.0,6.65
+2316,"['AvantGarde', 'Horror', 'Supernatural']",27000.0,5.79
+2479,"['Action', 'Mystery', 'SciFi']",27000.0,6.30
+2117,"['BoysLove', 'Fantasy']",27000.0,6.98
+2590,"['Action', 'SciFi']",27000.0,6.30
+1316,"['Comedy', 'Supernatural']",27000.0,6.66
+354,"['Action', 'Comedy', 'Ecchi']",27000.0,6.08
+2538,"['Adventure', 'Comedy', 'Fantasy', 'Romance']",27000.0,6.49
+881,['Action'],27000.0,6.50
+1069,"['Drama', 'Fantasy', 'Romance', 'Supernatural']",27000.0,6.60
+711,"['Action', 'Fantasy']",26000.0,6.84
+2592,"['Comedy', 'Fantasy', 'Supernatural']",26000.0,7.85
+1951,"['Comedy', 'SliceofLife']",26000.0,4.70
+438,"['Comedy', 'Drama', 'Romance', 'SliceofLife']",26000.0,6.74
+2057,"['Comedy', 'SliceofLife']",26000.0,6.69
+2591,"['Comedy', 'SciFi', 'SliceofLife']",26000.0,6.37
+2874,['SliceofLife'],26000.0,5.12
+2780,['Sports'],26000.0,6.12
+1272,"['Action', 'Drama']",26000.0,6.33
+554,"['Comedy', 'Romance']",26000.0,7.03
+412,"['Drama', 'GirlsLove', 'Romance']",26000.0,7.64
+1124,"['Comedy', 'SliceofLife']",26000.0,7.90
+2829,"['Action', 'Drama']",26000.0,6.52
+674,"['Adventure', 'Drama', 'SciFi']",26000.0,6.80
+1632,"['Fantasy', 'SciFi']",26000.0,6.16
+518,"['Comedy', 'Drama', 'Romance', 'SliceofLife']",26000.0,6.31
+1317,"['Action', 'Drama', 'Horror']",26000.0,6.22
+185,"['Comedy', 'Drama', 'Romance', 'SliceofLife']",26000.0,6.62
+186,"['Comedy', 'Romance']",26000.0,7.44
+1271,"['Action', 'Adventure', 'Comedy', 'Fantasy']",26000.0,7.10
+947,"['Drama', 'Romance', 'SliceofLife']",26000.0,7.25
+244,"['Drama', 'SliceofLife']",25000.0,6.72
+2955,['Mystery'],25000.0,6.10
+778,"['Drama', 'Romance', 'SliceofLife']",25000.0,7.83
+920,"['Action', 'SciFi']",25000.0,7.10
+2058,"['Action', 'Drama', 'SciFi']",25000.0,6.78
+2059,['Comedy'],25000.0,6.42
+2118,['Comedy'],25000.0,5.93
+2954,['Drama'],25000.0,8.14
+2060,['Supernatural'],25000.0,6.71
+1429,['Sports'],25000.0,7.21
+1393,['Comedy'],25000.0,6.97
+1952,"['Action', 'Adventure']",25000.0,6.71
+2367,['SliceofLife'],25000.0,4.73
+90,"['Horror', 'Supernatural']",25000.0,6.35
+1209,"['Action', 'Adventure', 'Comedy', 'Fantasy']",25000.0,6.41
+585,"['Comedy', 'Romance']",25000.0,6.59
+228,"['Drama', 'Fantasy', 'Horror', 'Mystery']",25000.0,7.03
+1237,['Action'],25000.0,6.03
+6,"['Action', 'Adventure', 'Drama', 'SciFi']",25000.0,6.76
+1511,['Comedy'],25000.0,6.74
+1009,"['Adventure', 'Comedy', 'SciFi']",25000.0,7.00
+461,"['Comedy', 'Drama', 'Romance']",25000.0,7.30
+1767,['Action'],25000.0,5.70
+31,"['Adventure', 'SciFi']",24000.0,6.86
+1469,"['Comedy', 'Gourmet', 'Supernatural']",24000.0,7.21
+328,['Drama'],24000.0,6.69
+2875,"['Comedy', 'SliceofLife']",24000.0,7.59
+1043,"['Drama', 'Fantasy', 'Romance']",24000.0,7.15
+2480,['Sports'],24000.0,6.85
+2429,"['AvantGarde', 'Horror', 'Supernatural']",24000.0,6.31
+1070,['Comedy'],24000.0,6.44
+555,"['Comedy', 'Drama', 'Romance', 'SliceofLife']",24000.0,7.01
+2702,"['Comedy', 'SliceofLife']",24000.0,6.56
+2740,['Action'],24000.0,5.54
+1431,"['Action', 'Adventure']",24000.0,6.79
+2703,"['Mystery', 'Romance']",24000.0,5.74
+556,"['Drama', 'Supernatural']",24000.0,7.04
+187,"['Comedy', 'Romance', 'SciFi', 'Ecchi']",24000.0,6.52
+1430,['Fantasy'],24000.0,6.41
+675,"['Adventure', 'Comedy', 'Romance']",24000.0,6.61
+2993,"['Action', 'Comedy', 'Drama', 'Mystery', 'Supernatural']",24000.0,6.89
+32,"['Comedy', 'SciFi']",24000.0,7.65
+1318,"['Comedy', 'SliceofLife']",23000.0,6.51
+329,"['Fantasy', 'Supernatural']",23000.0,7.01
+2481,['Action'],23000.0,5.70
+1273,"['Comedy', 'Sports', 'Ecchi']",23000.0,6.51
+2918,"['Drama', 'SliceofLife']",23000.0,5.86
+140,"['Comedy', 'SliceofLife', 'Sports']",23000.0,7.55
+2704,"['Action', 'SciFi']",23000.0,6.53
+2430,"['Action', 'SciFi']",23000.0,5.81
+636,"['Adventure', 'Comedy']",23000.0,6.33
+814,['SciFi'],23000.0,7.01
+386,['Action'],23000.0,7.56
+1539,"['Action', 'Fantasy']",23000.0,6.63
+91,"['Comedy', 'Drama', 'Romance', 'SliceofLife']",23000.0,6.39
+980,"['Drama', 'Romance']",23000.0,7.32
+273,"['Action', 'Romance', 'SciFi']",23000.0,7.36
+274,"['Comedy', 'Drama', 'Supernatural', 'Ecchi']",23000.0,6.27
+2593,"['Comedy', 'Supernatural']",23000.0,5.65
+2876,"['Action', 'SciFi', 'Ecchi']",23000.0,7.33
+2061,['Comedy'],23000.0,7.08
+712,"['Action', 'Comedy', 'Drama', 'Fantasy']",22000.0,6.42
+1633,"['Comedy', 'SliceofLife']",22000.0,6.63
+33,"['Comedy', 'Romance', 'SliceofLife']",22000.0,6.41
+1906,['Action'],22000.0,6.53
+122,"['Action', 'Romance', 'SciFi']",22000.0,7.80
+161,"['Action', 'BoysLove', 'Drama', 'Romance', 'Supernatural']",22000.0,6.51
+1361,"['Comedy', 'SliceofLife']",22000.0,7.92
+2369,"['Comedy', 'Supernatural']",22000.0,7.06
+60,"['Comedy', 'Fantasy']",22000.0,7.07
+2368,"['Horror', 'Supernatural']",22000.0,4.68
+779,"['Action', 'Comedy', 'SciFi']",22000.0,6.49
+2005,"['Action', 'Comedy', 'Drama', 'Fantasy', 'Romance', 'SciFi']",22000.0,5.71
+387,"['Comedy', 'Romance', 'Ecchi']",22000.0,6.76
+203,"['Action', 'Adventure', 'Comedy', 'Fantasy', 'SciFi']",22000.0,6.70
+557,"['Drama', 'SciFi', 'Ecchi']",22000.0,7.04
+815,['Romance'],22000.0,7.01
+188,"['Comedy', 'Fantasy', 'Romance']",22000.0,6.93
+388,"['Action', 'Adventure', 'Comedy', 'Drama', 'Supernatural']",22000.0,7.39
+2062,['Comedy'],21000.0,5.96
+1907,"['Action', 'Drama', 'SciFi']",21000.0,7.37
+638,"['Action', 'Adventure', 'SciFi']",21000.0,7.31
+275,"['Drama', 'Sports']",21000.0,6.80
+2063,['Action'],21000.0,5.77
+2064,"['Action', 'Drama', 'Sports']",21000.0,6.93
+389,"['Comedy', 'Romance', 'Ecchi']",21000.0,5.86
+17,"['Action', 'SciFi']",21000.0,6.36
+1540,"['Action', 'Adventure']",21000.0,7.13
+1010,"['GirlsLove', 'SliceofLife']",21000.0,7.76
+519,"['Adventure', 'SciFi']",21000.0,7.23
+637,"['Action', 'Adventure', 'Comedy', 'Romance', 'SciFi']",21000.0,6.11
+2649,"['Adventure', 'Comedy', 'SliceofLife']",21000.0,7.57
+855,['Comedy'],21000.0,7.76
+2781,"['Drama', 'Romance', 'Sports']",21000.0,7.22
+2919,['SliceofLife'],21000.0,6.95
+1274,"['Drama', 'Sports']",21000.0,6.89
+1953,['Comedy'],21000.0,6.68
+34,"['Action', 'Comedy', 'Fantasy', 'SciFi']",21000.0,6.93
+2370,['SciFi'],20000.0,6.54
+2878,"['Drama', 'SliceofLife']",20000.0,7.31
+2227,"['Fantasy', 'Romance']",20000.0,5.47
+92,"['Adventure', 'Comedy', 'Fantasy']",20000.0,7.16
+93,"['Comedy', 'SliceofLife']",20000.0,7.39
+330,"['Action', 'Drama', 'SciFi']",20000.0,7.49
+2317,['Sports'],20000.0,6.32
+2650,"['AvantGarde', 'Horror', 'Supernatural']",20000.0,6.16
+2540,"['Adventure', 'Fantasy', 'Supernatural']",20000.0,5.37
+2225,"['Adventure', 'Romance', 'SciFi']",20000.0,5.25
+2482,"['Adventure', 'Fantasy', 'SciFi']",20000.0,5.65
+2226,"['Comedy', 'SciFi']",20000.0,6.34
+2877,['Comedy'],20000.0,7.36
+1954,"['Comedy', 'Mystery', 'Supernatural']",20000.0,3.29
+355,"['Action', 'Adventure', 'Comedy', 'Mystery', 'SciFi']",20000.0,6.65
+1470,"['Comedy', 'Romance', 'SliceofLife']",20000.0,6.21
+780,['Romance'],20000.0,6.17
+1154,"['Adventure', 'Comedy', 'Fantasy', 'Ecchi']",20000.0,6.98
+1275,"['SliceofLife', 'Sports']",20000.0,7.39
+2065,"['Comedy', 'Horror']",20000.0,5.09
+390,"['Adventure', 'Comedy', 'Romance', 'SciFi']",20000.0,7.16
+1319,"['Comedy', 'SliceofLife', 'Supernatural']",20000.0,6.63
+1394,"['Comedy', 'SliceofLife']",20000.0,7.65
+1072,"['Comedy', 'Sports']",20000.0,7.37
+2006,"['Comedy', 'SliceofLife']",20000.0,6.48
+1071,"['Comedy', 'Ecchi']",20000.0,6.05
+678,"['Action', 'Adventure', 'Comedy', 'SciFi']",20000.0,6.64
+677,"['Comedy', 'Drama', 'SliceofLife']",20000.0,6.86
+676,"['Comedy', 'Drama', 'Romance', 'Ecchi']",20000.0,6.77
+981,"['Comedy', 'Romance', 'Supernatural']",20000.0,7.28
+462,"['Action', 'SciFi']",20000.0,6.33
+1818,['SliceofLife'],20000.0,7.48
+558,"['Action', 'SciFi']",20000.0,6.22
+1719,"['Comedy', 'SliceofLife', 'Supernatural']",20000.0,6.80
+439,"['Comedy', 'Drama', 'Romance', 'SliceofLife']",20000.0,6.49
+1541,"['Comedy', 'Gourmet']",19000.0,5.76
+781,"['Drama', 'Romance', 'SliceofLife']",19000.0,6.76
+245,"['Action', 'Comedy', 'Ecchi']",19000.0,6.00
+45,"['Action', 'Adventure', 'SciFi']",19000.0,6.65
+495,"['Drama', 'Fantasy', 'Mystery', 'SciFi']",19000.0,6.88
+496,"['Comedy', 'SliceofLife']",19000.0,6.92
+440,"['Action', 'Drama', 'SciFi']",19000.0,7.08
+2920,"['Comedy', 'SliceofLife']",19000.0,6.58
+1634,"['Comedy', 'Drama', 'SliceofLife']",19000.0,7.56
+680,"['Comedy', 'Romance', 'SliceofLife']",19000.0,6.57
+679,"['Action', 'Comedy']",19000.0,7.10
+204,"['Comedy', 'SciFi', 'Ecchi']",19000.0,6.72
+18,['Comedy'],19000.0,7.40
+2741,"['Action', 'Adventure', 'SciFi']",19000.0,5.12
+2956,"['Comedy', 'Drama', 'Sports']",19000.0,7.49
+782,"['Drama', 'Romance', 'Supernatural']",19000.0,6.53
+2318,"['Action', 'SciFi']",19000.0,5.71
+948,"['Adventure', 'Fantasy']",19000.0,7.00
+1073,"['Comedy', 'SliceofLife']",19000.0,7.14
+77,"['Comedy', 'Fantasy']",19000.0,7.40
+94,"['Comedy', 'Drama']",19000.0,6.58
+856,"['Adventure', 'Romance', 'SciFi']",19000.0,6.81
+982,['Fantasy'],19000.0,6.47
+2594,"['Action', 'Comedy', 'Romance', 'SciFi']",18000.0,5.43
+391,"['Adventure', 'Fantasy', 'Horror', 'SciFi', 'Supernatural']",18000.0,6.31
+921,"['Mystery', 'SciFi']",18000.0,7.31
+949,"['Mystery', 'Supernatural']",18000.0,7.07
+229,"['Comedy', 'Fantasy', 'SliceofLife']",18000.0,6.43
+639,"['Comedy', 'Drama', 'Fantasy', 'Mystery', 'Romance']",18000.0,6.71
+2830,['Sports'],18000.0,4.71
+2782,"['Action', 'SciFi']",18000.0,8.12
+141,"['Action', 'Adventure', 'SciFi']",18000.0,7.14
+1044,"['Action', 'Adventure']",18000.0,7.26
+1395,"['Comedy', 'Mystery']",18000.0,7.20
+2173,"['Horror', 'Mystery', 'Supernatural', 'Suspense']",18000.0,6.42
+276,"['Comedy', 'Romance', 'SciFi']",18000.0,6.53
+189,"['Adventure', 'Comedy', 'Drama', 'Fantasy', 'Romance']",18000.0,7.29
+2371,"['Comedy', 'Drama']",18000.0,6.27
+816,"['Comedy', 'Romance', 'SciFi', 'SliceofLife']",18000.0,6.40
+2831,"['AvantGarde', 'Horror', 'Supernatural']",18000.0,5.98
+2174,['SliceofLife'],18000.0,7.56
+2007,['Comedy'],18000.0,6.66
+2372,"['Comedy', 'SliceofLife']",17000.0,6.53
+2957,"['Adventure', 'SciFi']",17000.0,5.79
+231,"['Comedy', 'Romance', 'SciFi', 'Ecchi']",17000.0,6.66
+230,"['Adventure', 'Fantasy', 'SciFi']",17000.0,5.87
+983,"['Action', 'Comedy', 'SciFi']",17000.0,6.85
+2921,"['Comedy', 'SliceofLife']",17000.0,6.36
+441,"['Action', 'Drama', 'Mystery', 'Romance']",17000.0,7.27
+922,"['Adventure', 'Comedy', 'Fantasy', 'Supernatural']",17000.0,6.53
+2784,"['Action', 'Adventure', 'Fantasy']",17000.0,6.30
+2783,"['Comedy', 'SciFi']",17000.0,6.58
+1768,['Mystery'],17000.0,7.53
+2651,"['Adventure', 'Fantasy']",17000.0,5.91
+2652,"['Comedy', 'SliceofLife', 'Supernatural']",17000.0,6.68
+331,"['Drama', 'Fantasy', 'SliceofLife', 'Supernatural']",17000.0,7.23
+463,"['Action', 'Comedy', 'Fantasy']",17000.0,6.97
+1276,"['Action', 'Comedy', 'Supernatural', 'Ecchi']",17000.0,6.50
+1210,"['Fantasy', 'Supernatural']",17000.0,6.83
+2483,"['Action', 'Comedy']",17000.0,6.18
+413,"['Adventure', 'Drama', 'Fantasy']",17000.0,6.94
+1955,"['Comedy', 'SliceofLife']",16000.0,5.38
+35,"['Action', 'Adventure', 'Comedy', 'Fantasy']",16000.0,6.74
+559,['Supernatural'],16000.0,6.88
+2742,"['Action', 'SciFi', 'Sports']",16000.0,5.97
+442,['Sports'],16000.0,7.17
+232,"['Action', 'Adventure', 'Comedy', 'SciFi']",16000.0,7.13
+2373,['SliceofLife'],16000.0,7.30
+2485,"['Action', 'Adventure', 'Fantasy']",16000.0,6.02
+497,"['Comedy', 'Romance']",16000.0,5.76
+923,"['Action', 'SciFi']",16000.0,6.13
+246,"['Drama', 'Romance', 'SciFi', 'SliceofLife']",16000.0,6.75
+1862,['Comedy'],16000.0,6.55
+277,"['Adventure', 'Comedy', 'Drama', 'SciFi', 'Supernatural']",16000.0,6.61
+1908,"['Action', 'Comedy', 'Fantasy', 'SliceofLife']",16000.0,7.76
+2319,['Comedy'],16000.0,6.69
+2484,['Comedy'],16000.0,5.68
+2959,"['Action', 'Fantasy']",16000.0,6.15
+2066,['Romance'],16000.0,6.59
+2228,"['Adventure', 'SciFi']",16000.0,6.49
+1045,"['Action', 'Adventure', 'Comedy', 'Fantasy']",16000.0,6.71
+2958,"['Comedy', 'SliceofLife', 'Sports']",16000.0,6.97
+162,"['Action', 'Comedy', 'SciFi', 'Sports']",16000.0,6.90
+78,"['Adventure', 'Comedy', 'Fantasy', 'Romance']",16000.0,6.19
+2785,"['Comedy', 'Romance']",16000.0,5.98
+2994,"['Horror', 'Supernatural']",16000.0,3.74
+818,['Comedy'],16000.0,7.29
+2743,"['Adventure', 'Comedy']",16000.0,5.86
+817,"['Action', 'Fantasy', 'SciFi']",16000.0,6.60
+1819,['SliceofLife'],15000.0,6.07
+2067,['Fantasy'],15000.0,6.26
+1769,"['Action', 'Adventure']",15000.0,6.73
+734,"['Action', 'Fantasy']",15000.0,7.18
+498,"['Action', 'Adventure', 'Comedy']",15000.0,7.20
+2653,['SliceofLife'],15000.0,5.98
+464,"['Drama', 'SciFi']",15000.0,6.97
+2068,"['Comedy', 'Sports']",15000.0,5.58
+2119,['Comedy'],15000.0,6.62
+2486,"['Drama', 'Romance']",15000.0,5.66
+1046,"['Action', 'Drama']",15000.0,7.67
+1432,"['Action', 'Adventure', 'SciFi']",15000.0,6.10
+20,"['Adventure', 'Drama', 'Fantasy', 'SciFi']",15000.0,6.94
+19,"['Adventure', 'Comedy']",15000.0,7.12
+2995,['Comedy'],15000.0,6.27
+1682,['Action'],15000.0,6.49
+1011,"['Action', 'Comedy', 'Fantasy', 'SliceofLife']",15000.0,7.37
+163,['Comedy'],15000.0,7.67
+560,"['Comedy', 'Romance']",15000.0,6.64
+2320,"['Comedy', 'Gourmet', 'SliceofLife']",15000.0,5.87
+332,"['Drama', 'Romance', 'SliceofLife']",15000.0,6.15
+465,['Sports'],14000.0,6.52
+1863,"['Comedy', 'SliceofLife']",14000.0,6.52
+142,"['Comedy', 'Drama', 'SliceofLife', 'Supernatural']",14000.0,7.99
+143,"['Comedy', 'Fantasy']",14000.0,7.42
+1864,"['Action', 'Drama', 'SciFi']",14000.0,7.61
+1238,"['Action', 'Fantasy']",14000.0,7.29
+2960,['Fantasy'],14000.0,5.71
+466,['Mystery'],14000.0,7.41
+1820,"['Comedy', 'SliceofLife']",14000.0,6.22
+713,"['Mystery', 'SliceofLife', 'Supernatural']",14000.0,7.07
+2786,['Fantasy'],14000.0,6.08
+356,"['Comedy', 'Drama', 'Mystery', 'SciFi', 'Ecchi']",14000.0,6.77
+1865,['Mystery'],14000.0,6.20
+561,"['BoysLove', 'Romance']",14000.0,5.82
+2541,"['Action', 'Fantasy']",14000.0,7.80
+1012,"['Drama', 'Romance']",14000.0,6.88
+61,"['Comedy', 'Fantasy', 'Romance']",14000.0,6.53
+62,"['Action', 'Comedy', 'SciFi', 'Ecchi']",14000.0,5.98
+190,['Sports'],14000.0,7.38
+1542,['Comedy'],14000.0,5.87
+443,"['Adventure', 'Drama']",14000.0,7.23
+2922,['Comedy'],14000.0,7.00
+297,"['Comedy', 'Romance', 'SliceofLife']",14000.0,6.79
+2229,['Comedy'],14000.0,5.55
+1956,"['Comedy', 'SliceofLife']",14000.0,6.41
+333,"['Adventure', 'Fantasy', 'Supernatural']",14000.0,6.95
+2069,['Comedy'],14000.0,6.60
+641,"['Action', 'Drama']",13000.0,7.55
+2880,"['Adventure', 'Fantasy']",13000.0,5.75
+2705,"['Fantasy', 'SciFi']",13000.0,5.76
+2230,['Comedy'],13000.0,6.45
+640,"['Drama', 'Romance', 'SciFi']",13000.0,6.62
+499,"['Comedy', 'Fantasy']",13000.0,7.24
+2271,['Drama'],13000.0,6.52
+2654,['Action'],13000.0,4.88
+144,"['Action', 'Comedy', 'SciFi']",13000.0,6.38
+2120,"['Comedy', 'Gourmet']",13000.0,4.64
+278,"['Adventure', 'SciFi']",13000.0,6.66
+2431,"['Comedy', 'SliceofLife']",13000.0,6.54
+2432,['Drama'],13000.0,5.40
+2433,['Comedy'],13000.0,6.53
+562,"['Comedy', 'Romance']",13000.0,6.25
+2595,['Comedy'],13000.0,5.25
+1074,['SciFi'],13000.0,6.59
+586,['Drama'],13000.0,7.38
+164,"['Action', 'Adventure', 'Fantasy', 'Romance', 'SciFi', 'Supernatural']",13000.0,6.07
+2879,"['Comedy', 'SliceofLife']",13000.0,7.25
+63,"['Action', 'Drama', 'Mystery']",13000.0,7.15
+1211,"['Comedy', 'SliceofLife']",13000.0,6.65
+1866,"['Comedy', 'SliceofLife']",13000.0,5.86
+95,"['Adventure', 'SciFi']",13000.0,6.34
+96,['Action'],13000.0,6.95
+2175,['Comedy'],13000.0,7.14
+97,"['SciFi', 'SliceofLife']",13000.0,7.20
+357,"['Action', 'Drama', 'Romance']",13000.0,7.01
+1512,['SliceofLife'],12000.0,6.71
+1362,"['Comedy', 'Drama', 'Horror', 'Romance']",12000.0,5.17
+563,"['Action', 'SciFi']",12000.0,7.08
+1821,"['Comedy', 'SliceofLife']",12000.0,5.96
+46,"['Adventure', 'Comedy', 'Drama', 'SciFi']",12000.0,7.27
+1580,"['SliceofLife', 'Sports']",12000.0,7.55
+1363,"['Comedy', 'Fantasy', 'SliceofLife']",12000.0,6.20
+2273,['Supernatural'],12000.0,4.73
+2176,['Action'],12000.0,4.30
+145,"['Action', 'Adventure', 'SciFi']",12000.0,6.93
+2272,['Action'],12000.0,6.37
+784,"['Comedy', 'SciFi']",12000.0,7.22
+334,['Fantasy'],12000.0,6.43
+2374,['Drama'],12000.0,5.94
+2787,['Action'],12000.0,5.68
+1320,['Comedy'],12000.0,5.48
+500,"['Adventure', 'Drama', 'Fantasy', 'Romance', 'Supernatural']",12000.0,6.16
+2070,['Comedy'],12000.0,6.07
+783,"['Comedy', 'Drama', 'Fantasy', 'SciFi']",12000.0,7.21
+298,"['Adventure', 'Comedy', 'Drama', 'SciFi']",12000.0,5.93
+358,"['Action', 'Drama', 'Mystery', 'Suspense']",12000.0,7.08
+587,"['Action', 'Comedy', 'Fantasy']",12000.0,7.19
+2122,"['Action', 'Fantasy', 'SliceofLife']",12000.0,7.22
+2121,['Comedy'],12000.0,5.99
+2177,"['Comedy', 'SliceofLife', 'Sports']",12000.0,5.77
+857,"['Action', 'Drama']",12000.0,7.12
+2487,"['Drama', 'SliceofLife']",12000.0,6.39
+98,"['Adventure', 'Fantasy', 'SciFi']",12000.0,6.58
+2596,"['Comedy', 'SliceofLife']",12000.0,6.47
+882,"['Horror', 'Supernatural']",11000.0,6.88
+642,"['Adventure', 'SciFi']",11000.0,6.55
+588,['Comedy'],11000.0,6.93
+735,"['Comedy', 'Romance']",11000.0,6.46
+1047,['Fantasy'],11000.0,6.78
+414,"['Drama', 'Romance', 'Supernatural']",11000.0,5.92
+1543,['Fantasy'],11000.0,6.14
+564,['Action'],11000.0,6.68
+1721,"['Action', 'Fantasy']",11000.0,6.81
+565,"['Action', 'Drama']",11000.0,6.68
+1720,['SliceofLife'],11000.0,5.63
+1581,['Comedy'],11000.0,6.50
+681,"['Adventure', 'Comedy', 'Drama', 'Fantasy', 'Romance', 'SciFi']",11000.0,6.84
+2961,['Drama'],11000.0,6.76
+2599,['SliceofLife'],11000.0,7.18
+1683,['Comedy'],11000.0,6.50
+2598,['Action'],11000.0,6.71
+100,"['Action', 'Adventure', 'Comedy', 'SciFi']",11000.0,6.93
+99,"['Comedy', 'GirlsLove', 'Romance', 'SciFi']",11000.0,6.27
+2597,"['Comedy', 'Drama', 'Sports']",11000.0,6.36
+233,"['Action', 'Adventure', 'Drama', 'SciFi']",11000.0,7.10
+501,['Comedy'],11000.0,7.31
+1125,"['Comedy', 'Ecchi']",11000.0,6.04
+191,"['Comedy', 'Romance', 'Supernatural']",11000.0,6.21
+2321,"['Action', 'Fantasy', 'Gourmet', 'SliceofLife']",11000.0,7.07
+1155,['Fantasy'],11000.0,7.43
+2706,"['Comedy', 'Gourmet']",11000.0,6.42
+336,"['Action', 'Comedy', 'SciFi']",11000.0,6.74
+247,"['Comedy', 'SciFi']",11000.0,6.67
+335,"['BoysLove', 'Drama', 'Supernatural']",11000.0,4.89
+2375,['Comedy'],11000.0,7.14
+467,['SciFi'],11000.0,6.10
+2376,"['Gourmet', 'SliceofLife']",11000.0,4.61
+468,"['Comedy', 'SliceofLife']",11000.0,7.26
+2881,"['Comedy', 'SliceofLife']",11000.0,5.81
+337,"['Adventure', 'SciFi']",11000.0,6.38
+1867,"['Comedy', 'Gourmet']",11000.0,4.59
+1635,"['Comedy', 'Mystery']",10000.0,5.79
+444,"['Action', 'Fantasy', 'SciFi']",10000.0,6.32
+1868,['Mystery'],10000.0,7.65
+643,['SciFi'],10000.0,7.27
+1869,"['Comedy', 'SliceofLife']",10000.0,4.76
+2832,['SliceofLife'],10000.0,6.67
+736,"['Drama', 'Fantasy', 'Romance']",10000.0,6.92
+248,"['Drama', 'Supernatural', 'Ecchi']",10000.0,5.91
+2744,"['Comedy', 'SliceofLife']",10000.0,5.54
+785,"['Adventure', 'Drama', 'SciFi']",10000.0,7.16
+1770,"['Fantasy', 'Romance']",10000.0,7.46
+1364,"['Comedy', 'Supernatural']",10000.0,5.90
+359,"['Adventure', 'Comedy', 'Drama']",10000.0,6.85
+786,['SciFi'],10000.0,6.56
+2923,['Sports'],9900.0,6.35
+1013,"['Action', 'SciFi']",9900.0,6.71
+1870,['Action'],9900.0,6.65
+101,"['Action', 'Comedy']",9900.0,7.40
+192,"['Action', 'Adventure', 'Drama', 'SciFi']",9800.0,6.54
+234,"['Drama', 'SciFi', 'Supernatural']",9800.0,7.36
+924,"['Comedy', 'SciFi']",9800.0,6.65
+123,"['Adventure', 'Comedy', 'Fantasy']",9800.0,5.93
+64,"['Action', 'Drama', 'Mystery', 'SciFi']",9800.0,6.01
+1582,['Comedy'],9800.0,5.45
+2322,"['Comedy', 'SliceofLife']",9700.0,6.05
+165,"['Comedy', 'SciFi']",9700.0,7.16
+2745,"['Action', 'Fantasy']",9700.0,7.49
+589,"['Comedy', 'Romance', 'SciFi']",9700.0,6.42
+146,"['Action', 'Drama']",9700.0,6.55
+205,"['Action', 'Horror', 'Supernatural']",9600.0,6.00
+2924,"['Action', 'Fantasy']",9600.0,6.90
+883,"['Action', 'Fantasy']",9600.0,7.17
+2071,['Action'],9500.0,6.62
+714,"['Mystery', 'SciFi']",9500.0,6.69
+1822,"['Comedy', 'Fantasy']",9500.0,5.43
+2833,['SliceofLife'],9300.0,6.96
+79,"['Comedy', 'Drama']",9300.0,7.43
+21,"['AvantGarde', 'Comedy']",9300.0,7.26
+502,"['Comedy', 'Drama']",9300.0,6.49
+1433,['Comedy'],9300.0,5.72
+7,"['Action', 'Drama', 'SciFi']",9200.0,6.97
+360,"['Action', 'Comedy', 'Drama', 'SciFi', 'Ecchi']",9200.0,6.18
+235,"['Comedy', 'Romance', 'SciFi']",9200.0,6.93
+1103,"['Action', 'SciFi']",9200.0,7.23
+2488,"['Comedy', 'SciFi', 'SliceofLife']",9100.0,6.54
+715,"['Action', 'Comedy']",9100.0,7.21
+147,"['Comedy', 'SciFi']",9000.0,7.28
+520,['Romance'],9000.0,6.37
+469,"['Comedy', 'SciFi', 'Ecchi']",9000.0,5.63
+338,"['Action', 'Adventure', 'SciFi']",9000.0,7.05
+392,"['Adventure', 'Drama', 'SciFi', 'Supernatural']",8900.0,7.10
+2123,"['Drama', 'SliceofLife']",8900.0,6.23
+1434,"['Comedy', 'SliceofLife']",8900.0,6.56
+470,['Comedy'],8900.0,7.20
+249,"['Comedy', 'Drama', 'Romance', 'SliceofLife']",8900.0,6.58
+787,"['Action', 'Adventure', 'Comedy', 'Drama', 'Fantasy']",8900.0,6.62
+1771,['Sports'],8900.0,6.05
+339,['Action'],8800.0,5.96
+1772,"['Comedy', 'SciFi']",8800.0,6.87
+250,"['Action', 'SciFi']",8800.0,6.80
+2178,['Action'],8800.0,6.66
+279,"['Action', 'Fantasy', 'Supernatural']",8800.0,5.99
+788,['Adventure'],8800.0,6.30
+236,"['Action', 'Adventure', 'SciFi']",8700.0,6.47
+340,"['Drama', 'Romance', 'SciFi', 'SliceofLife']",8700.0,6.39
+950,['Fantasy'],8700.0,6.61
+148,"['Drama', 'Romance']",8700.0,6.26
+644,"['Action', 'Adventure']",8700.0,6.56
+2746,"['Comedy', 'SliceofLife']",8700.0,4.85
+361,"['Drama', 'Romance', 'SliceofLife']",8700.0,6.57
+1909,"['Comedy', 'Mystery']",8600.0,6.45
+102,"['Adventure', 'Drama', 'Romance']",8600.0,7.30
+645,"['Drama', 'Fantasy', 'SliceofLife']",8600.0,6.42
+149,"['Drama', 'Romance', 'SliceofLife']",8500.0,6.00
+2274,"['Comedy', 'SliceofLife']",8500.0,6.61
+590,['Comedy'],8500.0,7.30
+819,"['Action', 'SciFi', 'Sports']",8400.0,6.80
+1435,"['SliceofLife', 'Sports']",8400.0,6.68
+362,"['Adventure', 'Comedy', 'SciFi']",8400.0,6.63
+2434,['Romance'],8400.0,6.27
+737,"['Action', 'SciFi']",8400.0,6.53
+2275,"['Action', 'SciFi']",8400.0,6.42
+1126,"['Action', 'Adventure', 'SciFi']",8400.0,7.08
+8,"['Drama', 'Horror', 'SciFi']",8300.0,6.18
+364,"['Action', 'Adventure', 'Comedy', 'Fantasy', 'SciFi', 'Ecchi']",8200.0,4.85
+363,"['Adventure', 'Comedy', 'Fantasy']",8200.0,5.34
+592,['Drama'],8100.0,6.54
+591,['Fantasy'],8100.0,6.15
+738,"['Adventure', 'SciFi']",8100.0,6.95
+1436,"['Comedy', 'SliceofLife']",8000.0,6.32
+393,"['Comedy', 'SliceofLife']",8000.0,6.65
+2707,"['Action', 'Adventure', 'Fantasy', 'Supernatural']",8000.0,5.00
+1212,"['Comedy', 'SliceofLife']",8000.0,5.56
+646,"['Comedy', 'Romance']",8000.0,6.49
+1277,['SciFi'],7900.0,6.78
+394,"['Comedy', 'Romance', 'SciFi', 'Ecchi']",7900.0,6.92
+2747,['Comedy'],7900.0,5.32
+566,"['Adventure', 'Drama', 'Romance']",7900.0,6.22
+2748,['Fantasy'],7800.0,5.47
+2600,['Comedy'],7800.0,7.07
+984,['Comedy'],7800.0,7.12
+739,"['Comedy', 'SciFi']",7700.0,6.27
+1048,"['Comedy', 'Romance']",7700.0,6.34
+2542,"['Comedy', 'SliceofLife']",7700.0,6.38
+415,"['Comedy', 'Drama', 'Romance', 'SciFi']",7700.0,6.12
+1636,['Action'],7700.0,6.45
+445,"['Action', 'Adventure', 'SciFi']",7700.0,7.04
+985,['Comedy'],7600.0,7.86
+166,"['Adventure', 'SciFi']",7600.0,7.56
+416,"['Comedy', 'SciFi']",7600.0,7.20
+1278,"['Comedy', 'Supernatural']",7600.0,6.55
+1365,"['Action', 'Adventure']",7600.0,6.41
+647,['Fantasy'],7500.0,6.63
+2179,['Comedy'],7500.0,4.38
+925,"['Action', 'Comedy', 'Romance']",7500.0,6.55
+567,"['Action', 'SciFi']",7500.0,6.81
+446,"['Adventure', 'Fantasy', 'Supernatural']",7400.0,6.69
+2323,"['Action', 'Comedy']",7400.0,5.64
+648,"['Adventure', 'Fantasy']",7400.0,5.57
+1722,['Comedy'],7400.0,6.74
+206,"['Action', 'Comedy', 'Fantasy', 'Supernatural']",7400.0,6.11
+2276,['Action'],7200.0,6.51
+417,['Mystery'],7200.0,6.88
+1823,['Comedy'],7200.0,6.19
+593,"['Drama', 'Fantasy']",7200.0,6.65
+1437,['Comedy'],7100.0,6.47
+395,"['Action', 'Comedy', 'SciFi', 'Sports']",7100.0,6.94
+521,"['Action', 'Adventure', 'Drama']",7100.0,6.62
+1513,"['Action', 'Comedy', 'Suspense']",7000.0,5.49
+365,"['Adventure', 'Drama', 'SciFi']",7000.0,6.33
+280,"['Comedy', 'Fantasy', 'SciFi']",7000.0,7.07
+1871,"['Comedy', 'SliceofLife']",7000.0,6.78
+299,"['Action', 'Adventure', 'Comedy', 'Mystery']",6900.0,6.30
+124,['Comedy'],6900.0,6.20
+682,"['Adventure', 'Comedy', 'Fantasy']",6900.0,6.97
+103,"['Adventure', 'SciFi', 'Supernatural']",6800.0,6.99
+789,['Drama'],6800.0,7.37
+2008,['Action'],6800.0,5.32
+2072,['SliceofLife'],6800.0,6.81
+2277,['Comedy'],6800.0,6.49
+300,"['Comedy', 'Drama', 'Romance', 'SliceofLife', 'Supernatural']",6800.0,7.13
+2655,"['Action', 'Drama', 'Supernatural']",6700.0,5.43
+1049,"['Drama', 'SliceofLife']",6700.0,7.61
+1773,"['Comedy', 'SliceofLife']",6700.0,5.92
+951,"['Action', 'SciFi']",6600.0,5.82
+522,"['Comedy', 'Romance']",6600.0,6.53
+790,['Fantasy'],6500.0,6.32
+2601,"['Comedy', 'SliceofLife', 'Supernatural']",6500.0,6.64
+791,['SciFi'],6400.0,6.82
+2073,"['Comedy', 'SliceofLife']",6400.0,4.74
+1910,['SliceofLife'],6400.0,6.50
+65,"['Comedy', 'Drama', 'SliceofLife']",6200.0,6.53
+792,['SciFi'],6200.0,6.88
+594,"['Action', 'Comedy', 'SciFi', 'Sports']",6200.0,6.98
+2788,"['Action', 'Fantasy']",6200.0,5.49
+1723,"['Comedy', 'Fantasy', 'SliceofLife']",6200.0,6.59
+716,['Adventure'],6200.0,6.92
+2074,['Comedy'],6200.0,6.34
+740,"['Adventure', 'Fantasy']",6100.0,6.59
+2656,"['Comedy', 'SliceofLife']",6100.0,6.50
+22,"['Comedy', 'Ecchi']",6100.0,6.46
+66,['Sports'],6100.0,6.87
+2882,['Mystery'],6100.0,5.66
+67,"['Comedy', 'Gourmet']",6100.0,6.80
+1471,"['Adventure', 'Fantasy']",6100.0,6.55
+2180,['Fantasy'],6100.0,6.59
+167,"['Adventure', 'Comedy', 'Romance']",6000.0,6.80
+2075,['Supernatural'],6000.0,5.85
+396,"['Comedy', 'Ecchi']",6000.0,5.51
+341,"['Comedy', 'Drama', 'Romance']",5900.0,5.80
+649,"['Action', 'Adventure', 'SciFi']",5900.0,6.81
+2749,"['Action', 'Comedy', 'Fantasy']",5900.0,6.14
+2657,"['Action', 'Adventure', 'Comedy', 'SciFi']",5900.0,6.26
+342,"['Adventure', 'Fantasy', 'Supernatural']",5800.0,7.14
+1050,['Comedy'],5800.0,7.09
+2489,"['Comedy', 'SliceofLife']",5800.0,6.70
+301,"['Action', 'Adventure', 'Comedy', 'SciFi']",5700.0,6.79
+471,"['Adventure', 'SciFi']",5700.0,6.65
+2435,"['Comedy', 'SciFi']",5700.0,3.91
+68,"['Action', 'Fantasy']",5600.0,7.01
+524,['Comedy'],5600.0,6.15
+523,"['Adventure', 'Comedy', 'Fantasy']",5600.0,6.15
+447,"['Action', 'Ecchi']",5600.0,6.58
+2602,['SliceofLife'],5600.0,6.57
+952,"['Action', 'Comedy', 'SciFi']",5600.0,6.43
+1279,['Drama'],5500.0,6.88
+650,['Comedy'],5500.0,7.20
+80,"['Action', 'SciFi']",5500.0,6.84
+1472,['Comedy'],5400.0,5.26
+281,"['Fantasy', 'Romance']",5400.0,6.52
+2708,"['Comedy', 'SliceofLife']",5300.0,6.07
+2436,['Comedy'],5300.0,5.56
+472,"['Drama', 'Fantasy', 'Supernatural']",5300.0,6.17
+104,"['Drama', 'SliceofLife']",5300.0,6.47
+168,['Comedy'],5300.0,6.70
+1724,['Comedy'],5300.0,5.93
+1213,"['Action', 'Comedy', 'Drama', 'Romance']",5300.0,5.99
+1214,['Comedy'],5200.0,6.78
+2925,"['Adventure', 'Mystery']",5200.0,5.12
+125,"['Action', 'Adventure', 'SciFi']",5200.0,6.54
+1366,['Action'],5200.0,6.43
+23,"['Action', 'Comedy', 'SciFi']",5200.0,6.01
+366,"['Adventure', 'SciFi']",5200.0,6.13
+2789,['Action'],5200.0,6.31
+2603,['SliceofLife'],5200.0,7.16
+2709,['SliceofLife'],5100.0,7.01
+793,"['Comedy', 'Fantasy', 'Horror']",5100.0,6.88
+2278,"['Comedy', 'SliceofLife']",5100.0,4.75
+448,"['Comedy', 'Fantasy']",5100.0,6.31
+568,"['Comedy', 'SciFi']",5100.0,6.30
+47,"['Adventure', 'Drama', 'Fantasy']",5000.0,6.31
+2790,['Sports'],5000.0,6.44
+2009,"['Comedy', 'SliceofLife']",5000.0,5.39
+2279,"['Action', 'Adventure', 'Fantasy']",5000.0,4.93
+1774,['Fantasy'],4900.0,6.19
+2076,"['Adventure', 'Comedy']",4900.0,5.52
+884,"['Adventure', 'Fantasy', 'Romance']",4900.0,6.79
+2280,['Action'],4800.0,4.33
+1911,['Comedy'],4800.0,6.39
+651,"['Comedy', 'Fantasy', 'SliceofLife']",4800.0,6.86
+1473,"['Comedy', 'SliceofLife']",4800.0,6.41
+652,"['Comedy', 'Fantasy']",4800.0,7.31
+717,"['Adventure', 'Comedy']",4800.0,7.05
+2543,"['Comedy', 'Fantasy']",4800.0,6.01
+1280,['Fantasy'],4800.0,6.72
+397,"['Adventure', 'Drama', 'SciFi']",4800.0,7.32
+193,"['Comedy', 'SliceofLife']",4700.0,7.31
+169,"['Adventure', 'Comedy', 'Fantasy', 'Gourmet']",4700.0,6.01
+36,"['Adventure', 'Comedy', 'SciFi']",4700.0,6.55
+718,"['Adventure', 'Drama', 'SciFi']",4700.0,7.29
+2791,['SliceofLife'],4700.0,7.14
+2124,['Comedy'],4600.0,5.44
+858,['Drama'],4600.0,5.76
+449,"['Action', 'SciFi']",4600.0,7.13
+2010,"['Comedy', 'Fantasy', 'SliceofLife']",4600.0,6.55
+2077,"['Adventure', 'Comedy']",4600.0,5.86
+1075,"['Comedy', 'SliceofLife']",4600.0,7.24
+1872,"['Comedy', 'Mystery']",4500.0,6.26
+398,"['Comedy', 'Fantasy']",4500.0,5.71
+1725,['SliceofLife'],4500.0,7.06
+683,['SciFi'],4500.0,3.33
+2490,"['Comedy', 'Drama', 'Sports']",4500.0,6.74
+450,"['Drama', 'Romance', 'SciFi', 'SliceofLife']",4500.0,5.86
+2996,"['Comedy', 'Fantasy']",4400.0,4.31
+1156,['Action'],4400.0,6.29
+794,"['Action', 'Adventure']",4400.0,6.69
+653,"['Action', 'Adventure', 'Comedy', 'SciFi']",4400.0,6.87
+251,"['Action', 'Adventure', 'Mystery']",4400.0,6.43
+126,['SciFi'],4400.0,5.37
+885,"['Adventure', 'Comedy']",4400.0,6.51
+207,"['Action', 'Comedy', 'SciFi']",4400.0,5.79
+1873,['Adventure'],4400.0,6.43
+473,"['Drama', 'Supernatural', 'Ecchi']",4300.0,5.51
+859,['Comedy'],4300.0,7.07
+343,"['Action', 'Sports']",4300.0,6.39
+418,"['Drama', 'SciFi']",4300.0,6.68
+1438,['Action'],4200.0,5.91
+569,['Fantasy'],4200.0,6.74
+1014,"['Action', 'SciFi']",4200.0,6.26
+2962,"['Adventure', 'Comedy', 'Drama', 'Romance', 'SliceofLife']",4200.0,6.40
+1051,['Comedy'],4100.0,6.32
+302,"['SciFi', 'Sports']",4100.0,6.53
+503,"['Adventure', 'Drama', 'Fantasy']",4100.0,6.97
+105,"['Comedy', 'Fantasy', 'Romance']",4100.0,6.75
+2926,"['Comedy', 'SliceofLife']",4100.0,5.75
+2792,"['Comedy', 'SliceofLife']",4100.0,6.47
+150,"['Action', 'Adventure', 'Comedy', 'SciFi']",4100.0,6.89
+106,"['Adventure', 'Comedy', 'Drama', 'SciFi']",4000.0,7.25
+151,"['SciFi', 'SliceofLife']",4000.0,5.64
+399,"['Adventure', 'Sports']",4000.0,6.65
+2281,"['Gourmet', 'SliceofLife']",4000.0,4.82
+1957,['SliceofLife'],4000.0,6.90
+451,"['Adventure', 'Comedy', 'Gourmet']",3900.0,7.13
+595,"['Comedy', 'Ecchi']",3900.0,4.54
+9,['Comedy'],3900.0,7.28
+2604,"['Action', 'Comedy', 'SciFi']",3900.0,3.17
+1439,['Fantasy'],3900.0,6.86
+1104,"['Adventure', 'SciFi']",3800.0,7.10
+525,"['Adventure', 'BoysLove', 'Comedy', 'Fantasy']",3800.0,6.52
+2750,"['Comedy', 'SliceofLife']",3800.0,5.86
+1583,"['Comedy', 'Supernatural']",3800.0,5.91
+570,"['Action', 'Adventure', 'Drama', 'SciFi']",3800.0,6.75
+37,"['Adventure', 'Comedy', 'Fantasy']",3800.0,7.14
+474,"['Adventure', 'Drama', 'Romance']",3700.0,7.27
+303,"['Comedy', 'Romance', 'SliceofLife']",3700.0,6.41
+2834,['Action'],3700.0,6.64
+107,"['Comedy', 'Fantasy']",3700.0,6.15
+282,"['Drama', 'SliceofLife', 'Sports']",3700.0,6.28
+2835,"['Comedy', 'SliceofLife']",3500.0,5.52
+654,"['Action', 'Comedy']",3500.0,6.87
+2963,['Adventure'],3500.0,6.05
+504,"['Action', 'SciFi']",3500.0,7.37
+2282,"['Action', 'Adventure', 'Fantasy']",3500.0,5.62
+2710,"['Action', 'Adventure', 'Comedy', 'SciFi']",3500.0,5.93
+283,"['Comedy', 'SciFi']",3400.0,5.99
+1127,['Comedy'],3400.0,5.63
+741,"['Adventure', 'SciFi']",3400.0,6.30
+1875,['Comedy'],3400.0,6.29
+2491,"['Comedy', 'SliceofLife']",3400.0,6.24
+2658,"['Comedy', 'SliceofLife']",3400.0,6.43
+684,"['Adventure', 'Comedy', 'SciFi']",3400.0,6.62
+1874,['Comedy'],3400.0,5.95
+69,"['Action', 'Adventure', 'Mystery', 'SciFi', 'Supernatural']",3300.0,5.72
+1876,"['Comedy', 'SliceofLife']",3300.0,7.26
+742,"['Action', 'Fantasy']",3300.0,6.21
+505,['Fantasy'],3300.0,6.79
+1584,['Fantasy'],3300.0,6.97
+2324,"['Comedy', 'Fantasy']",3300.0,3.39
+108,"['Action', 'Drama', 'Sports']",3300.0,7.14
+1180,['Comedy'],3300.0,6.20
+2078,['Comedy'],3200.0,4.71
+2964,"['Action', 'Adventure', 'Comedy']",3200.0,6.43
+2283,"['Comedy', 'SciFi']",3200.0,5.74
+655,"['Action', 'Fantasy']",3200.0,6.64
+10,"['Action', 'Adventure', 'SciFi']",3200.0,7.18
+986,['Adventure'],3200.0,6.96
+2125,['Comedy'],3200.0,6.25
+152,"['Action', 'Adventure', 'Comedy', 'SciFi']",3200.0,6.59
+1637,['Comedy'],3200.0,5.31
+2659,"['Comedy', 'SliceofLife']",3200.0,6.01
+38,"['Action', 'Drama']",3200.0,7.05
+70,['Comedy'],3100.0,6.50
+367,"['Adventure', 'Comedy']",3100.0,7.07
+685,['Comedy'],3100.0,7.19
+596,"['Horror', 'Supernatural']",3100.0,5.85
+2377,"['Comedy', 'SciFi']",3100.0,6.32
+1775,['Sports'],3100.0,6.45
+1912,['Comedy'],3100.0,6.06
+2965,"['Action', 'Fantasy']",3100.0,5.69
+1281,['Comedy'],3000.0,6.44
+1052,"['Comedy', 'SliceofLife']",3000.0,7.24
+795,"['Comedy', 'Fantasy']",3000.0,6.97
+39,['SciFi'],3000.0,5.64
+419,"['Action', 'Comedy']",3000.0,5.73
+194,"['Adventure', 'SciFi']",2900.0,6.70
+1053,"['Comedy', 'SliceofLife']",2900.0,5.20
+2325,['Supernatural'],2900.0,5.86
+400,"['Action', 'Adventure', 'Comedy', 'Fantasy']",2900.0,7.30
+109,"['Action', 'SciFi']",2900.0,5.41
+344,"['Adventure', 'Comedy', 'Romance', 'SciFi', 'Ecchi']",2800.0,6.00
+2182,"['Comedy', 'SliceofLife']",2800.0,6.12
+1282,['Comedy'],2800.0,6.59
+452,"['Adventure', 'Comedy', 'Fantasy']",2800.0,7.14
+2181,"['Comedy', 'SliceofLife']",2800.0,6.39
+2836,"['Comedy', 'Gourmet', 'SliceofLife']",2800.0,5.10
+2544,"['Comedy', 'Fantasy']",2800.0,5.90
+927,"['Action', 'Adventure', 'Drama', 'Romance']",2700.0,7.25
+2492,['Comedy'],2700.0,5.32
+1157,"['Comedy', 'Romance']",2700.0,6.26
+926,['Comedy'],2700.0,7.07
+2011,['Supernatural'],2700.0,5.18
+1959,['Comedy'],2600.0,5.68
+1960,['Comedy'],2600.0,4.98
+1958,"['Comedy', 'Fantasy']",2600.0,6.84
+1544,['Comedy'],2500.0,5.70
+1440,"['Adventure', 'Drama']",2500.0,6.66
+1128,"['Adventure', 'Drama', 'Fantasy', 'SliceofLife']",2500.0,6.80
+1054,['Comedy'],2500.0,5.20
+656,['Comedy'],2500.0,6.33
+2793,"['Comedy', 'SliceofLife']",2500.0,7.50
+2326,['Mystery'],2500.0,5.20
+820,"['Comedy', 'SliceofLife']",2500.0,6.22
+1877,"['Comedy', 'SliceofLife']",2500.0,5.64
+1441,['Comedy'],2400.0,6.54
+111,"['Action', 'SciFi']",2400.0,4.92
+1545,"['Comedy', 'Fantasy']",2400.0,6.89
+1776,['Comedy'],2400.0,5.45
+110,"['Adventure', 'SciFi']",2400.0,6.92
+2126,"['Fantasy', 'SliceofLife']",2400.0,6.90
+252,"['Action', 'Supernatural']",2400.0,5.29
+1367,"['Adventure', 'Fantasy']",2400.0,6.57
+1129,['Comedy'],2300.0,6.99
+2794,['SliceofLife'],2300.0,5.98
+1514,"['Action', 'Fantasy', 'Supernatural']",2300.0,5.75
+345,"['Comedy', 'Fantasy', 'SciFi']",2300.0,5.99
+2605,['SliceofLife'],2300.0,6.41
+2079,['Comedy'],2300.0,4.64
+1777,"['Adventure', 'Comedy', 'SciFi']",2200.0,5.34
+346,['Comedy'],2100.0,6.23
+1778,"['Comedy', 'SliceofLife']",2100.0,5.91
+253,"['Action', 'SciFi', 'Supernatural']",2100.0,5.11
+928,"['Comedy', 'Fantasy']",2100.0,6.58
+597,['Comedy'],2100.0,5.92
+1585,['Action'],2100.0,5.85
+420,"['Action', 'Adventure', 'Comedy', 'Ecchi']",2100.0,6.81
+401,"['Comedy', 'Romance', 'SliceofLife']",2100.0,6.53
+2127,['Comedy'],2100.0,4.14
+657,"['Action', 'Sports']",2100.0,6.54
+81,"['Action', 'Comedy', 'Drama', 'SciFi']",2000.0,6.71
+1546,['Comedy'],2000.0,6.29
+402,"['Adventure', 'SciFi']",2000.0,6.15
+153,"['Action', 'Fantasy']",2000.0,5.75
+1215,['SciFi'],2000.0,6.13
+237,"['Adventure', 'Fantasy']",1900.0,6.83
+1548,['Comedy'],1900.0,6.39
+1913,"['Action', 'Comedy', 'Gourmet']",1900.0,5.30
+796,"['Adventure', 'Comedy', 'Gourmet']",1900.0,7.15
+284,"['Action', 'Adventure', 'SciFi']",1900.0,6.17
+1283,['Comedy'],1900.0,5.91
+1586,"['Comedy', 'SliceofLife']",1900.0,6.79
+2966,['Comedy'],1900.0,7.11
+743,"['Comedy', 'Fantasy']",1900.0,5.97
+1547,['Comedy'],1900.0,6.51
+1515,['Adventure'],1800.0,6.45
+2285,['Horror'],1800.0,5.49
+170,"['Adventure', 'Drama', 'Horror', 'SciFi', 'Supernatural']",1800.0,4.99
+2284,"['Adventure', 'Comedy']",1800.0,5.89
+2378,['Comedy'],1800.0,5.29
+1587,"['Adventure', 'Fantasy']",1800.0,6.65
+254,['Comedy'],1700.0,6.41
+1105,"['Comedy', 'Gourmet']",1700.0,5.63
+453,"['Adventure', 'Fantasy']",1700.0,6.33
+11,"['Action', 'Adventure']",1700.0,6.57
+1878,['SliceofLife'],1700.0,5.96
+255,"['Action', 'SciFi']",1700.0,6.84
+2379,"['Fantasy', 'SliceofLife']",1700.0,6.86
+1961,['Comedy'],1700.0,6.03
+40,"['Comedy', 'Horror', 'Mystery', 'Supernatural']",1700.0,6.60
+2606,"['Adventure', 'Comedy']",1700.0,6.31
+238,"['Adventure', 'Comedy']",1700.0,6.62
+1158,"['Action', 'Sports']",1700.0,6.37
+71,"['Action', 'SciFi']",1600.0,5.71
+256,['Sports'],1600.0,5.98
+1106,"['Action', 'Comedy']",1600.0,6.11
+506,"['Action', 'Comedy']",1600.0,6.00
+12,"['Comedy', 'Horror', 'Mystery', 'Supernatural']",1500.0,6.21
+929,"['Comedy', 'Fantasy', 'SliceofLife']",1500.0,6.32
+686,"['Action', 'Drama']",1500.0,5.29
+1181,"['Comedy', 'Sports']",1500.0,6.32
+2796,"['Adventure', 'Comedy', 'Fantasy']",1500.0,6.31
+797,"['Action', 'Adventure', 'Fantasy']",1500.0,6.38
+368,"['Action', 'Drama']",1500.0,6.54
+1638,"['Action', 'Adventure', 'Comedy']",1500.0,6.48
+285,"['Action', 'Adventure', 'SciFi']",1400.0,5.47
+1284,['Comedy'],1400.0,5.91
+1639,['SliceofLife'],1400.0,6.38
+1285,['Sports'],1400.0,6.35
+2183,['Fantasy'],1400.0,5.78
+13,['SciFi'],1400.0,6.19
+2545,['SliceofLife'],1400.0,6.05
+1182,"['Comedy', 'SliceofLife']",1400.0,7.01
+2286,['Comedy'],1400.0,5.36
+1588,['Comedy'],1400.0,5.41
+2327,['Comedy'],1400.0,4.50
+1076,"['Comedy', 'SciFi', 'SliceofLife']",1400.0,5.49
+1914,['Comedy'],1400.0,6.09
+1107,['Comedy'],1400.0,5.57
+112,"['Adventure', 'SciFi']",1300.0,6.06
+1239,['Comedy'],1300.0,6.37
+1589,"['Adventure', 'Fantasy']",1300.0,6.01
+154,['SciFi'],1300.0,5.55
+2968,"['Action', 'Adventure', 'SciFi']",1300.0,5.92
+1962,"['Comedy', 'Gourmet', 'SliceofLife']",1300.0,6.32
+1183,"['Action', 'Comedy']",1300.0,6.04
+1321,"['Action', 'Fantasy']",1300.0,6.88
+1549,['Comedy'],1200.0,6.18
+1286,"['Comedy', 'Fantasy']",1200.0,5.43
+1726,['Comedy'],1200.0,5.79
+2969,"['Adventure', 'Comedy']",1200.0,5.92
+24,['Action'],1200.0,6.01
+257,"['Adventure', 'Fantasy']",1200.0,5.99
+953,"['Action', 'Fantasy']",1200.0,6.59
+2797,"['Adventure', 'Comedy']",1200.0,6.07
+1368,"['Action', 'Fantasy']",1200.0,7.04
+2328,"['Action', 'Comedy', 'SciFi']",1100.0,6.30
+2381,"['Comedy', 'SliceofLife']",1100.0,5.74
+860,['Fantasy'],1100.0,6.40
+208,['Adventure'],1100.0,6.42
+598,['Comedy'],1100.0,5.06
+1550,['Action'],1100.0,5.24
+2884,"['Comedy', 'SciFi']",1100.0,6.08
+1915,['SliceofLife'],1100.0,5.47
+658,['Comedy'],1100.0,6.12
+2885,['Comedy'],1000.0,6.13
+127,"['Comedy', 'SliceofLife']",1000.0,6.15
+2660,"['Fantasy', 'SliceofLife']",1000.0,6.67
+1159,['Comedy'],1000.0,5.93
+195,"['Action', 'Adventure']",1000.0,5.18
+2383,"['Comedy', 'SliceofLife']",1000.0,5.93
+2382,['Comedy'],1000.0,5.11
+286,"['Adventure', 'SciFi']",1000.0,6.22
+1288,['Comedy'],994.0,5.72
+1880,"['Comedy', 'SliceofLife']",989.0,6.17
+2384,"['Adventure', 'SciFi']",978.0,6.14
+1590,['Comedy'],974.0,5.47
+526,"['Action', 'Sports']",960.0,6.05
+1824,['Comedy'],956.0,6.12
+475,['Comedy'],942.0,6.43
+2081,"['Comedy', 'Supernatural']",933.0,5.95
+287,"['Action', 'Adventure', 'SciFi']",931.0,6.16
+1592,"['Comedy', 'SliceofLife']",930.0,5.74
+2837,"['Comedy', 'Ecchi']",926.0,6.22
+1593,['Comedy'],925.0,5.74
+14,['Adventure'],911.0,6.34
+2082,['Comedy'],898.0,6.03
+41,"['Action', 'Adventure', 'Comedy', 'SciFi']",893.0,5.99
+196,"['Comedy', 'Drama']",865.0,6.54
+403,['SliceofLife'],863.0,6.83
+1779,['SliceofLife'],854.0,6.20
+659,"['Comedy', 'Fantasy']",849.0,5.78
+1594,['Comedy'],840.0,5.88
+2971,"['Comedy', 'Fantasy']",837.0,6.08
+1370,['Comedy'],822.0,5.44
+421,"['Action', 'Drama']",804.0,6.57
+1322,['Comedy'],801.0,5.71
+2385,"['Comedy', 'Fantasy']",797.0,4.73
+2329,"['Action', 'Drama']",763.0,4.81
+660,['Comedy'],763.0,5.93
+42,['Mystery'],762.0,6.20
+1289,['Comedy'],750.0,5.73
+2999,"['Comedy', 'SliceofLife']",748.0,5.26
+1160,"['Adventure', 'Fantasy']",747.0,5.97
+571,"['Action', 'Comedy', 'Fantasy']",746.0,6.04
+1323,['Comedy'],742.0,5.17
+1055,['Comedy'],740.0,4.94
+1825,['Comedy'],737.0,6.12
+1640,"['Comedy', 'Romance', 'SliceofLife']",727.0,5.55
+861,['Comedy'],725.0,5.42
+2012,['SliceofLife'],714.0,5.54
+2607,"['Comedy', 'SliceofLife']",713.0,5.72
+72,['Fantasy'],695.0,5.72
+2546,"['Action', 'Comedy', 'SciFi']",695.0,6.35
+1641,"['Action', 'Comedy']",677.0,5.61
+73,['Comedy'],676.0,5.36
+1324,"['Action', 'Comedy']",643.0,6.07
+304,['Comedy'],637.0,5.31
+128,"['Action', 'Sports']",626.0,5.16
+2798,"['Comedy', 'SliceofLife']",615.0,5.84
+2185,"['Comedy', 'SliceofLife']",583.0,5.16
+987,['Comedy'],583.0,5.84
+114,"['Action', 'Adventure', 'Fantasy']",565.0,6.49
+931,['SliceofLife'],560.0,6.27
+1077,"['Comedy', 'SliceofLife']",556.0,6.05
+1442,['Comedy'],533.0,5.93
+573,['Comedy'],517.0,5.45
+2332,"['Comedy', 'Sports']",505.0,5.89
+1729,"['Comedy', 'Gourmet']",504.0,5.57
+1397,['Comedy'],500.0,5.70
+130,['Comedy'],464.0,5.22
+305,['Adventure'],449.0,6.71
+454,['Fantasy'],419.0,5.80
