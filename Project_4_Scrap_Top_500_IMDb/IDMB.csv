@@ -1,0 +1,496 @@
+,Name,Gender,Born in,Birth,Death,Age,Movies/Series
+0,Milly Alcock,F,"Sydney, Australia",11/4/2000,Alive,22.0,14.0
+1,Emma D'Arcy,F,,,,,11.0
+2,Morfydd Clark,F,Sweden,17/3/1990,Alive,32.0,27.0
+3,Emily Carey,F,"London, England, UK",30/4/2003,Alive,19.0,15.0
+4,Olivia Cooke,F,"Oldham, Greater Manchester, England, UK",27/12/1993,Alive,28.0,26.0
+5,Matt Smith,M,"Northampton, Northamptonshire, England, UK",28/10/1982,Alive,39.0,49.0
+6,Eve Best,F,"London, England, UK",31/7/1971,Alive,51.0,29.0
+7,Paddy Considine,M,"Burton-on-Trent, Staffordshire, England, UK",5/9/1973,Alive,49.0,47.0
+8,Nazanin Boniadi,F,"Tehran, Iran",22/5/1980,Alive,42.0,33.0
+9,Isabelle Fuhrman,F,"Washington, District of Columbia, USA",25/2/1997,Alive,25.0,43.0
+10,Lily-Rose Depp,F,"Neuilly-sur-Seine, Hauts-de-Seine, France",27/5/1999,Alive,23.0,16.0
+11,Charlbi Dean,F,"Cape Town, South Africa",5/2/1990,29/8/2022,32.0,11.0
+12,Tatiana Maslany,F,"Regina, Saskatchewan, Canada",22/9/1985,Alive,36.0,75.0
+13,Rhys Ifans,M,"Haverfordwest, Pembrokeshire, Wales, UK",22/7/1967,Alive,55.0,83.0
+14,Tom Sturridge,M,"Lambeth, London, England, UK",21/12/1985,Alive,36.0,27.0
+15,Michelle Monaghan,F,"Winthrop, Iowa, USA",23/3/1976,Alive,46.0,53.0
+16,Austin Butler,M,"Anaheim, California, USA",17/8/1991,Alive,31.0,36.0
+17,Pilou Asbæk,M,"Copenhagen, Denmark",2/3/1982,Alive,40.0,47.0
+18,Sonoya Mizuno,F,"Tokyo, Japan",1/7/1986,Alive,36.0,22.0
+19,Tom Cruise,M,"Syracuse, New York, USA",3/7/1962,Alive,60.0,50.0
+20,Jennifer Connelly,F,"Catskill Mountains, New York, USA",12/12/1970,Alive,51.0,54.0
+21,Ana de Armas,F,"Havana, Cuba",30/4/1988,Alive,34.0,32.0
+22,Boyd Holbrook,M,"Prestonsburg, Kentucky, USA",1/9/1981,Alive,41.0,47.0
+23,Sylvester Stallone,M,"New York City, New York, USA",6/7/1946,Alive,76.0,97.0
+24,Sydney Sweeney,F,"Spokane, Washington, USA",12/9/1997,Alive,24.0,50.0
+25,Amber Midthunder,F,USA,26/4/1997,Alive,25.0,32.0
+26,Robert Aramayo,M,"Kingston upon Hull, England, UK",6/11/1992,Alive,29.0,17.0
+27,Florence Pugh,F,"Oxford, Oxfordshire, England, UK",3/1/1996,Alive,26.0,28.0
+28,Markella Kavenagh,F,Australia,__/__//2000,Alive,22.0,10.0
+29,Olivia Wilde,F,"New York City, New York, USA",10/3/1984,Alive,38.0,65.0
+30,Graham McTavish,M,"Glasgow, Scotland, UK",4/1/1961,Alive,61.0,134.0
+31,Mason Alexander Park,M,"Fairfax, Virginia, USA",12/7/1995,Alive,27.0,11.0
+32,Miles Teller,M,"Downingtown, Pennsylvania, USA",20/2/1987,Alive,35.0,36.0
+33,Ismael Cruz Cordova,M,Puerto Rico,7/4/1987,Alive,35.0,30.0
+34,Domhnall Gleeson,M,"Dublin, Ireland",12/5/1983,Alive,39.0,51.0
+35,Carla Gugino,F,"Sarasota, Florida, USA",29/8/1971,Alive,51.0,106.0
+36,Tom Hopper,M,"Coalville, Leicestershire, England, UK",28/1/1985,Alive,37.0,27.0
+37,Monica Barbaro,F,"San Francisco, California, USA",17/6/1989,Alive,33.0,34.0
+38,Javon 'Wanna' Walton,M,,,,,5.0
+39,Benjamin Walker,M,"Georgia, USA",21/6/1982,Alive,40.0,26.0
+40,Val Kilmer,M,"Los Angeles, California, USA",31/12/1959,Alive,62.0,105.0
+41,Steve Toussaint,M,UK,22/3/1965,Alive,57.0,72.0
+42,Jordan Peele,M,"New York City, New York, USA",21/2/1979,Alive,43.0,54.0
+43,Millie Bobby Brown,F,"Málaga, Andalucía, Spain",19/2/2004,Alive,18.0,17.0
+44,Zendaya,F,"Oakland, California, USA",1/9/1996,Alive,26.0,50.0
+45,Glen Powell,M,"Austin, Texas, USA",21/10/1988,Alive,33.0,51.0
+46,Emilia Clarke,F,"London, England, UK",23/10/1986,Alive,35.0,24.0
+47,Kelly McGillis,F,"Newport Beach, California, USA",9/7/1957,Alive,65.0,54.0
+48,Jenna Ortega,F,"Coachella Valley, California, USA",27/9/2002,Alive,19.0,43.0
+49,Shia LaBeouf,M,"Los Angeles, California, USA",11/6/1986,Alive,36.0,63.0
+50,Jessica Henwick,F,"Surrey North Western, Surrey, England, UK",30/8/1992,Alive,30.0,43.0
+51,Mark Wahlberg,M,"Dorchester, Boston, Massachusetts, USA",5/6/1971,Alive,51.0,76.0
+52,Sophia Tatum,F,,,,,8.0
+53,Moises Arias,M,"New York City, New York, USA",18/4/1994,Alive,28.0,45.0
+54,Dominic Sherwood,M,,,,,14.0
+55,Lili Reinhart,F,"Cleveland, Ohio, USA",13/9/1996,Alive,25.0,22.0
+56,Lucy DeVito,F,"New York City, New York, USA",11/3/1983,Alive,39.0,50.0
+57,Brendan Fraser,M,"Indianapolis, Indiana, USA",3/12/1968,Alive,53.0,77.0
+58,Leonardo DiCaprio,M,"Hollywood, Los Angeles, California, USA",11/11/1974,Alive,47.0,46.0
+59,Kevin Hart,M,"Philadelphia, Pennsylvania, USA",6/7/1979,Alive,43.0,96.0
+60,Brad Pitt,M,"Shawnee, Oklahoma, USA",18/12/1963,Alive,58.0,84.0
+61,Joey King,F,"Los Angeles, California, USA",30/7/1999,Alive,23.0,72.0
+62,Armie Hammer,M,"Los Angeles, California, USA",28/8/1986,Alive,36.0,42.0
+63,Fabien Frankel,M,,,,,6.0
+64,Richard Roat,M,"Hartford, Connecticut, USA",3/7/1933,5/8/2022,89.0,136.0
+65,Evan Rachel Wood,F,"Raleigh, North Carolina, USA",7/9/1987,Alive,35.0,63.0
+66,Dascha Polanco,F,"Santo Domingo, Dominican Republic",3/12/1982,Alive,39.0,23.0
+67,Mia Goth,F,"Southwark, London, England, UK",25/10/1993,Alive,28.0,18.0
+68,Salma Hayek,F,"Coatzacoalcos, Veracruz, Mexico",2/9/1966,Alive,56.0,85.0
+69,Aaron Taylor-Johnson,M,"High Wycombe, Buckinghamshire, England, UK",13/6/1990,Alive,32.0,49.0
+70,Sian Brooke,F,"Lichfield, Staffordshire, England, UK",__/__//1980,Alive,42.0,39.0
+71,Brittany Snow,F,"Tampa, Florida, USA",9/3/1986,Alive,36.0,61.0
+72,Karl Urban,M,"Wellington, New Zealand",7/6/1972,Alive,50.0,52.0
+73,Alexandra Turshen,F,"New York City, New York, USA",25/1/1986,Alive,36.0,42.0
+74,Keanu Reeves,M,"Beirut, Lebanon",2/9/1964,Alive,58.0,108.0
+75,Arden Cho,F,"Amarillo, Texas, USA",16/8/1985,Alive,37.0,41.0
+76,Josh Segarra,M,"Orlando, Florida, USA",3/6/1986,Alive,36.0,40.0
+77,Matt Bomer,M,"Webster Groves, Missouri, USA",11/10/1977,Alive,44.0,44.0
+78,Jenna Coleman,F,"Blackpool, England, UK",27/4/1986,Alive,36.0,28.0
+79,Keke Palmer,F,"Harvey, Illinois, USA",26/8/1993,Alive,29.0,104.0
+80,Lenny Henry,M,"Dudley, West Midlands, England, UK",29/8/1958,Alive,64.0,62.0
+81,Ryan Reynolds,M,"Vancouver, British Columbia, Canada",23/10/1976,Alive,45.0,119.0
+82,Taron Egerton,M,"Birkenhead, Cheshire, England, UK",10/11/1989,Alive,32.0,29.0
+83,Kat Graham,F,"Geneva, Switzerland",5/9/1989,Alive,33.0,48.0
+84,Michael Wincott,M,"Toronto, Ontario, Canada",21/1/1958,Alive,64.0,66.0
+85,Maisie Williams,F,"Bristol, England, UK",15/4/1997,Alive,25.0,34.0
+86,Tom Hanks,M,"Concord, California, USA",9/7/1956,Alive,66.0,93.0
+87,Ginger Gonzaga,F,,,,,70.0
+88,Alexander Skarsgård,M,"Stockholm, Stockholms län, Sweden",25/8/1976,Alive,46.0,70.0
+89,Tom Hardy,M,"Hammersmith, London, England, UK",15/9/1977,Alive,44.0,61.0
+90,Mckenna Grace,F,"Grapevine, Texas, USA",25/6/2006,Alive,16.0,69.0
+91,Sofia Boutella,F,"Bab El Oued, Algeria",3/4/1982,Alive,40.0,31.0
+92,Lewis Pullman,M,"Los Angeles, California, USA",29/1/1993,Alive,29.0,27.0
+93,Antony Starr,M,New Zealand,25/10/1975,Alive,46.0,33.0
+94,Lily James,F,"Esher, Surrey, England, UK",5/4/1989,Alive,33.0,35.0
+95,Jamie Clayton,F,"San Diego, California, USA",15/1/1978,Alive,44.0,19.0
+96,Cameron Diaz,F,"San Diego, California, USA",30/8/1972,Alive,50.0,60.0
+97,Jonathan Tucker,M,"Boston, Massachusetts, USA",31/5/1982,Alive,40.0,60.0
+98,Alexa PenaVega,F,"Miami, Florida, USA",27/8/1988,Alive,34.0,99.0
+99,Natasia Demetriou,F,,,,,33.0
+100,Daniel Radcliffe,M,"Fulham, London, England, UK",23/7/1989,Alive,33.0,43.0
+101,Anya Taylor-Joy,F,"Miami, Florida, USA",16/4/1996,Alive,26.0,32.0
+102,Adrianne Palicki,F,"Toledo, Ohio, USA",6/5/1983,Alive,39.0,46.0
+103,Henry Cavill,M,"Jersey, Channel Islands",5/5/1983,Alive,39.0,31.0
+104,Kelly Reilly,F,"Surrey, England, UK",18/7/1977,Alive,45.0,54.0
+105,Daniel Sunjata,M,"Evanston, Illinois, USA",30/12/1971,Alive,50.0,47.0
+106,Nicolas Cage,M,"Long Beach, California, USA",7/1/1964,Alive,58.0,108.0
+107,Hayley Sales,F,"Washington, District of Columbia, USA",31/8/1990,Alive,32.0,35.0
+108,Nathalie Emmanuel,F,"Southend-on-Sea, Essex, England, UK",2/3/1989,Alive,33.0,31.0
+109,Emily Hampshire,F,"Montreal, Quebec, Canada",29/8/1981,Alive,41.0,92.0
+110,Tim Roth,M,"Dulwich, London, England, UK",14/5/1961,Alive,61.0,113.0
+111,Steve Carell,M,"Concord, Massachusetts, USA",16/8/1962,Alive,60.0,83.0
+112,Johnny Depp,M,"Owensboro, Kentucky, USA",9/6/1963,Alive,59.0,102.0
+113,Joseph Quinn,M,"London, England, UK",15/5/1993,Alive,29.0,17.0
+114,Dacre Montgomery,M,"Perth, Western Australia, Australia",22/11/1994,Alive,27.0,12.0
+115,Tom Holland,M,"Kingston upon Thames, England, UK",1/6/1996,Alive,26.0,37.0
+116,Rhea Seehorn,F,"Norfolk, Virginia, USA",12/5/1972,Alive,50.0,47.0
+117,Lara Pulver,F,"Southend-on-Sea, Essex, England, UK",1/9/1980,Alive,42.0,28.0
+118,Halston Sage,F,"Los Angeles, California, USA",10/5/1993,Alive,29.0,26.0
+119,Rob McElhenney,M,"Philadelphia, Pennsylvania, USA",14/4/1977,Alive,45.0,22.0
+120,Daniel Weyman,M,"Newcastle, Tyne and Wear, England, UK",__/__//1977,Alive,45.0,29.0
+121,Paul Walter Hauser,M,"Grand Rapids, Michigan, USA",15/10/1986,Alive,35.0,49.0
+122,Sandra Bullock,F,"Arlington, Virginia, USA",26/7/1964,Alive,58.0,59.0
+123,Laura Hopper,F,,,,,10.0
+124,Cate Blanchett,F,"Melbourne, Victoria, Australia",14/5/1969,Alive,53.0,93.0
+125,Shania Twain,F,"Windsor, Ontario, Canada",28/8/1965,Alive,57.0,41.0
+126,Ryan Gosling,M,"London, Ontario, Canada",12/11/1980,Alive,41.0,49.0
+127,Riley Dandy,F,,,,,16.0
+128,Annabelle Wallis,F,"Oxford, Oxfordshire, England, UK",5/9/1984,Alive,38.0,37.0
+129,Jen Landon,F,"Malibu, California, USA",29/8/1983,Alive,39.0,25.0
+130,Cillian Murphy,M,"Douglas, Cork, Ireland",25/5/1976,Alive,46.0,59.0
+131,Alexandra Daddario,F,"New York City, New York, USA",16/3/1986,Alive,36.0,62.0
+132,Eve Torres,F,"Denver, Colorado, USA",21/8/1984,Alive,38.0,19.0
+133,Peggy Lipton,F,"Manhattan, New York City, New York, USA",30/8/1946,11/5/2019,72.0,50.0
+134,Jamie Campbell Bower,M,"London, England, UK",22/11/1988,Alive,33.0,26.0
+135,Kevin Durand,M,"Thunder Bay, Ontario, Canada",14/1/1974,Alive,48.0,79.0
+136,Bob Odenkirk,M,"Naperville, Illinois, USA",22/10/1962,Alive,59.0,123.0
+137,Timothée Chalamet,M,"New York City, New York, USA",27/12/1995,Alive,26.0,32.0
+138,Cara Delevingne,F,"London, England, UK",12/8/1992,Alive,30.0,31.0
+139,Laura Ashley Samuels,F,"Dallas, Texas, USA",29/8/1990,Alive,32.0,21.0
+140,Anthony Edwards,M,"Santa Barbara, California, USA",19/7/1962,Alive,60.0,64.0
+141,Erin Moriarty,F,"New York City, New York, USA",24/6/1994,Alive,28.0,28.0
+142,Sylvia Hoeks,F,"Maarheeze, Noord-Brabant, Netherlands",1/6/1983,Alive,39.0,43.0
+143,Idris Elba,M,"Hackney, London, England, UK",6/9/1972,Alive,50.0,107.0
+144,Yara Martinez,F,Puerto Rico,31/8/1979,Alive,43.0,35.0
+145,Gwendoline Christie,F,"Worthing, Sussex, England, UK",28/10/1978,Alive,43.0,28.0
+146,Juno Temple,F,"London, England, UK",21/7/1989,Alive,33.0,63.0
+147,Selena Gomez,F,"Grand Prairie, Texas, USA",22/7/1992,Alive,30.0,117.0
+148,Margot Robbie,F,"Dalby, Queensland, Australia",2/7/1990,Alive,32.0,40.0
+149,Jeremy Allen White,M,"Brooklyn, New York, USA",17/2/1991,Alive,31.0,26.0
+150,Jack Gleeson,M,"Cork, Ireland",20/5/1992,Alive,30.0,13.0
+151,Nolan Gerard Funk,M,"Vancouver, British Columbia, Canada",28/7/1986,Alive,36.0,61.0
+152,Merritt Patterson,F,"Whistler, British Columbia, Canada",2/9/1990,Alive,32.0,35.0
+153,Alexandra Breckenridge,F,"Bridgeport, Connecticut, USA",15/5/1982,Alive,40.0,60.0
+154,Bryce Dallas Howard,F,"Los Angeles, California, USA",2/3/1981,Alive,41.0,43.0
+155,Jensen Ackles,M,"Dallas, Texas, USA",1/3/1978,Alive,44.0,33.0
+156,Sugar Lyn Beard,F,"Scarborough, Ontario, Canada",27/8/1981,Alive,41.0,54.0
+157,Clint Eastwood,M,"San Francisco, California, USA",31/5/1930,Alive,92.0,72.0
+158,Rebecca De Mornay,F,"Santa Rosa, California, USA",29/8/1959,Alive,63.0,62.0
+159,Sarah Roemer,F,"San Diego, California, USA",28/8/1984,Alive,38.0,20.0
+160,Shantel VanSanten,F,"Luverne, Minnesota, USA",25/7/1985,Alive,37.0,30.0
+161,Darren Barnet,M,"Los Angeles, California, USA",27/4/1991,Alive,31.0,26.0
+162,Peter Mullan,M,"Peterhead, Scotland, UK",2/11/1959,Alive,62.0,97.0
+163,Quentin Tarantino,M,"Knoxville, Tennessee, USA",27/3/1963,Alive,59.0,39.0
+164,Abbi Jacobson,F,"Wayne, Pennsylvania, USA",1/2/1984,Alive,38.0,38.0
+165,Rebecca Ferguson,F,Sweden,19/10/1983,Alive,38.0,34.0
+166,Anne Heche,F,"Aurora, Ohio, USA",25/5/1969,11/8/2022,53.0,93.0
+167,Lena Headey,F,"Hamilton, Bermuda",3/10/1973,Alive,48.0,93.0
+168,Holliday Grainger,F,"Didsbury, Manchester, England, UK",27/3/1988,Alive,34.0,59.0
+169,Jennifer Lawrence,F,"Louisville, Kentucky, USA",15/8/1990,Alive,32.0,34.0
+170,Luke Macfarlane,M,"London, Ontario, Canada",19/1/1980,Alive,42.0,35.0
+171,Daisy Edgar-Jones,F,"Islington, London, England, UK",24/5/1998,Alive,24.0,12.0
+172,Jameela Jamil,F,"Hampstead, London, England, UK",25/2/1986,Alive,36.0,20.0
+173,Lee Pace,M,"Chickasha, Oklahoma, USA",25/3/1979,Alive,43.0,39.0
+174,Aubrey Plaza,F,"Wilmington, Delaware, USA",26/6/1984,Alive,38.0,86.0
+175,Chris Evans,M,"Boston, Massachusetts, USA",13/6/1981,Alive,41.0,58.0
+176,Jason Momoa,M,"Honolulu, Hawaii, USA",1/8/1979,Alive,43.0,41.0
+177,Jonathan Banks,M,"Washington, District of Columbia, USA",31/1/1947,Alive,75.0,179.0
+178,Alicia Vikander,F,"Gothenburg, Västra Götalands län, Sweden",3/10/1988,Alive,33.0,47.0
+179,Taika Waititi,M,"Wellington, New Zealand",16/8/1975,Alive,47.0,44.0
+180,Evangeline Lilly,F,"Fort Saskatchewan, Alberta, Canada",3/8/1979,Alive,43.0,24.0
+181,Sadie Sink,F,"Brenham, Texas, USA",16/4/2002,Alive,20.0,16.0
+182,Taylor Kitsch,M,"Kelowna, British Columbia, Canada",8/4/1981,Alive,41.0,29.0
+183,Jennette McCurdy,F,"Los Angeles, California, USA",26/6/1992,Alive,30.0,68.0
+184,Natalie Dormer,F,"Reading, Berkshire, England, UK",11/2/1982,Alive,40.0,40.0
+185,Jon Bernthal,M,"Washington, District of Columbia, USA",20/9/1976,Alive,45.0,72.0
+186,Dichen Lachman,F,"Kathmandu, Nepal",22/2/1982,Alive,40.0,40.0
+187,Natalia Dyer,F,"Nashville, Tennessee, USA",13/1/1995,Alive,27.0,23.0
+188,Lala Kent,F,"Salt Lake City, Utah, USA",2/9/1990,Alive,32.0,16.0
+189,Cole Hauser,M,"Santa Barbara, California, USA",22/3/1975,Alive,47.0,53.0
+190,Rhona Mitra,F,"Paddington, London, England, UK",9/8/1976,Alive,46.0,48.0
+191,Sofia Carson,F,"Fort Lauderdale, Florida, USA",10/4/1993,Alive,29.0,60.0
+192,Bruce Willis,M,"Idar-Oberstein, West Germany",19/3/1955,Alive,67.0,147.0
+193,Viggo Mortensen,M,"Manhattan, New York City, New York, USA",20/10/1958,Alive,63.0,64.0
+194,Rachel McAdams,F,"London, Ontario, Canada",17/11/1978,Alive,43.0,41.0
+195,Kelly Macdonald,F,"Glasgow, Scotland, UK",23/2/1976,Alive,46.0,58.0
+196,Jessica Szohr,F,"Milwaukee, Wisconsin, USA",31/3/1985,Alive,37.0,43.0
+197,Jella Haase,F,"Berlin, Germany",27/10/1992,Alive,29.0,51.0
+198,Aaron Paul,M,"Emmett, Idaho, USA",27/8/1979,Alive,43.0,81.0
+199,Rob Heaps,M,,,,,13.0
+200,Raffey Cassidy,F,"East Anglia, England, UK",30/8/2002,Alive,20.0,21.0
+201,George MacKay,M,"London, England, UK",13/3/1992,Alive,30.0,50.0
+202,Bebe Rexha,F,"Brooklyn, New York City, New York, USA",30/8/1989,Alive,33.0,37.0
+203,Elliot Page,M,"Halifax, Nova Scotia, Canada",21/2/1987,Alive,35.0,52.0
+204,Sophia Ali,F,"San Diego, California, USA",7/11/1995,Alive,26.0,33.0
+205,Regina Hall,F,"Washington, District of Columbia, USA",12/12/1970,Alive,51.0,60.0
+206,Daniel Kaluuya,M,"London, England, UK",24/2/1989,Alive,33.0,47.0
+207,Sophie Turner,F,"Northampton, Northamptonshire, England, UK",21/2/1996,Alive,26.0,22.0
+208,Christian Bale,M,"Haverfordwest, Pembrokeshire, Wales, UK",30/1/1974,Alive,48.0,55.0
+209,Luis Gerardo Méndez,M,"Aguascalientes, Aguascalientes, Mexico",12/3/1982,Alive,40.0,56.0
+210,Teresa Ruiz,F,1988,21/12/1988,Alive,33.0,26.0
+211,Virginia Gardner,F,"Sacramento, California, USA",18/4/1995,Alive,27.0,27.0
+212,Colin Farrell,M,"Castleknock, Dublin, Ireland",31/5/1976,Alive,46.0,65.0
+213,Robert Davi,M,"Astoria, Queens, New York City, New York, USA",26/6/1951,Alive,71.0,171.0
+214,Rosamund Pike,F,"Hammersmith, London, England, UK",__/1/1979,Alive,43.0,58.0
+215,Tuesday Weld,F,"New York City, New York, USA",27/8/1943,Alive,79.0,64.0
+216,Chris Pratt,M,"Virginia, Minnesota, USA",21/6/1979,Alive,43.0,68.0
+217,Natalie Portman,F,"Jerusalem, Israel",9/6/1981,Alive,41.0,70.0
+218,Scarlett Johansson,F,"Manhattan, New York City, New York, USA",22/11/1984,Alive,37.0,75.0
+219,Jon Hamm,M,"St. Louis, Missouri, USA",10/3/1971,Alive,51.0,115.0
+220,Natasha Liu Bordizzo,F,"Sydney, New South Wales, Australia",25/8/1994,Alive,28.0,16.0
+221,Meagan Good,F,"Panorama City, California, USA",8/8/1981,Alive,41.0,84.0
+222,Michelle DeShon,F,,,,,11.0
+223,Ewan McGregor,M,"Perth, Perthshire, Scotland, UK",31/3/1971,Alive,51.0,97.0
+224,Olivia DeJonge,F,"Melbourne, Victoria, Australia",30/4/1998,Alive,24.0,17.0
+225,Aidan Turner,M,"Dublin, Ireland",19/6/1983,Alive,39.0,25.0
+226,Dwayne Johnson,M,"Hayward, California, USA",2/5/1972,Alive,50.0,103.0
+227,Hunter Schafer,F,"Trenton, New Jersey, USA",31/12/1999,Alive,22.0,4.0
+228,Barbara Bach,F,"Queens, New York City, New York, USA",28/8/1946,Alive,76.0,25.0
+229,Zoey Deutch,F,"Los Angeles, California, USA",10/11/1994,Alive,27.0,36.0
+230,Winona Ryder,F,"Winona, Minnesota, USA",29/10/1971,Alive,50.0,68.0
+231,Samantha Morton,F,"Nottingham, Nottinghamshire, England, UK",13/5/1977,Alive,45.0,61.0
+232,Jesse Plemons,M,"Dallas, Texas, USA",2/4/1988,Alive,34.0,63.0
+233,Christina Ricci,F,"Santa Monica, California, USA",12/2/1980,Alive,42.0,90.0
+234,Jennifer Coolidge,F,"Boston, Massachusetts, USA",28/8/1961,Alive,61.0,125.0
+235,Jodie Comer,F,"Liverpool, Merseyside, England, UK",11/3/1993,Alive,29.0,34.0
+236,Dove Cameron,F,"Bainbridge Island, Washington, USA",15/1/1996,Alive,26.0,72.0
+237,Katheryn Winnick,F,"Toronto, Ontario, Canada",17/12/1977,Alive,44.0,66.0
+238,Mary Elizabeth Winstead,F,"Rocky Mount, North Carolina, USA",28/11/1984,Alive,37.0,58.0
+239,Amy Adams,F,"Vicenza, Veneto, Italy",20/8/1974,Alive,48.0,66.0
+240,Eve Hewson,F,Ireland,7/7/1991,Alive,31.0,19.0
+241,Karla Souza,F,"Mexico City, Distrito Federal, Mexico",11/12/1985,Alive,36.0,29.0
+242,John Krasinski,M,"Newton, Massachusetts, USA",20/10/1979,Alive,42.0,53.0
+243,Annette O'Toole,F,"Houston, Texas, USA",1/4/1952,Alive,70.0,97.0
+244,Maya Hawke,F,"New York City, New York, USA",8/7/1998,Alive,24.0,28.0
+245,Sarah Chalke,F,"Ottawa, Ontario, Canada",27/8/1976,Alive,46.0,77.0
+246,Blake Lively,F,"Los Angeles, California, USA",25/8/1987,Alive,35.0,28.0
+247,Thomas Doherty,M,"Edinburgh, Scotland, UK",21/4/1995,Alive,27.0,17.0
+248,Emily Blunt,F,"Roehampton, London, England, UK",23/2/1983,Alive,39.0,50.0
+249,Peter Stormare,M,"Kumla, Örebro län, Sweden",27/8/1953,Alive,69.0,205.0
+250,Britt Lower,F,"Illinois, USA",2/8/1985,Alive,37.0,50.0
+251,Meg Ryan,F,"Fairfield, Connecticut, USA",19/11/1961,Alive,60.0,51.0
+252,Tahj Mowry,M,"Honolulu, Hawaii, USA",17/5/1986,Alive,36.0,44.0
+253,Alexis Raben,F,"Moscow, RSFSR, USSR [now Russia]",25/8/1980,Alive,42.0,17.0
+254,Charles Edwards,M,"Haslemere, Surrey, England, UK",1/10/1969,Alive,52.0,43.0
+255,Charlize Theron,F,"Benoni, Transvaal, South Africa",7/8/1975,Alive,47.0,70.0
+256,Alice Eve,F,"London, England, UK",6/2/1982,Alive,40.0,51.0
+257,Julia Stiles,F,"New York City, New York, USA",28/3/1981,Alive,41.0,63.0
+258,Zazie Beetz,F,"Mitte, Berlin, Germany",1/6/1991,Alive,31.0,40.0
+259,Karen Gillan,F,"Inverness, Scotland, UK",28/11/1987,Alive,34.0,71.0
+260,Emilia Jones,F,"London, England, UK",23/2/2002,Alive,20.0,22.0
+261,Leem Lubany,F,"Nazareth, Israel",31/8/1997,Alive,25.0,7.0
+262,Kit Harington,M,"London, England, UK",26/12/1986,Alive,35.0,24.0
+263,Jessica Chastain,F,"Sacramento, California, USA",24/3/1977,Alive,45.0,60.0
+264,Bryan Cranston,M,"Hollywood, California, USA",7/3/1956,Alive,66.0,167.0
+265,Stevie Lynn Jones,F,"Hollywood, California, USA",22/10/1995,Alive,26.0,26.0
+266,David Thewlis,M,"Blackpool, Lancashire, England, UK",20/3/1963,Alive,59.0,104.0
+267,Ethan Hawke,M,"Austin, Texas, USA",6/11/1970,Alive,51.0,97.0
+268,Adam Sandler,M,"Brooklyn, New York City, New York, USA",9/9/1966,Alive,55.0,83.0
+269,Ben Affleck,M,"Berkeley, California, USA",15/8/1972,Alive,50.0,83.0
+270,Hannah Waddingham,F,"London, England, UK",28/7/1974,Alive,48.0,37.0
+271,Kayla Ewell,F,"Long Beach, California, USA",27/8/1985,Alive,37.0,44.0
+272,Marilyn Monroe,F,"Los Angeles, California, USA",1/6/1926,5/8/1962,36.0,33.0
+273,Owain Arthur,M,"Rhiwlas, Wales, UK",5/3/1983,Alive,39.0,22.0
+274,Alison Brie,F,"Hollywood, Los Angeles, California, USA",29/12/1982,Alive,39.0,76.0
+275,Yvonne De Carlo,F,"Vancouver, British Columbia, Canada",1/9/1922,8/1/2007,84.0,123.0
+276,Chanel West Coast,F,"Los Angeles, California, USA",1/9/1988,Alive,34.0,8.0
+277,Rose Leslie,F,"Aberdeen, Scotland, UK",9/2/1987,Alive,35.0,22.0
+278,Jack Quaid,M,"Los Angeles, California, USA",24/4/1992,Alive,30.0,49.0
+279,John Amos,M,"Newark, New Jersey, USA",27/12/1939,Alive,82.0,119.0
+280,Charlotte Ritchie,F,"Westminster, London, England, UK",29/8/1989,Alive,33.0,38.0
+281,Kirby Howell-Baptiste,F,,,,,61.0
+282,Oscar Isaac,M,"Guatemala City, Guatemala",9/3/1979,Alive,43.0,62.0
+283,Bailee Madison,F,"Fort Lauderdale, Florida, USA",15/10/1999,Alive,22.0,58.0
+284,Richard Armitage,M,"Leicester, Leicestershire, England, UK",22/8/1971,Alive,51.0,57.0
+285,Elizabeth Olsen,F,"Los Angeles, California, USA",16/2/1989,Alive,33.0,26.0
+286,Chris Pine,M,"Los Angeles, California, USA",26/8/1980,Alive,42.0,62.0
+287,Will Poulter,M,"England, UK",28/1/1993,Alive,29.0,29.0
+288,Patton Oswalt,M,"Portsmouth, Virginia, USA",27/1/1969,Alive,53.0,235.0
+289,Maitreyi Ramakrishnan,F,"Mississauga, Ontario, Canada",29/12/2001,Alive,20.0,7.0
+290,Razane Jammal,F,"Beirut, Lebanon",,,,20.0
+291,Jean Louisa Kelly,F,"Worcester, Massachusetts, USA",9/3/1972,Alive,50.0,59.0
+292,Vera Farmiga,F,"Clifton, New Jersey, USA",6/8/1973,Alive,49.0,64.0
+293,Carly Pope,F,"Vancouver, British Columbia, Canada",28/8/1980,Alive,42.0,93.0
+294,Robert De Niro,M,"New York City, New York, USA",17/8/1943,Alive,79.0,128.0
+295,Isabel May,F,"Santa Monica, California, USA",21/11/2000,Alive,21.0,9.0
+296,Matthew McConaughey,M,"Uvalde, Texas, USA",4/11/1969,Alive,52.0,75.0
+297,Marin Ireland,F,"Camarillo, California, USA",30/8/1979,Alive,43.0,74.0
+298,Morena Baccarin,F,"Rio de Janeiro, Rio de Janeiro, Brazil",2/6/1979,Alive,43.0,59.0
+299,Cristin Milioti,F,"Cherry Hill, New Jersey, USA",16/8/1985,Alive,37.0,36.0
+300,Julia Garner,F,"Bronx, New York City, New York, USA",1/2/1994,Alive,28.0,35.0
+301,Anne Winters,F,"Dallas, Texas, USA",3/6/1994,Alive,28.0,26.0
+302,Emily Deschanel,F,"Los Angeles, California, USA",11/10/1976,Alive,45.0,34.0
+303,Elvis Presley,M,"Tupelo, Mississippi, USA",8/1/1935,16/8/1977,42.0,31.0
+304,Tilda Swinton,F,"London, England, UK",5/11/1960,Alive,61.0,99.0
+305,Patrick Warburton,M,"Paterson, New Jersey, USA",14/11/1964,Alive,57.0,186.0
+306,Denzel Washington,M,"Mount Vernon, New York, USA",28/12/1954,Alive,67.0,61.0
+307,Ali Stroker,F,"Ridgewood, New Jersey, USA",16/6/1987,Alive,35.0,22.0
+308,Mel Gibson,M,"Peekskill, New York, USA",3/1/1956,Alive,66.0,75.0
+309,Angourie Rice,F,Australia,1/1/2001,Alive,21.0,26.0
+310,Joel Kinnaman,M,"Stockholm, Sweden",25/11/1979,Alive,42.0,50.0
+311,Travis Fimmel,M,"nr. Echuca, Victoria, Australia",15/7/1979,Alive,43.0,39.0
+312,Jake Gyllenhaal,M,"Los Angeles, California, USA",19/12/1980,Alive,41.0,63.0
+313,Richard Gere,M,"Philadelphia, Pennsylvania, USA",31/8/1949,Alive,73.0,62.0
+314,D'Arcy Carden,F,"Danville, California, USA",4/1/1980,Alive,42.0,64.0
+315,Emilia McCarthy,F,"London, Ontario, Canada",28/8/1997,Alive,25.0,26.0
+316,Jeffrey Dean Morgan,M,"Seattle, Washington, USA",22/4/1966,Alive,56.0,76.0
+317,Debbie Gibson,F,"Brooklyn, New York City, New York, USA",31/8/1970,Alive,52.0,57.0
+318,Joely Richardson,F,"Marylebone, London, England, UK",9/1/1965,Alive,57.0,78.0
+319,Jamie Foxx,M,"Terrell, Texas, USA",13/12/1967,Alive,54.0,92.0
+320,Danny Ramirez,M,"Chicago, Illinois, USA",17/9/1992,Alive,29.0,23.0
+321,Robert Downey Jr.,M,"Manhattan, New York City, New York, USA",4/4/1965,Alive,57.0,93.0
+322,Kayvan Novak,M,"London, England, UK",23/11/1978,Alive,43.0,78.0
+323,Harry Styles,M,"Evesham, Worcestershire, England, UK",1/2/1994,Alive,28.0,67.0
+324,Liam Neeson,M,"Ballymena, Co. Antrim, Northern Ireland, UK",7/6/1952,Alive,70.0,144.0
+325,Grace Caroline Currey,F,USA,17/7/1996,Alive,26.0,21.0
+326,Brandon Perea,M,"Chicago, Illinois, USA",25/5/1995,Alive,27.0,10.0
+327,Arnold Schwarzenegger,M,"Thal, Styria, Austria",30/7/1947,Alive,75.0,82.0
+328,Hailee Steinfeld,F,"Tarzana, Los Angeles, California, USA",11/12/1996,Alive,25.0,56.0
+329,Will Smith,M,"Philadelphia, Pennsylvania, USA",25/9/1968,Alive,53.0,73.0
+330,Karen Robinson,F,"Leslieville, Toronto, Ontario, Canada",28/2/1968,Alive,54.0,101.0
+331,Amber Heard,F,"Austin, Texas, USA",22/4/1986,Alive,36.0,50.0
+332,Milana Vayntrub,F,"Tashkent, Uzbek SSR, USSR [now Uzbekistan]",8/3/1987,Alive,35.0,64.0
+333,Kaley Cuoco,F,"Camarillo, California, USA",30/11/1985,Alive,36.0,70.0
+334,Johanna Braddy,F,"Atlanta, Georgia, USA",30/8/1987,Alive,35.0,56.0
+335,George Clooney,M,"Lexington, Kentucky, USA",6/5/1961,Alive,61.0,80.0
+336,Rachel Weisz,F,"Westminster, London, England, UK",7/3/1970,Alive,52.0,60.0
+337,Abbie Cornish,F,"Lochinvar, New South Wales, Australia",7/8/1982,Alive,40.0,43.0
+338,Garret Dillahunt,M,"Castro Valley, California, USA",24/11/1964,Alive,57.0,91.0
+339,Nicole Kidman,F,"Honolulu, Hawaii, USA",20/6/1967,Alive,55.0,96.0
+340,Mark Linn-Baker,M,"St. Louis, Missouri, USA",17/6/1954,Alive,68.0,53.0
+341,Yvonne Strahovski,F,"Maroubra, Sydney, New South Wales, Australia",30/7/1982,Alive,40.0,39.0
+342,Kelsey Asbille,F,"Columbia, South Carolina, USA",9/9/1991,Alive,30.0,24.0
+343,Michelle Yeoh,F,"Ipoh, Malaysia",6/8/1962,Alive,60.0,69.0
+344,Paul Rudd,M,"Passaic, New Jersey, USA",6/4/1969,Alive,53.0,128.0
+345,Melissanthi Mahut,F,,,,,22.0
+346,Chris Hemsworth,M,"Melbourne, Victoria, Australia",11/8/1983,Alive,39.0,49.0
+347,Bella Thorne,F,"Pembroke Pines, Florida, USA",8/10/1997,Alive,24.0,120.0
+348,Hayley Atwell,F,"London, England, UK",5/4/1982,Alive,40.0,55.0
+349,Dylan O'Brien,M,"New York City, New York, USA",26/8/1991,Alive,31.0,27.0
+350,Jennifer Aniston,F,"Sherman Oaks, California, USA",11/2/1969,Alive,53.0,70.0
+351,Hugo Weaving,M,"Ibadan, Nigeria",4/4/1960,Alive,62.0,97.0
+352,Matt Damon,M,"Boston, Massachusetts, USA",8/10/1970,Alive,51.0,93.0
+353,Kevin Costner,M,"Lynwood, California, USA",18/1/1955,Alive,67.0,65.0
+354,Jason Statham,M,"Shirebrook, Derbyshire, England, UK",26/7/1967,Alive,55.0,55.0
+355,Nicholas Galitzine,M,"London, England, UK",29/9/1994,Alive,27.0,13.0
+356,Ashley Johnson,F,"Camarillo, California, USA",9/8/1983,Alive,39.0,145.0
+357,Pedro Pascal,M,"Santiago de Chile, Metropolitan Region, Chile",2/4/1975,Alive,47.0,62.0
+358,Kristen Stewart,F,"Los Angeles, California, USA",9/4/1990,Alive,32.0,59.0
+359,Andrew Garfield,M,"Los Angeles, California, USA",20/8/1983,Alive,39.0,34.0
+360,Luke Evans,M,"Pontypool, Wales, UK",15/4/1979,Alive,43.0,49.0
+361,Finn Wolfhard,M,"Vancouver, British Columbia, Canada",23/12/2002,Alive,19.0,43.0
+362,Gina Carano,F,"Dallas County, Texas, USA",16/4/1982,Alive,40.0,18.0
+363,Amy Ryan,F,"Queens, New York City, New York, USA",3/5/1968,Alive,54.0,72.0
+364,Gemma Arterton,F,"Gravesend, Kent, England, UK",2/2/1986,Alive,36.0,66.0
+365,Amanda Seyfried,F,"Allentown, Pennsylvania, USA",3/12/1985,Alive,36.0,63.0
+366,Greta Scacchi,F,"Milan, Lombardy, Italy",18/2/1960,Alive,62.0,90.0
+367,Riley Keough,F,"Santa Monica, California, USA",29/5/1989,Alive,33.0,38.0
+368,Matthew Goode,M,"Exeter, Devon, England, UK",3/4/1978,Alive,44.0,52.0
+369,Vanesu Samunyai,F,,,,,1.0
+370,Michael Shannon,M,"Lexington, Kentucky, USA",7/8/1974,Alive,48.0,108.0
+371,Lynn Collins,F,"Houston, Texas, USA",16/5/1977,Alive,45.0,49.0
+372,Genesis Rodriguez,F,"Miami, Florida, USA",29/7/1987,Alive,35.0,31.0
+373,Emma Watson,F,"Paris, France",15/4/1990,Alive,32.0,25.0
+374,Zoe Lister-Jones,F,"New York City, New York, USA",1/9/1982,Alive,40.0,46.0
+375,Julia Roberts,F,"Smyrna, Georgia, USA",28/10/1967,Alive,54.0,68.0
+376,Madison Iseman,F,"Myrtle Beach, South Carolina, USA",14/2/1997,Alive,25.0,45.0
+377,Adam Driver,M,"San Diego, California, USA",19/11/1983,Alive,38.0,50.0
+378,Alan Ritchson,M,"Grand Forks, North Dakota, USA",28/11/1984,Alive,37.0,48.0
+379,Vanessa Kirby,F,"London, England, UK",18/4/1988,Alive,34.0,35.0
+380,'Weird Al' Yankovic,M,"Downey, California, USA",23/10/1959,Alive,62.0,185.0
+381,Imogen Poots,F,"London, England, UK",3/6/1989,Alive,33.0,48.0
+382,Harrison Ford,M,"Chicago, Illinois, USA",13/7/1942,Alive,80.0,85.0
+383,Mackenzie Davis,F,"Vancouver, British Columbia, Canada",1/4/1987,Alive,35.0,32.0
+384,Sara Ramirez,F,"Mazatlan, Sinaloa, Mexico",31/8/1975,Alive,47.0,25.0
+385,Carice van Houten,F,"Leiderdorp, Zuid-Holland, Netherlands",5/9/1976,Alive,46.0,55.0
+386,Padma Lakshmi,F,"Madras, Tamil Nadu, India",1/9/1970,Alive,52.0,18.0
+387,Channing Tatum,M,"Cullman, Alabama, USA",26/4/1980,Alive,42.0,66.0
+388,Al Pacino,M,"Manhattan, New York City, New York, USA",25/4/1940,Alive,82.0,64.0
+389,Laura Haddock,F,"England, UK",21/8/1985,Alive,37.0,42.0
+390,Martha Plimpton,F,"New York City, New York, USA",16/11/1970,Alive,51.0,85.0
+391,Giancarlo Esposito,M,"Copenhagen, Denmark",26/4/1958,Alive,64.0,190.0
+392,Chloë Grace Moretz,F,"Atlanta, Georgia, USA",10/2/1997,Alive,25.0,75.0
+393,Steve Martin,M,"Waco, Texas, USA",14/8/1945,Alive,77.0,68.0
+394,James McAvoy,M,"Glasgow, Scotland, UK",21/4/1979,Alive,43.0,62.0
+395,Dave Franco,M,"Palo Alto, California, USA",12/6/1985,Alive,37.0,59.0
+396,Michael Michele,F,"Evansville, Indiana, USA",30/8/1966,Alive,56.0,35.0
+397,Anne Hathaway,F,"Brooklyn, New York City, New York, USA",12/11/1982,Alive,39.0,58.0
+398,Dakota Johnson,F,"Austin, Texas, USA",4/10/1989,Alive,32.0,39.0
+399,Rebecca Hall,F,"London, England, UK",3/5/1982,Alive,40.0,48.0
+400,Carrie Coon,F,"Copley, Ohio, USA",24/1/1981,Alive,41.0,26.0
+401,Saoirse Ronan,F,"The Bronx, New York City, New York, USA",12/4/1994,Alive,28.0,38.0
+402,Ilia Isorelýs Paulino,M,,,,,
+403,David Harbour,M,"New York, USA",10/4/1975,Alive,47.0,66.0
+404,Daniel Scott-Smith,M,,,,,4.0
+405,Zoe Saldana,F,"Passaic, New Jersey, USA",19/6/1978,Alive,44.0,78.0
+406,Josh Brolin,M,"Santa Monica, California, USA",12/2/1968,Alive,54.0,76.0
+407,Linda Cardellini,F,"Redwood City, California, USA",25/6/1975,Alive,47.0,70.0
+408,Chelsea Edmundson,F,"Poplar Bluff, Missouri, USA",31/8/1988,Alive,34.0,30.0
+409,Isaac Gonzalez Rossi,M,,,,,14.0
+410,Katie Findlay,F,"Windsor, Ontario, Canada",28/8/1990,Alive,32.0,29.0
+411,Elizabeth Debicki,F,"Paris, France",24/8/1990,Alive,32.0,25.0
+412,Lea Michele,F,"The Bronx, New York City, New York, USA",29/8/1986,Alive,36.0,17.0
+413,Ariel Winter,F,"Los Angeles, California, USA",28/1/1998,Alive,24.0,80.0
+414,Caitríona Balfe,F,"Dublin, Ireland",4/10/1979,Alive,42.0,17.0
+415,Emmy Rossum,F,"New York City, New York, USA",12/9/1986,Alive,35.0,45.0
+416,Léa Seydoux,F,"Paris, France",1/7/1985,Alive,37.0,51.0
+417,Liv Tyler,F,"New York City, New York, USA",1/7/1977,Alive,45.0,39.0
+418,Linda Purl,F,"Greenwich, Connecticut, USA",2/9/1955,Alive,67.0,113.0
+419,Maika Monroe,F,"Santa Barbara, California, USA",29/5/1993,Alive,29.0,33.0
+420,Kate Winslet,F,"Reading, Berkshire, England, UK",5/10/1975,Alive,46.0,69.0
+421,Skyler Gisondo,M,"Palm Beach County, Florida, USA",22/7/1996,Alive,26.0,68.0
+422,Martin Scorsese,M,"Queens, New York City, New York, USA",17/11/1942,Alive,79.0,34.0
+423,Gerard Butler,M,"Paisley, Scotland, UK",13/11/1969,Alive,52.0,70.0
+424,Elisabeth Shue,F,"Wilmington, Delaware, USA",6/10/1963,Alive,58.0,61.0
+425,Cary Grant,M,"Horfield, Bristol, England, UK",18/1/1904,29/11/1986,82.0,77.0
+426,Anna Gunn,F,"Cleveland, Ohio, USA",11/8/1968,Alive,54.0,67.0
+427,Jared Leto,M,"Bossier City, Louisiana, USA",26/12/1971,Alive,50.0,61.0
+428,Emma Stone,F,"Scottsdale, Arizona, USA",6/11/1988,Alive,33.0,53.0
+429,Mark Ruffalo,M,"Kenosha, Wisconsin, USA",22/11/1967,Alive,54.0,77.0
+430,Bradley Cooper,M,"Philadelphia, Pennsylvania, USA",5/1/1975,Alive,47.0,67.0
+431,Brian Thompson,M,"Ellensburg, Washington, USA",28/8/1959,Alive,63.0,106.0
+432,Anna Chlumsky,F,"Chicago, Illinois, USA",3/12/1980,Alive,41.0,45.0
+433,Melanie Lynskey,F,"New Plymouth, New Zealand",16/5/1977,Alive,45.0,84.0
+434,Dominique McElligott,F,"Dublin, Ireland",3/5/1986,Alive,36.0,22.0
+435,Robert LuPone,M,"Brooklyn, New York City, New York, USA",29/7/1946,27/8/2022,76.0,47.0
+436,Hero Fiennes Tiffin,M,"London, England, UK",6/11/1997,Alive,24.0,19.0
+437,Molly Ephraim,F,"Philadelphia, Pennsylvania, USA",22/5/1986,Alive,36.0,23.0
+438,Connie Nielsen,F,"Elling, Frederikshavn, Denmark",3/7/1965,Alive,57.0,62.0
+439,Penn Badgley,M,"Baltimore, Maryland, USA",1/11/1986,Alive,35.0,34.0
+440,Martin Henderson,M,"Auckland, New Zealand",8/10/1974,Alive,47.0,46.0
+441,Elizabeth Cullen,F,"Cairns, Queensland, Australia",31/8/1997,Alive,25.0,6.0
+442,Thora Birch,F,"Los Angeles, California, USA",11/3/1982,Alive,40.0,58.0
+443,Adria Arjona,F,Puerto Rico,25/4/1992,Alive,30.0,26.0
+444,Elizabeth Banks,F,"Pittsfield, Massachusetts, USA",10/2/1974,Alive,48.0,94.0
+445,Sepideh Moafi,F,"Regensburg, Bavaria, West Germany",18/9/1985,Alive,36.0,23.0
+446,Olivia Munn,F,"Oklahoma City, Oklahoma, USA",3/7/1980,Alive,42.0,55.0
+447,Sienna Miller,F,"New York City, New York, USA",28/12/1981,Alive,40.0,46.0
+448,Rachael Harris,F,"Worthington, Ohio, USA",12/1/1968,Alive,54.0,128.0
+449,Kaitlyn Dever,F,"Phoenix, Arizona, USA",21/12/1996,Alive,25.0,37.0
+450,Kate Mara,F,"Bedford, New York, USA",27/2/1983,Alive,39.0,70.0
+451,Brie Larson,F,"Sacramento, California, USA",1/10/1989,Alive,32.0,73.0
+452,Daniel Craig,M,"Chester, Cheshire, England, UK",2/3/1968,Alive,54.0,72.0
+453,Angela Sarafyan,F,"Yerevan, Armenian SSR, USSR [now Armenia]",30/6/1983,Alive,39.0,75.0
+454,Charlie Vickers,M,,,,,5.0
+455,Emma Mackey,F,"Le Mans, France",4/1/1996,Alive,26.0,8.0
+456,Eiza González,F,"Mexico City, Distrito Federal, Mexico",30/1/1990,Alive,32.0,27.0
+457,Ellen Barkin,F,"The Bronx, New York City, New York, USA",16/4/1954,Alive,68.0,70.0
+458,Bill Paterson,M,"Glasgow, Scotland, UK",3/6/1945,Alive,77.0,155.0
+459,Monica Bellucci,F,"Città di Castello, Umbria, Italy",30/9/1964,Alive,57.0,82.0
+460,Eva Green,F,"Paris, France",6/7/1980,Alive,42.0,30.0
+461,Megan Thee Stallion,F,"San Antonio, Texas, USA",15/2/1995,Alive,27.0,56.0
+462,Tessa Thompson,F,"Los Angeles, California, USA",3/10/1983,Alive,38.0,66.0
+463,Sarah Greene,F,"Glanmire, County Cork, Ireland",24/7/1984,Alive,38.0,31.0
+464,Teresa Palmer,F,"Adelaide, South Australia, Australia",26/2/1986,Alive,36.0,36.0
+465,Rose Byrne,F,"Balmain, Sydney, New South Wales, Australia",24/7/1979,Alive,43.0,79.0
+466,Devrim Özkan,F,"Mugla, Turkey",2/9/1998,Alive,24.0,7.0
+467,Jennifer Love Hewitt,F,"Waco, Texas, USA",21/2/1979,Alive,43.0,64.0
+468,Dare Taylor,F,,,,,6.0
+469,Margaret Qualley,F,"Kalispell, Montana, USA",23/10/1994,Alive,27.0,30.0
+470,Ezra Miller,M,"Hoboken, New Jersey, USA",30/9/1992,Alive,29.0,35.0
+471,Christina Hendricks,F,"Knoxville, Tennessee, USA",3/5/1975,Alive,47.0,69.0
+472,Kelly Overton,F,"Wilbraham, Massachusetts, USA",28/8/1978,Alive,44.0,41.0
+473,Jack Black,M,"Hermosa Beach, California, USA",28/8/1969,Alive,53.0,176.0
+474,Annie Murphy,F,"Ottawa, Ontario, Canada",19/12/1986,Alive,35.0,26.0
+475,Ebon Moss-Bachrach,M,"New York, New York, USA",19/3/1977,Alive,45.0,62.0
+476,Edward Norton,M,"Boston, Massachusetts, USA",18/8/1969,Alive,53.0,51.0
+477,Taylor Sheridan,M,"Cranfills Gap, Bosque, Texas, USA",17/7/1969,Alive,53.0,24.0
+478,Steve Howey,M,"San Antonio, Texas, USA",12/7/1977,Alive,45.0,48.0
+479,Trevante Rhodes,M,"Ponchatoula, Louisiana, USA",10/2/1990,Alive,32.0,21.0
+480,David Corenswet,M,"Philadelphia, Pennsylvania, USA",8/7/1993,Alive,29.0,18.0
+481,Vinessa Shaw,F,"Los Angeles, California, USA",19/7/1976,Alive,46.0,52.0
+482,Kate Beckinsale,F,"Finsbury Park, London, England, UK",26/7/1973,Alive,49.0,54.0
+483,Charlie Hunnam,M,"Newcastle upon Tyne, Tyne and Wear, England, UK",10/4/1980,Alive,42.0,30.0
+484,Parker Posey,F,"Baltimore, Maryland, USA",8/11/1968,Alive,53.0,107.0
+485,Benedict Cumberbatch,M,"Hammersmith, London, England, UK",19/7/1976,Alive,46.0,93.0
+486,Gal Gadot,F,"Rosh Ha'ayin, Israel",30/4/1985,Alive,37.0,35.0
+487,Anson Mount,M,"White Bluff, Tennessee, USA",25/2/1973,Alive,49.0,57.0
+488,Bronagh Waugh,F,"Coleraine, Northern Ireland, UK",6/10/1982,Alive,39.0,27.0
+489,Lauren German,F,"Huntington Beach, California, USA",29/11/1978,Alive,43.0,31.0
+490,AnnaSophia Robb,F,"Denver, Colorado, USA",8/12/1993,Alive,28.0,37.0
+491,Stephanie Koenig,F,Michigan,1/9/1987,Alive,35.0,44.0
+492,Zac Efron,M,"San Luis Obispo, California, USA",18/10/1987,Alive,34.0,67.0
+493,Bill Skarsgård,M,"Vällingby, Sweden",9/8/1990,Alive,32.0,42.0
+494,Tom Wlaschiha,M,"Dohna, German Democratic Republic",20/6/1973,Alive,49.0,79.0
