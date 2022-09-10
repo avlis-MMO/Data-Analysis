@@ -1,4 +1,4 @@
 # Data-Analyses
-A compilation of scripts I wrote to learn more about data analyses
 
-Some of the scripts are just pure data scrapping using beautiful soup others are just pure data processing and visualisation using matplotlib and seaborn, and others have both
+Projects I made to implement what I learned about data analyses.
+The projects involve, just cleaning data, data visualization, or scrapping data or a mixture of them, each projet is indentify what was done to the data, and better explanation is on each project readme file.
