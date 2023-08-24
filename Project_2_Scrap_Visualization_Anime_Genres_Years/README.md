@@ -1,6 +1,18 @@
-# Introduction
-This python script will scrap data from the website myanimelist from the last 20+ years to analyse how the tendency of the anime genres change through the years
+# Anime Genre over the yeards
 
+Welcome to the documentation for the **Anime Genre over the yeards** script. This Python script aims to provide users with insights into anime genre tendencies over the yeards. It accomplishes this by creating a dataframe containing information about all animes released in the sice specific year. Additionally, the script generates line graphs to showcase the tendency of each genre over the years.
+
+## Introduction
+
+The **Anime Genre over the yeards** script offers the following functionalities:
+
+1. **Data Retrieval:** Utilizing BeautifulSoup data is extracted from the MyAnimeList website.
+
+2. **Dataframe Creation:** Using Pandas, the script will organize the data and store it in a dataframe.
+
+3. **Genre Visualization:** A line graph to understand the genre tendency over the yeard for each gender is generated.
+
+   
 ## Number of action anime
 ![1](https://github.com/avlis-MMO/Data-Analyses/blob/main/Project_2_Scrap_Visualization_Anime_Genres_Years/images/N_Action.png?raw=true)
 
